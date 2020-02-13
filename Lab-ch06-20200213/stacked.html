@@ -1,0 +1,85 @@
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+  
+  <head>
+    
+      <meta charset="utf-8">
+      <title>Bokeh Plot</title>
+      
+      
+        
+          
+        
+        
+          
+        <script type="text/javascript" src="https://cdn.pydata.org/bokeh/release/bokeh-1.4.0.min.js"></script>
+        <script type="text/javascript">
+            Bokeh.set_log_level("info");
+        </script>
+        
+      
+      
+    
+  </head>
+  
+  
+  <body>
+    
+      
+        
+          
+          
+            
+              <div class="bk-root" id="8b239345-488b-492c-a214-07053729e41b" data-root-id="1001"></div>
+            
+          
+        
+      
+      
+        <script type="application/json" id="1188">
+          {"be5d7c5a-e621-4e63-b065-e68bbb1828f9":{"roots":{"references":[{"attributes":{"data_source":{"id":"1040","type":"ColumnDataSource"},"glyph":{"id":"1042","type":"VBar"},"hover_glyph":null,"muted_glyph":null,"name":"Disapprove","nonselection_glyph":{"id":"1043","type":"VBar"},"selection_glyph":null,"view":{"id":"1045","type":"CDSView"}},"id":"1044","type":"GlyphRenderer"},{"attributes":{},"id":"1013","type":"CategoricalTicker"},{"attributes":{"fields":["Approve","Disapprove"]},"id":"1032","type":"Stack"},{"attributes":{"label":{"value":"Disapprove"},"renderers":[{"id":"1044","type":"GlyphRenderer"}]},"id":"1054","type":"LegendItem"},{"attributes":{"label":{"value":"None"},"renderers":[{"id":"1050","type":"GlyphRenderer"}]},"id":"1055","type":"LegendItem"},{"attributes":{"callback":null,"data":{"Approve":[52,49,48,47,44,43,41,41,40,38,36,31,29],"Disapprove":[38,40,45,42,48,51,53,54,57,59,57,64,62],"Issue":["Race Relations","Education","Terrorism","Energy Policy","Foreign Affairs","Environment","Situation in Iraq","Taxes","Healthcare Policy","Economy","Situation in Afghanistan","Federal Budget Deficit","Immigration"],"None":[10,11,7,11,8,6,6,5,3,3,7,5,9],"index":[0,1,2,3,4,5,6,7,8,9,10,11,12]},"selected":{"id":"1061","type":"Selection"},"selection_policy":{"id":"1062","type":"UnionRenderers"}},"id":"1034","type":"ColumnDataSource"},{"attributes":{"fields":["Approve"]},"id":"1030","type":"Stack"},{"attributes":{"callback":null,"start":0},"id":"1006","type":"DataRange1d"},{"attributes":{"fields":["Approve"]},"id":"1029","type":"Stack"},{"attributes":{},"id":"1066","type":"UnionRenderers"},{"attributes":{"fields":[]},"id":"1028","type":"Stack"},{"attributes":{"text":"Approval ratings for Barack Obama in 2010"},"id":"1002","type":"Title"},{"attributes":{},"id":"1062","type":"UnionRenderers"},{"attributes":{"source":{"id":"1034","type":"ColumnDataSource"}},"id":"1039","type":"CDSView"},{"attributes":{"formatter":{"id":"1057","type":"CategoricalTickFormatter"},"major_label_orientation":1,"minor_tick_line_color":{"value":null},"ticker":{"id":"1013","type":"CategoricalTicker"}},"id":"1012","type":"CategoricalAxis"},{"attributes":{},"id":"1059","type":"BasicTickFormatter"},{"attributes":{},"id":"1010","type":"LinearScale"},{"attributes":{},"id":"1057","type":"CategoricalTickFormatter"},{"attributes":{"callback":null,"factors":["Race Relations","Education","Terrorism","Energy Policy","Foreign Affairs","Environment","Situation in Iraq","Taxes","Healthcare Policy","Economy","Situation in Afghanistan","Federal Budget Deficit","Immigration"],"range_padding":0.1},"id":"1004","type":"FactorRange"},{"attributes":{},"id":"1008","type":"CategoricalScale"},{"attributes":{},"id":"1061","type":"Selection"},{"attributes":{"label":{"value":"Approve"},"renderers":[{"id":"1038","type":"GlyphRenderer"}]},"id":"1053","type":"LegendItem"},{"attributes":{"data_source":{"id":"1046","type":"ColumnDataSource"},"glyph":{"id":"1048","type":"VBar"},"hover_glyph":null,"muted_glyph":null,"name":"None","nonselection_glyph":{"id":"1049","type":"VBar"},"selection_glyph":null,"view":{"id":"1051","type":"CDSView"}},"id":"1050","type":"GlyphRenderer"},{"attributes":{"bottom":{"expr":{"id":"1032","type":"Stack"}},"fill_alpha":{"value":0.1},"fill_color":{"value":"#1f77b4"},"line_alpha":{"value":0.1},"line_color":{"value":"#1f77b4"},"top":{"expr":{"id":"1033","type":"Stack"}},"width":{"value":0.9},"x":{"field":"Issue"}},"id":"1049","type":"VBar"},{"attributes":{"grid_line_color":null,"ticker":{"id":"1013","type":"CategoricalTicker"}},"id":"1015","type":"Grid"},{"attributes":{"bottom":{"expr":{"id":"1032","type":"Stack"}},"fill_color":{"value":"#bdbdbd"},"line_color":{"value":"#bdbdbd"},"top":{"expr":{"id":"1033","type":"Stack"}},"width":{"value":0.9},"x":{"field":"Issue"}},"id":"1048","type":"VBar"},{"attributes":{"dimension":1,"ticker":{"id":"1017","type":"BasicTicker"}},"id":"1020","type":"Grid"},{"attributes":{},"id":"1064","type":"UnionRenderers"},{"attributes":{"axis_label":"year","formatter":{"id":"1059","type":"BasicTickFormatter"},"minor_tick_line_color":{"value":null},"ticker":{"id":"1017","type":"BasicTicker"}},"id":"1016","type":"LinearAxis"},{"attributes":{},"id":"1017","type":"BasicTicker"},{"attributes":{},"id":"1063","type":"Selection"},{"attributes":{"callback":null,"tooltips":"$name: @$name"},"id":"1021","type":"HoverTool"},{"attributes":{"bottom":{"expr":{"id":"1030","type":"Stack"}},"fill_color":{"value":"#e84d60"},"line_color":{"value":"#e84d60"},"top":{"expr":{"id":"1031","type":"Stack"}},"width":{"value":0.9},"x":{"field":"Issue"}},"id":"1042","type":"VBar"},{"attributes":{"data_source":{"id":"1034","type":"ColumnDataSource"},"glyph":{"id":"1036","type":"VBar"},"hover_glyph":null,"muted_glyph":null,"name":"Approve","nonselection_glyph":{"id":"1037","type":"VBar"},"selection_glyph":null,"view":{"id":"1039","type":"CDSView"}},"id":"1038","type":"GlyphRenderer"},{"attributes":{},"id":"1023","type":"SaveTool"},{"attributes":{"callback":null},"id":"1022","type":"TapTool"},{"attributes":{"fields":["Approve","Disapprove","None"]},"id":"1033","type":"Stack"},{"attributes":{"items":[{"id":"1053","type":"LegendItem"},{"id":"1054","type":"LegendItem"},{"id":"1055","type":"LegendItem"}],"location":[0,100]},"id":"1052","type":"Legend"},{"attributes":{"active_drag":"auto","active_inspect":"auto","active_multi":null,"active_scroll":"auto","active_tap":"auto","tools":[{"id":"1021","type":"HoverTool"},{"id":"1022","type":"TapTool"},{"id":"1023","type":"SaveTool"}]},"id":"1024","type":"Toolbar"},{"attributes":{"source":{"id":"1040","type":"ColumnDataSource"}},"id":"1045","type":"CDSView"},{"attributes":{"fields":["Approve","Disapprove"]},"id":"1031","type":"Stack"},{"attributes":{"bottom":{"expr":{"id":"1030","type":"Stack"}},"fill_alpha":{"value":0.1},"fill_color":{"value":"#1f77b4"},"line_alpha":{"value":0.1},"line_color":{"value":"#1f77b4"},"top":{"expr":{"id":"1031","type":"Stack"}},"width":{"value":0.9},"x":{"field":"Issue"}},"id":"1043","type":"VBar"},{"attributes":{"source":{"id":"1046","type":"ColumnDataSource"}},"id":"1051","type":"CDSView"},{"attributes":{"callback":null,"data":{"Approve":[52,49,48,47,44,43,41,41,40,38,36,31,29],"Disapprove":[38,40,45,42,48,51,53,54,57,59,57,64,62],"Issue":["Race Relations","Education","Terrorism","Energy Policy","Foreign Affairs","Environment","Situation in Iraq","Taxes","Healthcare Policy","Economy","Situation in Afghanistan","Federal Budget Deficit","Immigration"],"None":[10,11,7,11,8,6,6,5,3,3,7,5,9],"index":[0,1,2,3,4,5,6,7,8,9,10,11,12]},"selected":{"id":"1065","type":"Selection"},"selection_policy":{"id":"1066","type":"UnionRenderers"}},"id":"1046","type":"ColumnDataSource"},{"attributes":{"callback":null,"data":{"Approve":[52,49,48,47,44,43,41,41,40,38,36,31,29],"Disapprove":[38,40,45,42,48,51,53,54,57,59,57,64,62],"Issue":["Race Relations","Education","Terrorism","Energy Policy","Foreign Affairs","Environment","Situation in Iraq","Taxes","Healthcare Policy","Economy","Situation in Afghanistan","Federal Budget Deficit","Immigration"],"None":[10,11,7,11,8,6,6,5,3,3,7,5,9],"index":[0,1,2,3,4,5,6,7,8,9,10,11,12]},"selected":{"id":"1063","type":"Selection"},"selection_policy":{"id":"1064","type":"UnionRenderers"}},"id":"1040","type":"ColumnDataSource"},{"attributes":{"bottom":{"expr":{"id":"1028","type":"Stack"}},"fill_alpha":{"value":0.1},"fill_color":{"value":"#1f77b4"},"line_alpha":{"value":0.1},"line_color":{"value":"#1f77b4"},"top":{"expr":{"id":"1029","type":"Stack"}},"width":{"value":0.9},"x":{"field":"Issue"}},"id":"1037","type":"VBar"},{"attributes":{"below":[{"id":"1012","type":"CategoricalAxis"}],"center":[{"id":"1015","type":"Grid"},{"id":"1020","type":"Grid"}],"left":[{"id":"1016","type":"LinearAxis"}],"outline_line_color":{"value":null},"plot_height":350,"renderers":[{"id":"1038","type":"GlyphRenderer"},{"id":"1044","type":"GlyphRenderer"},{"id":"1050","type":"GlyphRenderer"}],"right":[{"id":"1052","type":"Legend"}],"title":{"id":"1002","type":"Title"},"toolbar":{"id":"1024","type":"Toolbar"},"x_range":{"id":"1004","type":"FactorRange"},"x_scale":{"id":"1008","type":"CategoricalScale"},"y_range":{"id":"1006","type":"DataRange1d"},"y_scale":{"id":"1010","type":"LinearScale"}},"id":"1001","subtype":"Figure","type":"Plot"},{"attributes":{"bottom":{"expr":{"id":"1028","type":"Stack"}},"fill_color":{"value":"#66c2a5"},"line_color":{"value":"#66c2a5"},"top":{"expr":{"id":"1029","type":"Stack"}},"width":{"value":0.9},"x":{"field":"Issue"}},"id":"1036","type":"VBar"},{"attributes":{},"id":"1065","type":"Selection"}],"root_ids":["1001"]},"title":"Bokeh Application","version":"1.4.0"}}
+        </script>
+        <script type="text/javascript">
+          (function() {
+            var fn = function() {
+              Bokeh.safely(function() {
+                (function(root) {
+                  function embed_document(root) {
+                    
+                  var docs_json = document.getElementById('1188').textContent;
+                  var render_items = [{"docid":"be5d7c5a-e621-4e63-b065-e68bbb1828f9","roots":{"1001":"8b239345-488b-492c-a214-07053729e41b"}}];
+                  root.Bokeh.embed.embed_items(docs_json, render_items);
+                
+                  }
+                  if (root.Bokeh !== undefined) {
+                    embed_document(root);
+                  } else {
+                    var attempts = 0;
+                    var timer = setInterval(function(root) {
+                      if (root.Bokeh !== undefined) {
+                        clearInterval(timer);
+                        embed_document(root);
+                      } else {
+                        attempts++;
+                        if (attempts > 100) {
+                          clearInterval(timer);
+                          console.log("Bokeh: ERROR: Unable to run BokehJS code because BokehJS library is missing");
+                        }
+                      }
+                    }, 10, root)
+                  }
+                })(window);
+              });
+            };
+            if (document.readyState != "loading") fn();
+            else document.addEventListener("DOMContentLoaded", fn);
+          })();
+        </script>
+    
+  </body>
+  
+</html>
