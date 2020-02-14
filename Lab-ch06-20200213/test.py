@@ -6,19 +6,23 @@ import pandas
 
 read_data = pandas.read_csv(open('data/us-population-by-age.csv', 'r'), delimiter=",")
 
-year = read_data['Year'].values
-age = ['Under 5', '5 to 19', '20 to 44','45 to 64','65+']
+issue = read_data['Year'].values
+vote = ['Under 5', '5 to 19', '20 to 44','45 to 64','65+']
 colors = ["#66c2a5", "#e84d60", "#bdbdbd","#EA340D","#68CC74"]
+yearlist = []
+for i in range(len(issue)):
+    yearlist.insert(i, str(issue[i]))
+    print(i, issue[i])
 
-output_file("uspop.html")
+output_file("stacked.html")
 
-p = figure(x_range=year, height=350, title="US Population Age for each year",
+p = figure(x_range=yearlist, height=350, title="Approval ratings for Barack Obama in 2010",
            toolbar_location="right", tools="hover,tap, save", tooltips="$name: @$name")
 
-v = p.vbar_stack(age, x='Year', width=0.9, color=colors, source=read_data)
+v = p.vbar_stack(vote, x='Year', width=0.9, color=colors, source=read_data)
 
 p.y_range.start = 0
-p.yaxis[0].axis_label = 'Rating (%)'
+p.yaxis[0].axis_label = 'Percentage (%)'
 p.x_range.range_padding = 0.1
 p.xaxis.major_label_orientation = 1
 p.xgrid.grid_line_color = None
@@ -28,11 +32,9 @@ p.outline_line_color = None
 # p.legend.orientation = "vertical"
 
 legend = Legend(items=[
-    ("Under 5", [v[0]]),
-    ("5 to 19", [v[1]]),
-    ("20 to 44", [v[2]]),
-    ("45 to 64", [v[3]]),
-    ("65+", [v[4]]),
+    ("Approve", [v[0]]),
+    ("Disapprove", [v[1]]),
+    ("None", [v[2]]),
     ], location=(0, 100))
 
 p.add_layout(legend, 'right')
