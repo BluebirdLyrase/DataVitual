@@ -4,21 +4,25 @@ from bokeh.plotting import figure
 from bokeh.models import Legend
 import pandas
 
-read_data = pandas.read_csv(open('C:/Users/pisit/Documents/GitHub/DataVitual/Lab-ch06-20200213/data/obama-approval-ratings.csv', 'r'), delimiter=",")
+read_data = pandas.read_csv(open('data/us-population-by-age.csv', 'r'), delimiter=",")
 
-issue = read_data['Issue'].values
-vote = ['Approve', 'Disapprove', 'None']
-colors = ["#66c2a5", "#e84d60", "#bdbdbd"]
+issue = read_data['Year'].values
+vote = ['Under 5', '5 to 19', '20 to 44','45 to 64','65+']
+colors = ["#66c2a5", "#e84d60", "#bdbdbd","#EA340D","#68CC74"]
+yearlist = []
+for i in range(len(issue)):
+    yearlist.insert(i, str(issue[i]))
+    print(i, issue[i])
 
 output_file("stacked.html")
 
-p = figure(x_range=issue, height=350, title="Approval ratings for Barack Obama in 2010",
+p = figure(x_range=yearlist, height=350, title="Approval ratings for Barack Obama in 2010",
            toolbar_location="right", tools="hover,tap, save", tooltips="$name: @$name")
 
-v = p.vbar_stack(vote, x='Issue', width=0.9, color=colors, source=read_data)
+v = p.vbar_stack(vote, x='Year', width=0.9, color=colors, source=read_data)
 
 p.y_range.start = 0
-p.yaxis[0].axis_label = 'Rating (%)'
+p.yaxis[0].axis_label = 'Percentage (%)'
 p.x_range.range_padding = 0.1
 p.xaxis.major_label_orientation = 1
 p.xgrid.grid_line_color = None

@@ -4,18 +4,14 @@ from bokeh.plotting import figure
 from bokeh.models import Legend
 import pandas
 
-read_data = pandas.read_csv(open('data/us-population-by-age-moded.csv', 'r'), delimiter=",")
+read_data = pandas.read_csv(open('Lab-ch06-20200213/data/us-population-by-age.csv', 'r'), delimiter=",")
 
-year = read_data['Year'].values
-# yearlist = []
-# for i in range(len(year)):
-#     yearlist.insert(i, str(year[i]))
-#     print(i, year[i])
+year = read_data['Year'] = list(map(str, read_data['Year']))
 
 age = ['Under 5', '5 to 19', '20 to 44','45 to 64','65+']
-colors = ["#66c2a5", "#e84d60", "#bdbdbd","#bdbdbd","#68CC74"]
+colors = ["#D6DBDF", "#85C1E9", "#2980B9","#45B39D","#68CC74"]
 
-output_file("uspop-moded.html")
+output_file("Lab-ch06-20200213/uspop.html")
 
 p = figure(x_range=year, height=350, title="US Population Age for each year",
            toolbar_location="right", tools="hover,tap, save", tooltips="$name: @$name")
