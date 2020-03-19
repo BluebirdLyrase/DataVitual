@@ -1,0 +1,3141 @@
+LAUS_CODE	STATE_FIPS	COUNTY_FIPS	COUNTY	MONTH	RATE	region
+CN010010	1	1	"Autauga County, AL"	Aug-10(p)	8.1	alabama
+PA011000	1	3	"Baldwin County, AL"	Aug-10(p)	8.2	alabama
+CN010050	1	5	"Barbour County, AL"	Aug-10(p)	11.6	alabama
+CN010070	1	7	"Bibb County, AL"	Aug-10(p)	10.1	alabama
+CN010090	1	9	"Blount County, AL"	Aug-10(p)	8.3	alabama
+CN010110	1	11	"Bullock County, AL"	Aug-10(p)	15	alabama
+CN010130	1	13	"Butler County, AL"	Aug-10(p)	12.2	alabama
+PA010250	1	15	"Calhoun County, AL"	Aug-10(p)	9.1	alabama
+CN010170	1	17	"Chambers County, AL"	Aug-10(p)	13.6	alabama
+CN010190	1	19	"Cherokee County, AL"	Aug-10(p)	8.8	alabama
+CN010210	1	21	"Chilton County, AL"	Aug-10(p)	9.4	alabama
+CN010230	1	23	"Choctaw County, AL"	Aug-10(p)	11.1	alabama
+CN010250	1	25	"Clarke County, AL"	Aug-10(p)	15.8	alabama
+CN010270	1	27	"Clay County, AL"	Aug-10(p)	13.3	alabama
+CN010290	1	29	"Cleburne County, AL"	Aug-10(p)	8.4	alabama
+CN010310	1	31	"Coffee County, AL"	Aug-10(p)	7.3	alabama
+PA010900	1	33	"Colbert County, AL"	Aug-10(p)	9.2	alabama
+CN010350	1	35	"Conecuh County, AL"	Aug-10(p)	15.4	alabama
+CN010370	1	37	"Coosa County, AL"	Aug-10(p)	12.2	alabama
+CN010390	1	39	"Covington County, AL"	Aug-10(p)	8.7	alabama
+CN010410	1	41	"Crenshaw County, AL"	Aug-10(p)	8.7	alabama
+PA010400	1	43	"Cullman County, AL"	Aug-10(p)	8.6	alabama
+PA010450	1	45	"Dale County, AL"	Aug-10(p)	7.8	alabama
+PA010500	1	47	"Dallas County, AL"	Aug-10(p)	17.8	alabama
+PA010270	1	49	"DeKalb County, AL"	Aug-10(p)	11.1	alabama
+CN010510	1	51	"Elmore County, AL"	Aug-10(p)	8.3	alabama
+CN010530	1	53	"Escambia County, AL"	Aug-10(p)	10.9	alabama
+PS010010	1	55	"Etowah County, AL"	Aug-10(p)	9.2	alabama
+CN010570	1	57	"Fayette County, AL"	Aug-10(p)	11.4	alabama
+CN010590	1	59	"Franklin County, AL"	Aug-10(p)	9.7	alabama
+CN010610	1	61	"Geneva County, AL"	Aug-10(p)	8.8	alabama
+CN010630	1	63	"Greene County, AL"	Aug-10(p)	18.8	alabama
+CN010650	1	65	"Hale County, AL"	Aug-10(p)	11.3	alabama
+CN010670	1	67	"Henry County, AL"	Aug-10(p)	9.3	alabama
+PA010550	1	69	"Houston County, AL"	Aug-10(p)	7.9	alabama
+PA010570	1	71	"Jackson County, AL"	Aug-10(p)	9.5	alabama
+PS010050	1	73	"Jefferson County, AL"	Aug-10(p)	9.4	alabama
+CN010750	1	75	"Lamar County, AL"	Aug-10(p)	13.1	alabama
+PA010600	1	77	"Lauderdale County, AL"	Aug-10(p)	8.6	alabama
+CN010790	1	79	"Lawrence County, AL"	Aug-10(p)	9.9	alabama
+PA010650	1	81	"Lee County, AL"	Aug-10(p)	7.8	alabama
+CN010830	1	83	"Limestone County, AL"	Aug-10(p)	7.4	alabama
+CN010850	1	85	"Lowndes County, AL"	Aug-10(p)	15.5	alabama
+CN010870	1	87	"Macon County, AL"	Aug-10(p)	11.7	alabama
+CN010890	1	89	"Madison County, AL"	Aug-10(p)	7.1	alabama
+CN010910	1	91	"Marengo County, AL"	Aug-10(p)	12.5	alabama
+CN010930	1	93	"Marion County, AL"	Aug-10(p)	13.1	alabama
+PA010700	1	95	"Marshall County, AL"	Aug-10(p)	8.2	alabama
+CN010970	1	97	"Mobile County, AL"	Aug-10(p)	10.2	alabama
+CN010990	1	99	"Monroe County, AL"	Aug-10(p)	16.2	alabama
+CN011010	1	101	"Montgomery County, AL"	Aug-10(p)	9.2	alabama
+PA010750	1	103	"Morgan County, AL"	Aug-10(p)	9.3	alabama
+CN011050	1	105	"Perry County, AL"	Aug-10(p)	16	alabama
+CN011070	1	107	"Pickens County, AL"	Aug-10(p)	11.4	alabama
+CN011090	1	109	"Pike County, AL"	Aug-10(p)	7.5	alabama
+CN011110	1	111	"Randolph County, AL"	Aug-10(p)	12.4	alabama
+CN011130	1	113	"Russell County, AL"	Aug-10(p)	10.7	alabama
+CN011150	1	115	"St. Clair County, AL"	Aug-10(p)	9	alabama
+PA011100	1	117	"Shelby County, AL"	Aug-10(p)	6.8	alabama
+CN011190	1	119	"Sumter County, AL"	Aug-10(p)	14.7	alabama
+PA010800	1	121	"Talladega County, AL"	Aug-10(p)	11.4	alabama
+CN011230	1	123	"Tallapoosa County, AL"	Aug-10(p)	12.2	alabama
+PS010220	1	125	"Tuscaloosa County, AL"	Aug-10(p)	7.6	alabama
+PA010850	1	127	"Walker County, AL"	Aug-10(p)	10.3	alabama
+CN011290	1	129	"Washington County, AL"	Aug-10(p)	13.8	alabama
+CN011310	1	131	"Wilcox County, AL"	Aug-10(p)	21.3	alabama
+CN011330	1	133	"Winston County, AL"	Aug-10(p)	14.3	alabama
+CN020130	2	13	"Aleutians East Borough, AK"	Aug-10(p)	6.2	alaska
+CN020100	2	16	"Aleutians West Census Area, AK"	Aug-10(p)	4.9	alaska
+CN020200	2	20	"Anchorage Borough/municipality, AK"	Aug-10(p)	6.6	alaska
+CN020500	2	50	"Bethel Census Area, AK"	Aug-10(p)	15.1	alaska
+CN020600	2	60	"Bristol Bay Borough, AK"	Aug-10(p)	1.8	alaska
+CN020680	2	68	"Denali Borough, AK"	Aug-10(p)	3.3	alaska
+CN020700	2	70	"Dillingham Census Area, AK"	Aug-10(p)	7.2	alaska
+CN020900	2	90	"Fairbanks North Star Borough, AK"	Aug-10(p)	6.3	alaska
+CN021000	2	100	"Haines Borough, AK"	Aug-10(p)	4.3	alaska
+CN021050	2	105	"Hoonah-Angoon Census Area, AK"	Aug-10(p)	9.2	alaska
+CN021100	2	110	"Juneau Borough/city, AK"	Aug-10(p)	5.5	alaska
+CN021220	2	122	"Kenai Peninsula Borough, AK"	Aug-10(p)	8.3	alaska
+CN021300	2	130	"Ketchikan Gateway Borough, AK"	Aug-10(p)	5.5	alaska
+CN021500	2	150	"Kodiak Island Borough, AK"	Aug-10(p)	5.8	alaska
+CN021640	2	164	"Lake and Peninsula Borough, AK"	Aug-10(p)	6.2	alaska
+CN021700	2	170	"Matanuska-Susitna Borough, AK"	Aug-10(p)	7.8	alaska
+CN021800	2	180	"Nome Census Area, AK"	Aug-10(p)	14.1	alaska
+CN021850	2	185	"North Slope Borough, AK"	Aug-10(p)	5.5	alaska
+CN021880	2	188	"Northwest Arctic Borough, AK"	Aug-10(p)	13.3	alaska
+CN022010	2	201	"Prince of Wales-Outer Ketchikan Census Area, AK"	Aug-10(p)	13.1	alaska
+CN022200	2	220	"Sitka Borough/city, AK"	Aug-10(p)	5.2	alaska
+CN022300	2	230	"Skagway Borough/municipality, AK"	Aug-10(p)	2.7	alaska
+CN022400	2	240	"Southeast Fairbanks Census Area, AK"	Aug-10(p)	8.7	alaska
+CN022610	2	261	"Valdez-Cordova Census Area, AK"	Aug-10(p)	5.5	alaska
+CN022700	2	270	"Wade Hampton Census Area, AK"	Aug-10(p)	21	alaska
+CN022800	2	280	"Wrangell-Petersburg Census Area, AK"	Aug-10(p)	6.7	alaska
+CN022820	2	282	"Yakutat Borough/city, AK"	Aug-10(p)	7.7	alaska
+CN022900	2	290	"Yukon-Koyukuk Census Area, AK"	Aug-10(p)	13.4	alaska
+PA040800	4	1	"Apache County, AZ"	Aug-10(p)	16.3	arizona
+PA040400	4	3	"Cochise County, AZ"	Aug-10(p)	8.4	arizona
+PA040600	4	5	"Coconino County, AZ"	Aug-10(p)	8.1	arizona
+CN040070	4	7	"Gila County, AZ"	Aug-10(p)	10.8	arizona
+CN040090	4	9	"Graham County, AZ"	Aug-10(p)	13	arizona
+CN040110	4	11	"Greenlee County, AZ"	Aug-10(p)	10.5	arizona
+CN040120	4	12	"La Paz County, AZ"	Aug-10(p)	10.2	arizona
+CN040130	4	13	"Maricopa County, AZ"	Aug-10(p)	8.9	arizona
+PA040900	4	15	"Mohave County, AZ"	Aug-10(p)	11.1	arizona
+PA040550	4	17	"Navajo County, AZ"	Aug-10(p)	15.6	arizona
+CN040190	4	19	"Pima County, AZ"	Aug-10(p)	9	arizona
+PA040450	4	21	"Pinal County, AZ"	Aug-10(p)	12.2	arizona
+CN040230	4	23	"Santa Cruz County, AZ"	Aug-10(p)	18.5	arizona
+PA040700	4	25	"Yavapai County, AZ"	Aug-10(p)	10.1	arizona
+PA040500	4	27	"Yuma County, AZ"	Aug-10(p)	30.2	arizona
+CN050010	5	1	"Arkansas County, AR"	Aug-10(p)	14.9	arkansas
+CN050030	5	3	"Ashley County, AR"	Aug-10(p)	9.7	arkansas
+CN050050	5	5	"Baxter County, AR"	Aug-10(p)	8.5	arkansas
+PA050250	5	7	"Benton County, AR"	Aug-10(p)	6.5	arkansas
+CN050090	5	9	"Boone County, AR"	Aug-10(p)	7	arkansas
+CN050110	5	11	"Bradley County, AR"	Aug-10(p)	8.7	arkansas
+CN050130	5	13	"Calhoun County, AR"	Aug-10(p)	7	arkansas
+CN050150	5	15	"Carroll County, AR"	Aug-10(p)	5.7	arkansas
+CN050170	5	17	"Chicot County, AR"	Aug-10(p)	9.9	arkansas
+CN050190	5	19	"Clark County, AR"	Aug-10(p)	8.9	arkansas
+CN050210	5	21	"Clay County, AR"	Aug-10(p)	10.7	arkansas
+CN050230	5	23	"Cleburne County, AR"	Aug-10(p)	6.6	arkansas
+CN050250	5	25	"Cleveland County, AR"	Aug-10(p)	6.9	arkansas
+CN050270	5	27	"Columbia County, AR"	Aug-10(p)	9.9	arkansas
+CN050290	5	29	"Conway County, AR"	Aug-10(p)	7.9	arkansas
+PA050300	5	31	"Craighead County, AR"	Aug-10(p)	7	arkansas
+CN050330	5	33	"Crawford County, AR"	Aug-10(p)	7.5	arkansas
+PA050700	5	35	"Crittenden County, AR"	Aug-10(p)	9.8	arkansas
+CN050370	5	37	"Cross County, AR"	Aug-10(p)	7.9	arkansas
+CN050390	5	39	"Dallas County, AR"	Aug-10(p)	10.6	arkansas
+CN050410	5	41	"Desha County, AR"	Aug-10(p)	10.6	arkansas
+CN050430	5	43	"Drew County, AR"	Aug-10(p)	10.3	arkansas
+CN050450	5	45	"Faulkner County, AR"	Aug-10(p)	7.3	arkansas
+CN050470	5	47	"Franklin County, AR"	Aug-10(p)	6.3	arkansas
+CN050490	5	49	"Fulton County, AR"	Aug-10(p)	7.1	arkansas
+PA050400	5	51	"Garland County, AR"	Aug-10(p)	7.9	arkansas
+CN050530	5	53	"Grant County, AR"	Aug-10(p)	6.8	arkansas
+CN050550	5	55	"Greene County, AR"	Aug-10(p)	9.4	arkansas
+CN050570	5	57	"Hempstead County, AR"	Aug-10(p)	8.9	arkansas
+CN050590	5	59	"Hot Spring County, AR"	Aug-10(p)	7.3	arkansas
+CN050610	5	61	"Howard County, AR"	Aug-10(p)	7.9	arkansas
+CN050630	5	63	"Independence County, AR"	Aug-10(p)	8	arkansas
+CN050650	5	65	"Izard County, AR"	Aug-10(p)	9	arkansas
+CN050670	5	67	"Jackson County, AR"	Aug-10(p)	10.1	arkansas
+CN050690	5	69	"Jefferson County, AR"	Aug-10(p)	10.1	arkansas
+CN050710	5	71	"Johnson County, AR"	Aug-10(p)	7.5	arkansas
+CN050730	5	73	"Lafayette County, AR"	Aug-10(p)	9.7	arkansas
+CN050750	5	75	"Lawrence County, AR"	Aug-10(p)	9.5	arkansas
+CN050770	5	77	"Lee County, AR"	Aug-10(p)	9.2	arkansas
+CN050790	5	79	"Lincoln County, AR"	Aug-10(p)	9.2	arkansas
+CN050810	5	81	"Little River County, AR"	Aug-10(p)	7	arkansas
+CN050830	5	83	"Logan County, AR"	Aug-10(p)	7.6	arkansas
+CN050850	5	85	"Lonoke County, AR"	Aug-10(p)	6.8	arkansas
+CN050870	5	87	"Madison County, AR"	Aug-10(p)	6.2	arkansas
+CN050890	5	89	"Marion County, AR"	Aug-10(p)	9.9	arkansas
+CN050910	5	91	"Miller County, AR"	Aug-10(p)	5.5	arkansas
+PA050500	5	93	"Mississippi County, AR"	Aug-10(p)	11.1	arkansas
+CN050950	5	95	"Monroe County, AR"	Aug-10(p)	8	arkansas
+CN050970	5	97	"Montgomery County, AR"	Aug-10(p)	6.9	arkansas
+CN050990	5	99	"Nevada County, AR"	Aug-10(p)	8.2	arkansas
+CN051010	5	101	"Newton County, AR"	Aug-10(p)	6.8	arkansas
+CN051030	5	103	"Ouachita County, AR"	Aug-10(p)	8.6	arkansas
+CN051050	5	105	"Perry County, AR"	Aug-10(p)	7.3	arkansas
+CN051070	5	107	"Phillips County, AR"	Aug-10(p)	9.8	arkansas
+CN051090	5	109	"Pike County, AR"	Aug-10(p)	7.3	arkansas
+CN051110	5	111	"Poinsett County, AR"	Aug-10(p)	8.2	arkansas
+CN051130	5	113	"Polk County, AR"	Aug-10(p)	7.4	arkansas
+CN051150	5	115	"Pope County, AR"	Aug-10(p)	7.7	arkansas
+CN051170	5	117	"Prairie County, AR"	Aug-10(p)	7.7	arkansas
+CN051190	5	119	"Pulaski County, AR"	Aug-10(p)	7.2	arkansas
+CN051210	5	121	"Randolph County, AR"	Aug-10(p)	9.1	arkansas
+CN051230	5	123	"St. Francis County, AR"	Aug-10(p)	9.7	arkansas
+PA050800	5	125	"Saline County, AR"	Aug-10(p)	6.9	arkansas
+CN051270	5	127	"Scott County, AR"	Aug-10(p)	6.7	arkansas
+CN051290	5	129	"Searcy County, AR"	Aug-10(p)	7.7	arkansas
+CN051310	5	131	"Sebastian County, AR"	Aug-10(p)	6.6	arkansas
+CN051330	5	133	"Sevier County, AR"	Aug-10(p)	6.2	arkansas
+CN051350	5	135	"Sharp County, AR"	Aug-10(p)	9.6	arkansas
+CN051370	5	137	"Stone County, AR"	Aug-10(p)	8.3	arkansas
+CN051390	5	139	"Union County, AR"	Aug-10(p)	9.5	arkansas
+CN051410	5	141	"Van Buren County, AR"	Aug-10(p)	9.5	arkansas
+CN051430	5	143	"Washington County, AR"	Aug-10(p)	6.2	arkansas
+PA050900	5	145	"White County, AR"	Aug-10(p)	7.9	arkansas
+CN051470	5	147	"Woodruff County, AR"	Aug-10(p)	8.9	arkansas
+CN051490	5	149	"Yell County, AR"	Aug-10(p)	6.5	arkansas
+CN060010	6	1	"Alameda County, CA"	Aug-10(p)	11.7	california
+CN060030	6	3	"Alpine County, CA"	Aug-10(p)	15.6	california
+CN060050	6	5	"Amador County, CA"	Aug-10(p)	12.7	california
+PS060150	6	7	"Butte County, CA"	Aug-10(p)	13.8	california
+CN060090	6	9	"Calaveras County, CA"	Aug-10(p)	15.4	california
+CN060110	6	11	"Colusa County, CA"	Aug-10(p)	16.2	california
+CN060130	6	13	"Contra Costa County, CA"	Aug-10(p)	11.3	california
+CN060150	6	15	"Del Norte County, CA"	Aug-10(p)	13.6	california
+PA063750	6	17	"El Dorado County, CA"	Aug-10(p)	11.9	california
+CN060190	6	19	"Fresno County, CA"	Aug-10(p)	15.4	california
+CN060210	6	21	"Glenn County, CA"	Aug-10(p)	17	california
+PS060300	6	23	"Humboldt County, CA"	Aug-10(p)	11	california
+PS060350	6	25	"Imperial County, CA"	Aug-10(p)	30.4	california
+CN060270	6	27	"Inyo County, CA"	Aug-10(p)	9.4	california
+PS060400	6	29	"Kern County, CA"	Aug-10(p)	15.3	california
+PA062730	6	31	"Kings County, CA"	Aug-10(p)	14.8	california
+CN060330	6	33	"Lake County, CA"	Aug-10(p)	16.8	california
+CN060350	6	35	"Lassen County, CA"	Aug-10(p)	13.6	california
+CN060370	6	37	"Los Angeles County, CA"	Aug-10(p)	12.9	california
+PA064200	6	39	"Madera County, CA"	Aug-10(p)	14.3	california
+PS060550	6	41	"Marin County, CA"	Aug-10(p)	8.4	california
+CN060430	6	43	"Mariposa County, CA"	Aug-10(p)	9.7	california
+PA063550	6	45	"Mendocino County, CA"	Aug-10(p)	10.8	california
+PS060600	6	47	"Merced County, CA"	Aug-10(p)	17.4	california
+CN060490	6	49	"Modoc County, CA"	Aug-10(p)	13.7	california
+CN060510	6	51	"Mono County, CA"	Aug-10(p)	10.2	california
+PS060620	6	53	"Monterey County, CA"	Aug-10(p)	10.5	california
+PA063600	6	55	"Napa County, CA"	Aug-10(p)	9.4	california
+PA065000	6	57	"Nevada County, CA"	Aug-10(p)	11.3	california
+PS060670	6	59	"Orange County, CA"	Aug-10(p)	9.6	california
+PS061500	6	61	"Placer County, CA"	Aug-10(p)	11.5	california
+CN060630	6	63	"Plumas County, CA"	Aug-10(p)	15.7	california
+CN060650	6	65	"Riverside County, CA"	Aug-10(p)	15.3	california
+PS061350	6	67	"Sacramento County, CA"	Aug-10(p)	12.8	california
+CN060690	6	69	"San Benito County, CA"	Aug-10(p)	14.8	california
+CN060710	6	71	"San Bernardino County, CA"	Aug-10(p)	14.2	california
+PS060850	6	73	"San Diego County, CA"	Aug-10(p)	10.6	california
+PS060900	6	75	"San Francisco County/city, CA"	Aug-10(p)	9.7	california
+PS061080	6	77	"San Joaquin County, CA"	Aug-10(p)	16.6	california
+CN060790	6	79	"San Luis Obispo County, CA"	Aug-10(p)	10.3	california
+PS061000	6	81	"San Mateo County, CA"	Aug-10(p)	9.1	california
+PS061010	6	83	"Santa Barbara County, CA"	Aug-10(p)	8.9	california
+CN060850	6	85	"Santa Clara County, CA"	Aug-10(p)	11.1	california
+PS061030	6	87	"Santa Cruz County, CA"	Aug-10(p)	11	california
+PS061450	6	89	"Shasta County, CA"	Aug-10(p)	15	california
+CN060910	6	91	"Sierra County, CA"	Aug-10(p)	12.6	california
+CN060930	6	93	"Siskiyou County, CA"	Aug-10(p)	15.4	california
+PS061050	6	95	"Solano County, CA"	Aug-10(p)	12	california
+PS061060	6	97	"Sonoma County, CA"	Aug-10(p)	10.5	california
+PS061070	6	99	"Stanislaus County, CA"	Aug-10(p)	16.4	california
+PA065100	6	101	"Sutter County, CA"	Aug-10(p)	16.7	california
+CN061030	6	103	"Tehama County, CA"	Aug-10(p)	15.2	california
+CN061050	6	105	"Trinity County, CA"	Aug-10(p)	16.9	california
+PS061210	6	107	"Tulare County, CA"	Aug-10(p)	15.9	california
+CN061090	6	109	"Tuolumne County, CA"	Aug-10(p)	13.2	california
+PS061220	6	111	"Ventura County, CA"	Aug-10(p)	11.2	california
+CN061130	6	113	"Yolo County, CA"	Aug-10(p)	11.6	california
+CN061150	6	115	"Yuba County, CA"	Aug-10(p)	18.9	california
+CN080010	8	1	"Adams County, CO"	Aug-10(p)	9.1	colorado
+CN080030	8	3	"Alamosa County, CO"	Aug-10(p)	7	colorado
+PS080100	8	5	"Arapahoe County, CO"	Aug-10(p)	8.1	colorado
+CN080070	8	7	"Archuleta County, CO"	Aug-10(p)	8.8	colorado
+CN080090	8	9	"Baca County, CO"	Aug-10(p)	3.9	colorado
+CN080110	8	11	"Bent County, CO"	Aug-10(p)	7.3	colorado
+CN080130	8	13	"Boulder County, CO"	Aug-10(p)	6.4	colorado
+CN080140	8	14	"Broomfield County/city, CO"	Aug-10(p)	7.1	colorado
+CN080150	8	15	"Chaffee County, CO"	Aug-10(p)	6.5	colorado
+CN080170	8	17	"Cheyenne County, CO"	Aug-10(p)	3	colorado
+CN080190	8	19	"Clear Creek County, CO"	Aug-10(p)	7.9	colorado
+CN080210	8	21	"Conejos County, CO"	Aug-10(p)	8.3	colorado
+CN080230	8	23	"Costilla County, CO"	Aug-10(p)	11.8	colorado
+CN080250	8	25	"Crowley County, CO"	Aug-10(p)	8.7	colorado
+CN080270	8	27	"Custer County, CO"	Aug-10(p)	5.7	colorado
+CN080290	8	29	"Delta County, CO"	Aug-10(p)	8.4	colorado
+PS080250	8	31	"Denver County/city, CO"	Aug-10(p)	8.7	colorado
+CN080330	8	33	"Dolores County, CO"	Aug-10(p)	14.5	colorado
+CN080350	8	35	"Douglas County, CO"	Aug-10(p)	6.5	colorado
+CN080370	8	37	"Eagle County, CO"	Aug-10(p)	7.9	colorado
+CN080390	8	39	"Elbert County, CO"	Aug-10(p)	7.5	colorado
+PS080200	8	41	"El Paso County, CO"	Aug-10(p)	8.7	colorado
+CN080430	8	43	"Fremont County, CO"	Aug-10(p)	9.5	colorado
+CN080450	8	45	"Garfield County, CO"	Aug-10(p)	8.5	colorado
+CN080470	8	47	"Gilpin County, CO"	Aug-10(p)	6.7	colorado
+CN080490	8	49	"Grand County, CO"	Aug-10(p)	7.3	colorado
+CN080510	8	51	"Gunnison County, CO"	Aug-10(p)	5.5	colorado
+CN080530	8	53	"Hinsdale County, CO"	Aug-10(p)	2.9	colorado
+CN080550	8	55	"Huerfano County, CO"	Aug-10(p)	10.2	colorado
+CN080570	8	57	"Jackson County, CO"	Aug-10(p)	5.7	colorado
+CN080590	8	59	"Jefferson County, CO"	Aug-10(p)	7.8	colorado
+CN080610	8	61	"Kiowa County, CO"	Aug-10(p)	4.4	colorado
+CN080630	8	63	"Kit Carson County, CO"	Aug-10(p)	3.9	colorado
+CN080650	8	65	"Lake County, CO"	Aug-10(p)	11.3	colorado
+CN080670	8	67	"La Plata County, CO"	Aug-10(p)	6.1	colorado
+PS080310	8	69	"Larimer County, CO"	Aug-10(p)	6.5	colorado
+CN080710	8	71	"Las Animas County, CO"	Aug-10(p)	8.3	colorado
+CN080730	8	73	"Lincoln County, CO"	Aug-10(p)	3.9	colorado
+CN080750	8	75	"Logan County, CO"	Aug-10(p)	6.2	colorado
+PA080250	8	77	"Mesa County, CO"	Aug-10(p)	9.3	colorado
+CN080790	8	79	"Mineral County, CO"	Aug-10(p)	6	colorado
+CN080810	8	81	"Moffat County, CO"	Aug-10(p)	8.1	colorado
+CN080830	8	83	"Montezuma County, CO"	Aug-10(p)	7.7	colorado
+CN080850	8	85	"Montrose County, CO"	Aug-10(p)	9.6	colorado
+CN080870	8	87	"Morgan County, CO"	Aug-10(p)	6.7	colorado
+CN080890	8	89	"Otero County, CO"	Aug-10(p)	7.5	colorado
+CN080910	8	91	"Ouray County, CO"	Aug-10(p)	5.9	colorado
+CN080930	8	93	"Park County, CO"	Aug-10(p)	7.2	colorado
+CN080950	8	95	"Phillips County, CO"	Aug-10(p)	4	colorado
+CN080970	8	97	"Pitkin County, CO"	Aug-10(p)	6.1	colorado
+CN080990	8	99	"Prowers County, CO"	Aug-10(p)	6	colorado
+PS080320	8	101	"Pueblo County, CO"	Aug-10(p)	9.7	colorado
+CN081030	8	103	"Rio Blanco County, CO"	Aug-10(p)	5.5	colorado
+CN081050	8	105	"Rio Grande County, CO"	Aug-10(p)	8.3	colorado
+CN081070	8	107	"Routt County, CO"	Aug-10(p)	8.3	colorado
+CN081090	8	109	"Saguache County, CO"	Aug-10(p)	12.1	colorado
+CN081110	8	111	"San Juan County, CO"	Aug-10(p)	9.4	colorado
+CN081130	8	113	"San Miguel County, CO"	Aug-10(p)	5.8	colorado
+CN081150	8	115	"Sedgwick County, CO"	Aug-10(p)	4.5	colorado
+CN081170	8	117	"Summit County, CO"	Aug-10(p)	7.3	colorado
+CN081190	8	119	"Teller County, CO"	Aug-10(p)	8.6	colorado
+CN081210	8	121	"Washington County, CO"	Aug-10(p)	4.6	colorado
+PS080330	8	123	"Weld County, CO"	Aug-10(p)	9.1	colorado
+CN081250	8	125	"Yuma County, CO"	Aug-10(p)	3.6	colorado
+CN090010	9	1	"Fairfield County, CT"	Aug-10(p)	8.4	connecticut
+CN090030	9	3	"Hartford County, CT"	Aug-10(p)	9.9	connecticut
+CN090050	9	5	"Litchfield County, CT"	Aug-10(p)	8.8	connecticut
+CN090070	9	7	"Middlesex County, CT"	Aug-10(p)	7.6	connecticut
+CN090090	9	9	"New Haven County, CT"	Aug-10(p)	10.3	connecticut
+CN090110	9	11	"New London County, CT"	Aug-10(p)	8.8	connecticut
+CN090130	9	13	"Tolland County, CT"	Aug-10(p)	8	connecticut
+CN090150	9	15	"Windham County, CT"	Aug-10(p)	10.1	connecticut
+CN100010	10	1	"Kent County, DE"	Aug-10(p)	8.8	delaware
+CN100030	10	3	"New Castle County, DE"	Aug-10(p)	8.7	delaware
+PA100100	10	5	"Sussex County, DE"	Aug-10(p)	7.6	delaware
+CN120010	12	1	"Alachua County, FL"	Aug-10(p)	8.7	florida
+CN120030	12	3	"Baker County, FL"	Aug-10(p)	11.1	florida
+PA121150	12	5	"Bay County, FL"	Aug-10(p)	10	florida
+CN120070	12	7	"Bradford County, FL"	Aug-10(p)	10.5	florida
+PS120030	12	9	"Brevard County, FL"	Aug-10(p)	11.9	florida
+PS120050	12	11	"Broward County, FL"	Aug-10(p)	10.7	florida
+CN120130	12	13	"Calhoun County, FL"	Aug-10(p)	9.8	florida
+CN120150	12	15	"Charlotte County, FL"	Aug-10(p)	13	florida
+PA121550	12	17	"Citrus County, FL"	Aug-10(p)	14	florida
+PA121450	12	19	"Clay County, FL"	Aug-10(p)	10.8	florida
+PA121400	12	21	"Collier County, FL"	Aug-10(p)	13.6	florida
+CN120230	12	23	"Columbia County, FL"	Aug-10(p)	11	florida
+CN120270	12	27	"DeSoto County, FL"	Aug-10(p)	13.4	florida
+CN120290	12	29	"Dixie County, FL"	Aug-10(p)	13.6	florida
+PA120600	12	31	"Duval County, FL"	Aug-10(p)	12.7	florida
+PS120100	12	33	"Escambia County, FL"	Aug-10(p)	10.9	florida
+CN120350	12	35	"Flagler County, FL"	Aug-10(p)	16.4	florida
+CN120370	12	37	"Franklin County, FL"	Aug-10(p)	8.9	florida
+CN120390	12	39	"Gadsden County, FL"	Aug-10(p)	11	florida
+CN120410	12	41	"Gilchrist County, FL"	Aug-10(p)	10.5	florida
+CN120430	12	43	"Glades County, FL"	Aug-10(p)	13.9	florida
+CN120450	12	45	"Gulf County, FL"	Aug-10(p)	10.1	florida
+CN120470	12	47	"Hamilton County, FL"	Aug-10(p)	12.4	florida
+CN120490	12	49	"Hardee County, FL"	Aug-10(p)	14.6	florida
+CN120510	12	51	"Hendry County, FL"	Aug-10(p)	20.6	florida
+CN120530	12	53	"Hernando County, FL"	Aug-10(p)	15	florida
+CN120550	12	55	"Highlands County, FL"	Aug-10(p)	13.6	florida
+CN120570	12	57	"Hillsborough County, FL"	Aug-10(p)	12.4	florida
+CN120590	12	59	"Holmes County, FL"	Aug-10(p)	9.2	florida
+PA121600	12	61	"Indian River County, FL"	Aug-10(p)	16.2	florida
+CN120630	12	63	"Jackson County, FL"	Aug-10(p)	9	florida
+CN120650	12	65	"Jefferson County, FL"	Aug-10(p)	9.6	florida
+CN120670	12	67	"Lafayette County, FL"	Aug-10(p)	8.4	florida
+PS120640	12	69	"Lake County, FL"	Aug-10(p)	12.4	florida
+PS120170	12	71	"Lee County, FL"	Aug-10(p)	13.7	florida
+CN120730	12	73	"Leon County, FL"	Aug-10(p)	8.7	florida
+CN120750	12	75	"Levy County, FL"	Aug-10(p)	13.6	florida
+CN120770	12	77	"Liberty County, FL"	Aug-10(p)	7.5	florida
+CN120790	12	79	"Madison County, FL"	Aug-10(p)	12.4	florida
+CN120810	12	81	"Manatee County, FL"	Aug-10(p)	12.8	florida
+PS120570	12	83	"Marion County, FL"	Aug-10(p)	14.4	florida
+PA120470	12	85	"Martin County, FL"	Aug-10(p)	12.6	florida
+CN120860	12	86	"Miami-Dade County, FL"	Aug-10	14.5	florida
+PA120550	12	87	"Monroe County, FL"	Aug-10(p)	8.5	florida
+CN120890	12	89	"Nassau County, FL"	Aug-10(p)	10.8	florida
+PS120370	12	91	"Okaloosa County, FL"	Aug-10(p)	8	florida
+CN120930	12	93	"Okeechobee County, FL"	Aug-10(p)	14.8	florida
+PS120400	12	95	"Orange County, FL"	Aug-10(p)	12	florida
+CN120970	12	97	"Osceola County, FL"	Aug-10(p)	12.5	florida
+PS120420	12	99	"Palm Beach County, FL"	Aug-10(p)	12.5	florida
+PS120450	12	101	"Pasco County, FL"	Aug-10(p)	13.3	florida
+PS120550	12	103	"Pinellas County, FL"	Aug-10(p)	12.1	florida
+CN121050	12	105	"Polk County, FL"	Aug-10(p)	13.4	florida
+CN121070	12	107	"Putnam County, FL"	Aug-10(p)	14.2	florida
+CN121090	12	109	"St. Johns County, FL"	Aug-10(p)	9.8	florida
+PA121350	12	111	"St. Lucie County, FL"	Aug-10(p)	15.6	florida
+PA121370	12	113	"Santa Rosa County, FL"	Aug-10(p)	10.7	florida
+CN121150	12	115	"Sarasota County, FL"	Aug-10(p)	12.3	florida
+PS120500	12	117	"Seminole County, FL"	Aug-10(p)	11.2	florida
+CN121190	12	119	"Sumter County, FL"	Aug-10(p)	9.9	florida
+CN121210	12	121	"Suwannee County, FL"	Aug-10(p)	11.1	florida
+CN121230	12	123	"Taylor County, FL"	Aug-10(p)	12.6	florida
+CN121250	12	125	"Union County, FL"	Aug-10(p)	9.4	florida
+CN121270	12	127	"Volusia County, FL"	Aug-10(p)	12.6	florida
+CN121290	12	129	"Wakulla County, FL"	Aug-10(p)	8.6	florida
+CN121310	12	131	"Walton County, FL"	Aug-10(p)	7.8	florida
+CN121330	12	133	"Washington County, FL"	Aug-10(p)	11.4	florida
+CN130010	13	1	"Appling County, GA"	Aug-10(p)	11.5	georgia
+CN130030	13	3	"Atkinson County, GA"	Aug-10(p)	13.8	georgia
+CN130050	13	5	"Bacon County, GA"	Aug-10(p)	10.5	georgia
+CN130070	13	7	"Baker County, GA"	Aug-10(p)	9.8	georgia
+CN130090	13	9	"Baldwin County, GA"	Aug-10(p)	15.1	georgia
+CN130110	13	11	"Banks County, GA"	Aug-10(p)	7.2	georgia
+CN130130	13	13	"Barrow County, GA"	Aug-10(p)	10.3	georgia
+CN130150	13	15	"Bartow County, GA"	Aug-10(p)	11.1	georgia
+CN130170	13	17	"Ben Hill County, GA"	Aug-10(p)	14.6	georgia
+CN130190	13	19	"Berrien County, GA"	Aug-10(p)	12.2	georgia
+CN130210	13	21	"Bibb County, GA"	Aug-10(p)	10.9	georgia
+CN130230	13	23	"Bleckley County, GA"	Aug-10(p)	12.8	georgia
+CN130250	13	25	"Brantley County, GA"	Aug-10(p)	11.9	georgia
+CN130270	13	27	"Brooks County, GA"	Aug-10(p)	8.8	georgia
+CN130290	13	29	"Bryan County, GA"	Aug-10(p)	8.6	georgia
+CN130310	13	31	"Bulloch County, GA"	Aug-10(p)	9.8	georgia
+CN130330	13	33	"Burke County, GA"	Aug-10(p)	10.8	georgia
+CN130350	13	35	"Butts County, GA"	Aug-10(p)	11.3	georgia
+CN130370	13	37	"Calhoun County, GA"	Aug-10(p)	10.4	georgia
+CN130390	13	39	"Camden County, GA"	Aug-10(p)	9.9	georgia
+CN130430	13	43	"Candler County, GA"	Aug-10(p)	9.7	georgia
+PA130600	13	45	"Carroll County, GA"	Aug-10(p)	10.9	georgia
+CN130470	13	47	"Catoosa County, GA"	Aug-10(p)	8	georgia
+CN130490	13	49	"Charlton County, GA"	Aug-10(p)	12	georgia
+PS130450	13	51	"Chatham County, GA"	Aug-10(p)	9.4	georgia
+CN130530	13	53	"Chattahoochee County, GA"	Aug-10(p)	16.7	georgia
+CN130550	13	55	"Chattooga County, GA"	Aug-10(p)	13.4	georgia
+PA130950	13	57	"Cherokee County, GA"	Aug-10(p)	8.9	georgia
+PA130550	13	59	"Clarke County, GA"	Aug-10(p)	7.9	georgia
+CN130610	13	61	"Clay County, GA"	Aug-10(p)	9.1	georgia
+PA131050	13	63	"Clayton County, GA"	Aug-10(p)	12.5	georgia
+CN130650	13	65	"Clinch County, GA"	Aug-10(p)	12	georgia
+PA131100	13	67	"Cobb County, GA"	Aug-10(p)	9.9	georgia
+CN130690	13	69	"Coffee County, GA"	Aug-10(p)	17.4	georgia
+CN130710	13	71	"Colquitt County, GA"	Aug-10(p)	9.9	georgia
+CN130730	13	73	"Columbia County, GA"	Aug-10(p)	7.4	georgia
+CN130750	13	75	"Cook County, GA"	Aug-10(p)	13.1	georgia
+CN130770	13	77	"Coweta County, GA"	Aug-10(p)	9.4	georgia
+CN130790	13	79	"Crawford County, GA"	Aug-10(p)	10	georgia
+CN130810	13	81	"Crisp County, GA"	Aug-10(p)	13.6	georgia
+CN130830	13	83	"Dade County, GA"	Aug-10(p)	8.4	georgia
+CN130850	13	85	"Dawson County, GA"	Aug-10(p)	9.8	georgia
+CN130870	13	87	"Decatur County, GA"	Aug-10(p)	14	georgia
+CN130890	13	89	"DeKalb County, GA"	Aug-10(p)	10.7	georgia
+CN130910	13	91	"Dodge County, GA"	Aug-10(p)	12.8	georgia
+CN130930	13	93	"Dooly County, GA"	Aug-10(p)	10.8	georgia
+CN130950	13	95	"Dougherty County, GA"	Aug-10(p)	12	georgia
+PA131000	13	97	"Douglas County, GA"	Aug-10(p)	11	georgia
+CN130990	13	99	"Early County, GA"	Aug-10(p)	9.8	georgia
+CN131010	13	101	"Echols County, GA"	Aug-10(p)	6.7	georgia
+CN131030	13	103	"Effingham County, GA"	Aug-10(p)	8	georgia
+CN131050	13	105	"Elbert County, GA"	Aug-10(p)	13.1	georgia
+CN131070	13	107	"Emanuel County, GA"	Aug-10(p)	12	georgia
+CN131090	13	109	"Evans County, GA"	Aug-10(p)	9.3	georgia
+CN131110	13	111	"Fannin County, GA"	Aug-10(p)	10.5	georgia
+CN131130	13	113	"Fayette County, GA"	Aug-10(p)	8.6	georgia
+PA130900	13	115	"Floyd County, GA"	Aug-10(p)	10.8	georgia
+CN131170	13	117	"Forsyth County, GA"	Aug-10(p)	8.3	georgia
+CN131190	13	119	"Franklin County, GA"	Aug-10(p)	11.8	georgia
+CN131210	13	121	"Fulton County, GA"	Aug-10(p)	10.9	georgia
+CN131230	13	123	"Gilmer County, GA"	Aug-10(p)	10.1	georgia
+CN131250	13	125	"Glascock County, GA"	Aug-10(p)	12.2	georgia
+PA130650	13	127	"Glynn County, GA"	Aug-10(p)	9.3	georgia
+CN131290	13	129	"Gordon County, GA"	Aug-10(p)	12.5	georgia
+CN131310	13	131	"Grady County, GA"	Aug-10(p)	9.1	georgia
+CN131330	13	133	"Greene County, GA"	Aug-10(p)	11.1	georgia
+PS130370	13	135	"Gwinnett County, GA"	Aug-10(p)	9.4	georgia
+CN131370	13	137	"Habersham County, GA"	Aug-10(p)	9.9	georgia
+PA130700	13	139	"Hall County, GA"	Aug-10(p)	9.2	georgia
+CN131410	13	141	"Hancock County, GA"	Aug-10(p)	20.9	georgia
+CN131430	13	143	"Haralson County, GA"	Aug-10(p)	12.2	georgia
+CN131450	13	145	"Harris County, GA"	Aug-10(p)	7.3	georgia
+CN131470	13	147	"Hart County, GA"	Aug-10(p)	12.1	georgia
+CN131490	13	149	"Heard County, GA"	Aug-10(p)	12.5	georgia
+CN131510	13	151	"Henry County, GA"	Aug-10(p)	10.3	georgia
+PA130350	13	153	"Houston County, GA"	Aug-10(p)	7.7	georgia
+CN131550	13	155	"Irwin County, GA"	Aug-10(p)	14.2	georgia
+CN131570	13	157	"Jackson County, GA"	Aug-10(p)	11	georgia
+CN131590	13	159	"Jasper County, GA"	Aug-10(p)	11.4	georgia
+CN131610	13	161	"Jeff Davis County, GA"	Aug-10(p)	15.1	georgia
+CN131630	13	163	"Jefferson County, GA"	Aug-10(p)	14.3	georgia
+CN131650	13	165	"Jenkins County, GA"	Aug-10(p)	19.3	georgia
+CN131670	13	167	"Johnson County, GA"	Aug-10(p)	12.2	georgia
+CN131690	13	169	"Jones County, GA"	Aug-10(p)	8.7	georgia
+CN131710	13	171	"Lamar County, GA"	Aug-10(p)	13.4	georgia
+CN131730	13	173	"Lanier County, GA"	Aug-10(p)	9.1	georgia
+CN131750	13	175	"Laurens County, GA"	Aug-10(p)	12.8	georgia
+CN131770	13	177	"Lee County, GA"	Aug-10(p)	7.9	georgia
+CN131790	13	179	"Liberty County, GA"	Aug-10(p)	9	georgia
+CN131810	13	181	"Lincoln County, GA"	Aug-10(p)	10.9	georgia
+CN131830	13	183	"Long County, GA"	Aug-10(p)	7.2	georgia
+PA130750	13	185	"Lowndes County, GA"	Aug-10(p)	8.6	georgia
+CN131870	13	187	"Lumpkin County, GA"	Aug-10(p)	10.4	georgia
+CN131890	13	189	"McDuffie County, GA"	Aug-10(p)	10.4	georgia
+CN131910	13	191	"McIntosh County, GA"	Aug-10(p)	11.5	georgia
+CN131930	13	193	"Macon County, GA"	Aug-10(p)	13.7	georgia
+CN131950	13	195	"Madison County, GA"	Aug-10(p)	8.2	georgia
+CN131970	13	197	"Marion County, GA"	Aug-10(p)	10.3	georgia
+CN131990	13	199	"Meriwether County, GA"	Aug-10(p)	12.5	georgia
+CN132010	13	201	"Miller County, GA"	Aug-10(p)	8.3	georgia
+CN132050	13	205	"Mitchell County, GA"	Aug-10(p)	10.8	georgia
+CN132070	13	207	"Monroe County, GA"	Aug-10(p)	9.5	georgia
+CN132090	13	209	"Montgomery County, GA"	Aug-10(p)	10.8	georgia
+CN132110	13	211	"Morgan County, GA"	Aug-10(p)	9.7	georgia
+CN132130	13	213	"Murray County, GA"	Aug-10(p)	12.2	georgia
+PA130400	13	215	"Muscogee County, GA"	Aug-10(p)	9.6	georgia
+CN132170	13	217	"Newton County, GA"	Aug-10(p)	12.6	georgia
+CN132190	13	219	"Oconee County, GA"	Aug-10(p)	6.5	georgia
+CN132210	13	221	"Oglethorpe County, GA"	Aug-10(p)	9	georgia
+CN132230	13	223	"Paulding County, GA"	Aug-10(p)	10.5	georgia
+CN132250	13	225	"Peach County, GA"	Aug-10(p)	11.9	georgia
+CN132270	13	227	"Pickens County, GA"	Aug-10(p)	8.7	georgia
+CN132290	13	229	"Pierce County, GA"	Aug-10(p)	10.4	georgia
+CN132310	13	231	"Pike County, GA"	Aug-10(p)	9.8	georgia
+CN132330	13	233	"Polk County, GA"	Aug-10(p)	10.5	georgia
+CN132350	13	235	"Pulaski County, GA"	Aug-10(p)	9.7	georgia
+CN132370	13	237	"Putnam County, GA"	Aug-10(p)	10.8	georgia
+CN132390	13	239	"Quitman County, GA"	Aug-10(p)	11.6	georgia
+CN132410	13	241	"Rabun County, GA"	Aug-10(p)	11.8	georgia
+CN132430	13	243	"Randolph County, GA"	Aug-10(p)	12.7	georgia
+CN132450	13	245	"Richmond County, GA"	Aug-10(p)	10.8	georgia
+CN132470	13	247	"Rockdale County, GA"	Aug-10(p)	11.6	georgia
+CN132490	13	249	"Schley County, GA"	Aug-10(p)	13.6	georgia
+CN132510	13	251	"Screven County, GA"	Aug-10(p)	13.8	georgia
+CN132530	13	253	"Seminole County, GA"	Aug-10(p)	10.7	georgia
+CN132550	13	255	"Spalding County, GA"	Aug-10(p)	12.7	georgia
+CN132570	13	257	"Stephens County, GA"	Aug-10(p)	10.5	georgia
+CN132590	13	259	"Stewart County, GA"	Aug-10(p)	10.6	georgia
+CN132610	13	261	"Sumter County, GA"	Aug-10(p)	13.2	georgia
+CN132630	13	263	"Talbot County, GA"	Aug-10(p)	9.2	georgia
+CN132650	13	265	"Taliaferro County, GA"	Aug-10(p)	11.6	georgia
+CN132670	13	267	"Tattnall County, GA"	Aug-10(p)	9.7	georgia
+CN132690	13	269	"Taylor County, GA"	Aug-10(p)	12.8	georgia
+CN132710	13	271	"Telfair County, GA"	Aug-10(p)	21	georgia
+CN132730	13	273	"Terrell County, GA"	Aug-10(p)	11.7	georgia
+CN132750	13	275	"Thomas County, GA"	Aug-10(p)	9.7	georgia
+CN132770	13	277	"Tift County, GA"	Aug-10(p)	12.4	georgia
+CN132790	13	279	"Toombs County, GA"	Aug-10(p)	10.8	georgia
+CN132810	13	281	"Towns County, GA"	Aug-10(p)	8.7	georgia
+CN132830	13	283	"Treutlen County, GA"	Aug-10(p)	13.1	georgia
+CN132850	13	285	"Troup County, GA"	Aug-10(p)	11.7	georgia
+CN132870	13	287	"Turner County, GA"	Aug-10(p)	13.1	georgia
+CN132890	13	289	"Twiggs County, GA"	Aug-10(p)	11.7	georgia
+CN132910	13	291	"Union County, GA"	Aug-10(p)	8.9	georgia
+CN132930	13	293	"Upson County, GA"	Aug-10(p)	12.3	georgia
+PA130800	13	295	"Walker County, GA"	Aug-10(p)	9.5	georgia
+CN132970	13	297	"Walton County, GA"	Aug-10(p)	10.4	georgia
+CN132990	13	299	"Ware County, GA"	Aug-10(p)	11.1	georgia
+CN133010	13	301	"Warren County, GA"	Aug-10(p)	18.1	georgia
+CN133030	13	303	"Washington County, GA"	Aug-10(p)	15.3	georgia
+CN133050	13	305	"Wayne County, GA"	Aug-10(p)	12.6	georgia
+CN133070	13	307	"Webster County, GA"	Aug-10(p)	9.5	georgia
+CN133090	13	309	"Wheeler County, GA"	Aug-10(p)	12.2	georgia
+CN133110	13	311	"White County, GA"	Aug-10(p)	10.1	georgia
+PA130850	13	313	"Whitfield County, GA"	Aug-10(p)	11.9	georgia
+CN133150	13	315	"Wilcox County, GA"	Aug-10(p)	12.9	georgia
+CN133170	13	317	"Wilkes County, GA"	Aug-10(p)	12.1	georgia
+CN133190	13	319	"Wilkinson County, GA"	Aug-10(p)	13.1	georgia
+CN133210	13	321	"Worth County, GA"	Aug-10(p)	11.6	georgia
+PA150100	15	1	"Hawaii County, HI"	Aug-10(p)	9.8	hawaii
+PS150070	15	3	"Honolulu County/city, HI"	Aug-10(p)	5.6	hawaii
+CN150070	15	7	"Kauai County, HI"	Aug-10(p)	8.7	hawaii
+PA150150	15	9	"Maui County, HI"	Aug-10(p)	8.1	hawaii
+CN160010	16	1	"Ada County, ID"	Aug-10(p)	8.5	idaho
+CN160030	16	3	"Adams County, ID"	Aug-10(p)	12.6	idaho
+PA160150	16	5	"Bannock County, ID"	Aug-10(p)	8	idaho
+CN160070	16	7	"Bear Lake County, ID"	Aug-10(p)	5.4	idaho
+CN160090	16	9	"Benewah County, ID"	Aug-10(p)	11.4	idaho
+CN160110	16	11	"Bingham County, ID"	Aug-10(p)	7.6	idaho
+CN160130	16	13	"Blaine County, ID"	Aug-10(p)	8	idaho
+CN160150	16	15	"Boise County, ID"	Aug-10(p)	5.9	idaho
+CN160170	16	17	"Bonner County, ID"	Aug-10(p)	10.3	idaho
+PA160200	16	19	"Bonneville County, ID"	Aug-10(p)	6.4	idaho
+CN160210	16	21	"Boundary County, ID"	Aug-10(p)	13.3	idaho
+CN160230	16	23	"Butte County, ID"	Aug-10(p)	6.4	idaho
+CN160250	16	25	"Camas County, ID"	Aug-10(p)	10.6	idaho
+PA160250	16	27	"Canyon County, ID"	Aug-10(p)	10.5	idaho
+CN160290	16	29	"Caribou County, ID"	Aug-10(p)	7.1	idaho
+CN160310	16	31	"Cassia County, ID"	Aug-10(p)	6.9	idaho
+CN160330	16	33	"Clark County, ID"	Aug-10(p)	7	idaho
+CN160350	16	35	"Clearwater County, ID"	Aug-10(p)	12	idaho
+CN160370	16	37	"Custer County, ID"	Aug-10(p)	5.1	idaho
+CN160390	16	39	"Elmore County, ID"	Aug-10(p)	8.7	idaho
+CN160410	16	41	"Franklin County, ID"	Aug-10(p)	5.4	idaho
+CN160430	16	43	"Fremont County, ID"	Aug-10(p)	9.4	idaho
+CN160450	16	45	"Gem County, ID"	Aug-10(p)	10.9	idaho
+CN160470	16	47	"Gooding County, ID"	Aug-10(p)	7.5	idaho
+CN160490	16	49	"Idaho County, ID"	Aug-10(p)	9.7	idaho
+CN160510	16	51	"Jefferson County, ID"	Aug-10(p)	7.5	idaho
+CN160530	16	53	"Jerome County, ID"	Aug-10(p)	7.9	idaho
+PA160300	16	55	"Kootenai County, ID"	Aug-10(p)	9.2	idaho
+CN160570	16	57	"Latah County, ID"	Aug-10(p)	6.9	idaho
+CN160590	16	59	"Lemhi County, ID"	Aug-10(p)	8	idaho
+CN160610	16	61	"Lewis County, ID"	Aug-10(p)	5.3	idaho
+CN160630	16	63	"Lincoln County, ID"	Aug-10(p)	11	idaho
+CN160650	16	65	"Madison County, ID"	Aug-10(p)	6.5	idaho
+CN160670	16	67	"Minidoka County, ID"	Aug-10(p)	8	idaho
+CN160690	16	69	"Nez Perce County, ID"	Aug-10(p)	6.5	idaho
+CN160710	16	71	"Oneida County, ID"	Aug-10(p)	5.1	idaho
+CN160730	16	73	"Owyhee County, ID"	Aug-10(p)	5	idaho
+CN160750	16	75	"Payette County, ID"	Aug-10(p)	9	idaho
+CN160770	16	77	"Power County, ID"	Aug-10(p)	15.6	idaho
+CN160790	16	79	"Shoshone County, ID"	Aug-10(p)	12.2	idaho
+CN160810	16	81	"Teton County, ID"	Aug-10(p)	5.4	idaho
+PA160350	16	83	"Twin Falls County, ID"	Aug-10(p)	8.9	idaho
+CN160850	16	85	"Valley County, ID"	Aug-10(p)	13.4	idaho
+CN160870	16	87	"Washington County, ID"	Aug-10(p)	9.9	idaho
+PA170800	17	1	"Adams County, IL"	Aug-10(p)	7.5	illinois
+CN170030	17	3	"Alexander County, IL"	Aug-10(p)	13.2	illinois
+CN170050	17	5	"Bond County, IL"	Aug-10(p)	9.7	illinois
+CN170070	17	7	"Boone County, IL"	Aug-10(p)	14.2	illinois
+CN170090	17	9	"Brown County, IL"	Aug-10(p)	5.1	illinois
+CN170110	17	11	"Bureau County, IL"	Aug-10(p)	11.1	illinois
+CN170130	17	13	"Calhoun County, IL"	Aug-10(p)	10	illinois
+CN170150	17	15	"Carroll County, IL"	Aug-10(p)	10.8	illinois
+CN170170	17	17	"Cass County, IL"	Aug-10(p)	7.3	illinois
+CN170190	17	19	"Champaign County, IL"	Aug-10(p)	9.5	illinois
+CN170210	17	21	"Christian County, IL"	Aug-10(p)	9.5	illinois
+CN170230	17	23	"Clark County, IL"	Aug-10(p)	12.2	illinois
+CN170250	17	25	"Clay County, IL"	Aug-10(p)	12	illinois
+CN170270	17	27	"Clinton County, IL"	Aug-10(p)	7.9	illinois
+PA170830	17	29	"Coles County, IL"	Aug-10(p)	9.9	illinois
+CN170310	17	31	"Cook County, IL"	Aug-10(p)	10.2	illinois
+CN170330	17	33	"Crawford County, IL"	Aug-10(p)	9.3	illinois
+CN170350	17	35	"Cumberland County, IL"	Aug-10(p)	9.7	illinois
+PA170850	17	37	"DeKalb County, IL"	Aug-10(p)	9.1	illinois
+CN170390	17	39	"De Witt County, IL"	Aug-10(p)	8.7	illinois
+CN170410	17	41	"Douglas County, IL"	Aug-10(p)	9.3	illinois
+PS170200	17	43	"DuPage County, IL"	Aug-10(p)	8.1	illinois
+CN170450	17	45	"Edgar County, IL"	Aug-10(p)	10.4	illinois
+CN170470	17	47	"Edwards County, IL"	Aug-10(p)	9	illinois
+CN170490	17	49	"Effingham County, IL"	Aug-10(p)	7.9	illinois
+CN170510	17	51	"Fayette County, IL"	Aug-10(p)	10.6	illinois
+CN170530	17	53	"Ford County, IL"	Aug-10(p)	9.8	illinois
+CN170550	17	55	"Franklin County, IL"	Aug-10(p)	13.5	illinois
+CN170570	17	57	"Fulton County, IL"	Aug-10(p)	11.3	illinois
+CN170590	17	59	"Gallatin County, IL"	Aug-10(p)	10.2	illinois
+CN170610	17	61	"Greene County, IL"	Aug-10(p)	9.5	illinois
+CN170630	17	63	"Grundy County, IL"	Aug-10(p)	11.5	illinois
+CN170650	17	65	"Hamilton County, IL"	Aug-10(p)	9.8	illinois
+CN170670	17	67	"Hancock County, IL"	Aug-10(p)	11	illinois
+CN170690	17	69	"Hardin County, IL"	Aug-10(p)	12.3	illinois
+CN170710	17	71	"Henderson County, IL"	Aug-10(p)	8.9	illinois
+PA170900	17	73	"Henry County, IL"	Aug-10(p)	8.3	illinois
+CN170750	17	75	"Iroquois County, IL"	Aug-10(p)	9.5	illinois
+PA170950	17	77	"Jackson County, IL"	Aug-10(p)	8.3	illinois
+CN170790	17	79	"Jasper County, IL"	Aug-10(p)	9.7	illinois
+CN170810	17	81	"Jefferson County, IL"	Aug-10(p)	9.8	illinois
+CN170830	17	83	"Jersey County, IL"	Aug-10(p)	9.4	illinois
+CN170850	17	85	"Jo Daviess County, IL"	Aug-10(p)	7.6	illinois
+CN170870	17	87	"Johnson County, IL"	Aug-10(p)	11.3	illinois
+PS170320	17	89	"Kane County, IL"	Aug-10(p)	9.6	illinois
+PA171000	17	91	"Kankakee County, IL"	Aug-10(p)	12.7	illinois
+CN170930	17	93	"Kendall County, IL"	Aug-10(p)	9.4	illinois
+PA171050	17	95	"Knox County, IL"	Aug-10(p)	9.3	illinois
+CN170970	17	97	"Lake County, IL"	Aug-10(p)	10.1	illinois
+PS170400	17	99	"LaSalle County, IL"	Aug-10(p)	12.5	illinois
+CN171010	17	101	"Lawrence County, IL"	Aug-10(p)	9.4	illinois
+CN171030	17	103	"Lee County, IL"	Aug-10(p)	10.6	illinois
+CN171050	17	105	"Livingston County, IL"	Aug-10(p)	9.8	illinois
+CN171070	17	107	"Logan County, IL"	Aug-10(p)	9.3	illinois
+CN171090	17	109	"McDonough County, IL"	Aug-10(p)	9.4	illinois
+PS170500	17	111	"McHenry County, IL"	Aug-10(p)	8.6	illinois
+PS170520	17	113	"McLean County, IL"	Aug-10(p)	7.9	illinois
+PS170420	17	115	"Macon County, IL"	Aug-10(p)	11.7	illinois
+CN171170	17	117	"Macoupin County, IL"	Aug-10(p)	10.1	illinois
+PA170650	17	119	"Madison County, IL"	Aug-10(p)	9.7	illinois
+CN171210	17	121	"Marion County, IL"	Aug-10(p)	11.9	illinois
+CN171230	17	123	"Marshall County, IL"	Aug-10(p)	9	illinois
+CN171250	17	125	"Mason County, IL"	Aug-10(p)	12.6	illinois
+CN171270	17	127	"Massac County, IL"	Aug-10(p)	11.2	illinois
+CN171290	17	129	"Menard County, IL"	Aug-10(p)	7.2	illinois
+CN171310	17	131	"Mercer County, IL"	Aug-10(p)	8.8	illinois
+CN171330	17	133	"Monroe County, IL"	Aug-10(p)	7.7	illinois
+CN171350	17	135	"Montgomery County, IL"	Aug-10(p)	12.5	illinois
+CN171370	17	137	"Morgan County, IL"	Aug-10(p)	8.8	illinois
+CN171390	17	139	"Moultrie County, IL"	Aug-10(p)	8.6	illinois
+CN171410	17	141	"Ogle County, IL"	Aug-10(p)	13	illinois
+CN171430	17	143	"Peoria County, IL"	Aug-10(p)	10.7	illinois
+CN171450	17	145	"Perry County, IL"	Aug-10(p)	11.8	illinois
+CN171470	17	147	"Piatt County, IL"	Aug-10(p)	8.2	illinois
+CN171490	17	149	"Pike County, IL"	Aug-10(p)	8.5	illinois
+CN171510	17	151	"Pope County, IL"	Aug-10(p)	10.9	illinois
+CN171530	17	153	"Pulaski County, IL"	Aug-10(p)	12	illinois
+CN171550	17	155	"Putnam County, IL"	Aug-10(p)	11.8	illinois
+CN171570	17	157	"Randolph County, IL"	Aug-10(p)	8.9	illinois
+CN171590	17	159	"Richland County, IL"	Aug-10(p)	10.4	illinois
+PS170650	17	161	"Rock Island County, IL"	Aug-10(p)	8.8	illinois
+CN171630	17	163	"St. Clair County, IL"	Aug-10(p)	11.3	illinois
+CN171650	17	165	"Saline County, IL"	Aug-10(p)	9.9	illinois
+CN171670	17	167	"Sangamon County, IL"	Aug-10(p)	7.9	illinois
+CN171690	17	169	"Schuyler County, IL"	Aug-10(p)	6.9	illinois
+CN171710	17	171	"Scott County, IL"	Aug-10(p)	8.4	illinois
+CN171730	17	173	"Shelby County, IL"	Aug-10(p)	9.8	illinois
+CN171750	17	175	"Stark County, IL"	Aug-10(p)	9.7	illinois
+CN171770	17	177	"Stephenson County, IL"	Aug-10(p)	11	illinois
+PS170850	17	179	"Tazewell County, IL"	Aug-10(p)	9.8	illinois
+CN171810	17	181	"Union County, IL"	Aug-10(p)	12.4	illinois
+PA171100	17	183	"Vermilion County, IL"	Aug-10(p)	11.9	illinois
+CN171850	17	185	"Wabash County, IL"	Aug-10(p)	10.2	illinois
+CN171870	17	187	"Warren County, IL"	Aug-10(p)	8.4	illinois
+CN171890	17	189	"Washington County, IL"	Aug-10(p)	7.9	illinois
+CN171910	17	191	"Wayne County, IL"	Aug-10(p)	9.6	illinois
+CN171930	17	193	"White County, IL"	Aug-10(p)	8.8	illinois
+PA171150	17	195	"Whiteside County, IL"	Aug-10(p)	10.5	illinois
+CN171970	17	197	"Will County, IL"	Aug-10(p)	9.7	illinois
+PA171200	17	199	"Williamson County, IL"	Aug-10(p)	9.6	illinois
+CN172010	17	201	"Winnebago County, IL"	Aug-10(p)	14.6	illinois
+CN172030	17	203	"Woodford County, IL"	Aug-10(p)	7.4	illinois
+CN180010	18	1	"Adams County, IN"	Aug-10(p)	9.9	indiana
+CN180030	18	3	"Allen County, IN"	Aug-10(p)	10.3	indiana
+PA180450	18	5	"Bartholomew County, IN"	Aug-10(p)	8.9	indiana
+CN180070	18	7	"Benton County, IN"	Aug-10(p)	10.6	indiana
+CN180090	18	9	"Blackford County, IN"	Aug-10(p)	12.3	indiana
+CN180110	18	11	"Boone County, IN"	Aug-10(p)	7.2	indiana
+CN180130	18	13	"Brown County, IN"	Aug-10(p)	8.7	indiana
+CN180150	18	15	"Carroll County, IN"	Aug-10(p)	9.2	indiana
+CN180170	18	17	"Cass County, IN"	Aug-10(p)	9.6	indiana
+PA180500	18	19	"Clark County, IN"	Aug-10(p)	10.3	indiana
+CN180210	18	21	"Clay County, IN"	Aug-10(p)	9.9	indiana
+CN180230	18	23	"Clinton County, IN"	Aug-10(p)	9.8	indiana
+CN180250	18	25	"Crawford County, IN"	Aug-10(p)	10.4	indiana
+CN180270	18	27	"Daviess County, IN"	Aug-10(p)	6.2	indiana
+CN180290	18	29	"Dearborn County, IN"	Aug-10(p)	10.8	indiana
+CN180310	18	31	"Decatur County, IN"	Aug-10(p)	10.4	indiana
+CN180330	18	33	"DeKalb County, IN"	Aug-10(p)	10.9	indiana
+CN180350	18	35	"Delaware County, IN"	Aug-10(p)	11	indiana
+CN180370	18	37	"Dubois County, IN"	Aug-10(p)	6.7	indiana
+PS180100	18	39	"Elkhart County, IN"	Aug-10(p)	13.4	indiana
+CN180410	18	41	"Fayette County, IN"	Aug-10(p)	13.5	indiana
+PA180550	18	43	"Floyd County, IN"	Aug-10(p)	9.6	indiana
+CN180450	18	45	"Fountain County, IN"	Aug-10(p)	10.3	indiana
+CN180470	18	47	"Franklin County, IN"	Aug-10(p)	9.7	indiana
+CN180490	18	49	"Fulton County, IN"	Aug-10(p)	9.8	indiana
+CN180510	18	51	"Gibson County, IN"	Aug-10(p)	8.5	indiana
+PA180600	18	53	"Grant County, IN"	Aug-10(p)	11.7	indiana
+CN180550	18	55	"Greene County, IN"	Aug-10(p)	8.9	indiana
+PA180650	18	57	"Hamilton County, IN"	Aug-10(p)	7	indiana
+CN180590	18	59	"Hancock County, IN"	Aug-10(p)	8.7	indiana
+CN180610	18	61	"Harrison County, IN"	Aug-10(p)	9.5	indiana
+PA180700	18	63	"Hendricks County, IN"	Aug-10(p)	8	indiana
+PA180750	18	65	"Henry County, IN"	Aug-10(p)	12.2	indiana
+CN180670	18	67	"Howard County, IN"	Aug-10(p)	12	indiana
+CN180690	18	69	"Huntington County, IN"	Aug-10(p)	10.5	indiana
+CN180710	18	71	"Jackson County, IN"	Aug-10(p)	9.3	indiana
+CN180730	18	73	"Jasper County, IN"	Aug-10(p)	9.4	indiana
+CN180750	18	75	"Jay County, IN"	Aug-10(p)	8.6	indiana
+CN180770	18	77	"Jefferson County, IN"	Aug-10(p)	11	indiana
+CN180790	18	79	"Jennings County, IN"	Aug-10(p)	11.3	indiana
+PA180850	18	81	"Johnson County, IN"	Aug-10(p)	8.3	indiana
+CN180830	18	83	"Knox County, IN"	Aug-10(p)	7.3	indiana
+PA181050	18	85	"Kosciusko County, IN"	Aug-10(p)	9.1	indiana
+CN180870	18	87	"LaGrange County, IN"	Aug-10(p)	10.7	indiana
+CN180890	18	89	"Lake County, IN"	Aug-10(p)	10.7	indiana
+PS180400	18	91	"LaPorte County, IN"	Aug-10(p)	11.3	indiana
+CN180930	18	93	"Lawrence County, IN"	Aug-10(p)	10.8	indiana
+CN180950	18	95	"Madison County, IN"	Aug-10(p)	11.4	indiana
+PS180300	18	97	"Marion County, IN"	Aug-10(p)	10.1	indiana
+CN180990	18	99	"Marshall County, IN"	Aug-10(p)	10.3	indiana
+CN181010	18	101	"Martin County, IN"	Aug-10(p)	7	indiana
+CN181030	18	103	"Miami County, IN"	Aug-10(p)	11.2	indiana
+CN181050	18	105	"Monroe County, IN"	Aug-10(p)	7.6	indiana
+CN181070	18	107	"Montgomery County, IN"	Aug-10(p)	9.3	indiana
+PA181350	18	109	"Morgan County, IN"	Aug-10(p)	9.1	indiana
+CN181110	18	111	"Newton County, IN"	Aug-10(p)	8.9	indiana
+CN181130	18	113	"Noble County, IN"	Aug-10(p)	12.2	indiana
+CN181150	18	115	"Ohio County, IN"	Aug-10(p)	10.7	indiana
+CN181170	18	117	"Orange County, IN"	Aug-10(p)	10.1	indiana
+CN181190	18	119	"Owen County, IN"	Aug-10(p)	11	indiana
+CN181210	18	121	"Parke County, IN"	Aug-10(p)	9.2	indiana
+CN181230	18	123	"Perry County, IN"	Aug-10(p)	9.4	indiana
+CN181250	18	125	"Pike County, IN"	Aug-10(p)	9.1	indiana
+PA180950	18	127	"Porter County, IN"	Aug-10(p)	8.6	indiana
+CN181290	18	129	"Posey County, IN"	Aug-10(p)	8.5	indiana
+CN181310	18	131	"Pulaski County, IN"	Aug-10(p)	8.7	indiana
+CN181330	18	133	"Putnam County, IN"	Aug-10(p)	10.8	indiana
+CN181350	18	135	"Randolph County, IN"	Aug-10(p)	10.7	indiana
+CN181370	18	137	"Ripley County, IN"	Aug-10(p)	9.9	indiana
+CN181390	18	139	"Rush County, IN"	Aug-10(p)	9.8	indiana
+PS180470	18	141	"St. Joseph County, IN"	Aug-10(p)	11.4	indiana
+CN181430	18	143	"Scott County, IN"	Aug-10(p)	11.6	indiana
+CN181450	18	145	"Shelby County, IN"	Aug-10(p)	9.2	indiana
+CN181470	18	147	"Spencer County, IN"	Aug-10(p)	8.3	indiana
+CN181490	18	149	"Starke County, IN"	Aug-10(p)	11.7	indiana
+CN181510	18	151	"Steuben County, IN"	Aug-10(p)	11.1	indiana
+CN181530	18	153	"Sullivan County, IN"	Aug-10(p)	10.8	indiana
+CN181550	18	155	"Switzerland County, IN"	Aug-10(p)	7.7	indiana
+CN181570	18	157	"Tippecanoe County, IN"	Aug-10(p)	9.2	indiana
+CN181590	18	159	"Tipton County, IN"	Aug-10(p)	9.9	indiana
+CN181610	18	161	"Union County, IN"	Aug-10(p)	9.6	indiana
+CN181630	18	163	"Vanderburgh County, IN"	Aug-10(p)	9.3	indiana
+CN181650	18	165	"Vermillion County, IN"	Aug-10(p)	11.4	indiana
+PS180600	18	167	"Vigo County, IN"	Aug-10(p)	11.5	indiana
+CN181690	18	169	"Wabash County, IN"	Aug-10(p)	10.1	indiana
+CN181710	18	171	"Warren County, IN"	Aug-10(p)	8.6	indiana
+CN181730	18	173	"Warrick County, IN"	Aug-10(p)	8.4	indiana
+CN181750	18	175	"Washington County, IN"	Aug-10(p)	10.5	indiana
+PA181000	18	177	"Wayne County, IN"	Aug-10(p)	11.7	indiana
+CN181790	18	179	"Wells County, IN"	Aug-10(p)	8.9	indiana
+CN181810	18	181	"White County, IN"	Aug-10(p)	9.6	indiana
+CN181830	18	183	"Whitley County, IN"	Aug-10(p)	9.3	indiana
+CN190010	19	1	"Adair County, IA"	Aug-10(p)	5.7	iowa
+CN190030	19	3	"Adams County, IA"	Aug-10(p)	5.2	iowa
+CN190050	19	5	"Allamakee County, IA"	Aug-10(p)	8.4	iowa
+CN190070	19	7	"Appanoose County, IA"	Aug-10(p)	7.8	iowa
+CN190090	19	9	"Audubon County, IA"	Aug-10(p)	5.9	iowa
+CN190110	19	11	"Benton County, IA"	Aug-10(p)	6.8	iowa
+PS190020	19	13	"Black Hawk County, IA"	Aug-10(p)	6.5	iowa
+CN190150	19	15	"Boone County, IA"	Aug-10(p)	6.1	iowa
+CN190170	19	17	"Bremer County, IA"	Aug-10(p)	5.5	iowa
+CN190190	19	19	"Buchanan County, IA"	Aug-10(p)	6.8	iowa
+CN190210	19	21	"Buena Vista County, IA"	Aug-10(p)	5.6	iowa
+CN190230	19	23	"Butler County, IA"	Aug-10(p)	6.5	iowa
+CN190250	19	25	"Calhoun County, IA"	Aug-10(p)	6	iowa
+CN190270	19	27	"Carroll County, IA"	Aug-10(p)	4.7	iowa
+CN190290	19	29	"Cass County, IA"	Aug-10(p)	6.4	iowa
+CN190310	19	31	"Cedar County, IA"	Aug-10(p)	5.8	iowa
+CN190330	19	33	"Cerro Gordo County, IA"	Aug-10(p)	7.5	iowa
+CN190350	19	35	"Cherokee County, IA"	Aug-10(p)	5.7	iowa
+CN190370	19	37	"Chickasaw County, IA"	Aug-10(p)	7.5	iowa
+CN190390	19	39	"Clarke County, IA"	Aug-10(p)	7.7	iowa
+CN190410	19	41	"Clay County, IA"	Aug-10(p)	6.2	iowa
+CN190430	19	43	"Clayton County, IA"	Aug-10(p)	7.8	iowa
+PA190400	19	45	"Clinton County, IA"	Aug-10(p)	7.3	iowa
+CN190470	19	47	"Crawford County, IA"	Aug-10(p)	4.9	iowa
+CN190490	19	49	"Dallas County, IA"	Aug-10(p)	5.6	iowa
+CN190510	19	51	"Davis County, IA"	Aug-10(p)	8.8	iowa
+CN190530	19	53	"Decatur County, IA"	Aug-10(p)	7.8	iowa
+CN190550	19	55	"Delaware County, IA"	Aug-10(p)	6.3	iowa
+CN190570	19	57	"Des Moines County, IA"	Aug-10(p)	8.3	iowa
+CN190590	19	59	"Dickinson County, IA"	Aug-10(p)	6.1	iowa
+CN190610	19	61	"Dubuque County, IA"	Aug-10(p)	6.5	iowa
+CN190630	19	63	"Emmet County, IA"	Aug-10(p)	7.4	iowa
+CN190650	19	65	"Fayette County, IA"	Aug-10(p)	8	iowa
+CN190670	19	67	"Floyd County, IA"	Aug-10(p)	7.3	iowa
+CN190690	19	69	"Franklin County, IA"	Aug-10(p)	7	iowa
+CN190710	19	71	"Fremont County, IA"	Aug-10(p)	7	iowa
+CN190730	19	73	"Greene County, IA"	Aug-10(p)	7.4	iowa
+CN190750	19	75	"Grundy County, IA"	Aug-10(p)	6.4	iowa
+CN190770	19	77	"Guthrie County, IA"	Aug-10(p)	6.4	iowa
+CN190790	19	79	"Hamilton County, IA"	Aug-10(p)	8	iowa
+CN190810	19	81	"Hancock County, IA"	Aug-10(p)	7.4	iowa
+CN190830	19	83	"Hardin County, IA"	Aug-10(p)	7.2	iowa
+CN190850	19	85	"Harrison County, IA"	Aug-10(p)	4.9	iowa
+CN190870	19	87	"Henry County, IA"	Aug-10(p)	8.8	iowa
+CN190890	19	89	"Howard County, IA"	Aug-10(p)	7	iowa
+CN190910	19	91	"Humboldt County, IA"	Aug-10(p)	5.7	iowa
+CN190930	19	93	"Ida County, IA"	Aug-10(p)	5.1	iowa
+CN190950	19	95	"Iowa County, IA"	Aug-10(p)	6.3	iowa
+CN190970	19	97	"Jackson County, IA"	Aug-10(p)	7.1	iowa
+CN190990	19	99	"Jasper County, IA"	Aug-10(p)	8.8	iowa
+CN191010	19	101	"Jefferson County, IA"	Aug-10(p)	8.5	iowa
+CN191030	19	103	"Johnson County, IA"	Aug-10(p)	5.1	iowa
+CN191050	19	105	"Jones County, IA"	Aug-10(p)	6	iowa
+CN191070	19	107	"Keokuk County, IA"	Aug-10(p)	7.2	iowa
+CN191090	19	109	"Kossuth County, IA"	Aug-10(p)	5.2	iowa
+CN191110	19	111	"Lee County, IA"	Aug-10(p)	10.8	iowa
+PS190100	19	113	"Linn County, IA"	Aug-10(p)	6.6	iowa
+CN191150	19	115	"Louisa County, IA"	Aug-10(p)	6.9	iowa
+CN191170	19	117	"Lucas County, IA"	Aug-10(p)	6.4	iowa
+CN191190	19	119	"Lyon County, IA"	Aug-10(p)	3.9	iowa
+CN191210	19	121	"Madison County, IA"	Aug-10(p)	7	iowa
+CN191230	19	123	"Mahaska County, IA"	Aug-10(p)	7.3	iowa
+CN191250	19	125	"Marion County, IA"	Aug-10(p)	6.6	iowa
+CN191270	19	127	"Marshall County, IA"	Aug-10(p)	7.4	iowa
+CN191290	19	129	"Mills County, IA"	Aug-10(p)	4.5	iowa
+CN191310	19	131	"Mitchell County, IA"	Aug-10(p)	5.3	iowa
+CN191330	19	133	"Monona County, IA"	Aug-10(p)	8.1	iowa
+CN191350	19	135	"Monroe County, IA"	Aug-10(p)	7.1	iowa
+CN191370	19	137	"Montgomery County, IA"	Aug-10(p)	10.3	iowa
+CN191390	19	139	"Muscatine County, IA"	Aug-10(p)	7.7	iowa
+CN191410	19	141	"O'Brien County, IA"	Aug-10(p)	5.4	iowa
+CN191430	19	143	"Osceola County, IA"	Aug-10(p)	6.1	iowa
+CN191450	19	145	"Page County, IA"	Aug-10(p)	7.3	iowa
+CN191470	19	147	"Palo Alto County, IA"	Aug-10(p)	6	iowa
+CN191490	19	149	"Plymouth County, IA"	Aug-10(p)	4.9	iowa
+CN191510	19	151	"Pocahontas County, IA"	Aug-10(p)	5.9	iowa
+CN191530	19	153	"Polk County, IA"	Aug-10(p)	6.7	iowa
+CN191550	19	155	"Pottawattamie County, IA"	Aug-10(p)	5.3	iowa
+CN191570	19	157	"Poweshiek County, IA"	Aug-10(p)	6.2	iowa
+CN191590	19	159	"Ringgold County, IA"	Aug-10(p)	5.5	iowa
+CN191610	19	161	"Sac County, IA"	Aug-10(p)	5.4	iowa
+CN191630	19	163	"Scott County, IA"	Aug-10(p)	7.5	iowa
+CN191650	19	165	"Shelby County, IA"	Aug-10(p)	4.2	iowa
+CN191670	19	167	"Sioux County, IA"	Aug-10(p)	4.3	iowa
+PA190070	19	169	"Story County, IA"	Aug-10(p)	5.4	iowa
+CN191710	19	171	"Tama County, IA"	Aug-10(p)	7.1	iowa
+CN191730	19	173	"Taylor County, IA"	Aug-10(p)	6.1	iowa
+CN191750	19	175	"Union County, IA"	Aug-10(p)	6.3	iowa
+CN191770	19	177	"Van Buren County, IA"	Aug-10(p)	8.4	iowa
+CN191790	19	179	"Wapello County, IA"	Aug-10(p)	9.4	iowa
+CN191810	19	181	"Warren County, IA"	Aug-10(p)	6.4	iowa
+CN191830	19	183	"Washington County, IA"	Aug-10(p)	5.4	iowa
+CN191850	19	185	"Wayne County, IA"	Aug-10(p)	6.4	iowa
+CN191870	19	187	"Webster County, IA"	Aug-10(p)	8.3	iowa
+CN191890	19	189	"Winnebago County, IA"	Aug-10(p)	8.1	iowa
+CN191910	19	191	"Winneshiek County, IA"	Aug-10(p)	6.1	iowa
+PS190200	19	193	"Woodbury County, IA"	Aug-10(p)	7.4	iowa
+CN191950	19	195	"Worth County, IA"	Aug-10(p)	7.4	iowa
+CN191970	19	197	"Wright County, IA"	Aug-10(p)	7.8	iowa
+CN200010	20	1	"Allen County, KS"	Aug-10(p)	7.3	kansas
+CN200030	20	3	"Anderson County, KS"	Aug-10(p)	7.2	kansas
+CN200050	20	5	"Atchison County, KS"	Aug-10(p)	7.9	kansas
+CN200070	20	7	"Barber County, KS"	Aug-10(p)	3.8	kansas
+CN200090	20	9	"Barton County, KS"	Aug-10(p)	5.1	kansas
+CN200110	20	11	"Bourbon County, KS"	Aug-10(p)	7	kansas
+CN200130	20	13	"Brown County, KS"	Aug-10(p)	5.5	kansas
+CN200150	20	15	"Butler County, KS"	Aug-10(p)	7.7	kansas
+CN200170	20	17	"Chase County, KS"	Aug-10(p)	5.6	kansas
+CN200190	20	19	"Chautauqua County, KS"	Aug-10(p)	8	kansas
+CN200210	20	21	"Cherokee County, KS"	Aug-10(p)	8.3	kansas
+CN200230	20	23	"Cheyenne County, KS"	Aug-10(p)	3.7	kansas
+CN200250	20	25	"Clark County, KS"	Aug-10(p)	4	kansas
+CN200270	20	27	"Clay County, KS"	Aug-10(p)	4.6	kansas
+CN200290	20	29	"Cloud County, KS"	Aug-10(p)	4.4	kansas
+CN200310	20	31	"Coffey County, KS"	Aug-10(p)	6.3	kansas
+CN200330	20	33	"Comanche County, KS"	Aug-10(p)	4.4	kansas
+CN200350	20	35	"Cowley County, KS"	Aug-10(p)	7.4	kansas
+CN200370	20	37	"Crawford County, KS"	Aug-10(p)	8.2	kansas
+CN200390	20	39	"Decatur County, KS"	Aug-10(p)	3.9	kansas
+CN200410	20	41	"Dickinson County, KS"	Aug-10(p)	5.6	kansas
+CN200430	20	43	"Doniphan County, KS"	Aug-10(p)	8.8	kansas
+CN200450	20	45	"Douglas County, KS"	Aug-10(p)	6.2	kansas
+CN200470	20	47	"Edwards County, KS"	Aug-10(p)	5	kansas
+CN200490	20	49	"Elk County, KS"	Aug-10(p)	8	kansas
+CN200510	20	51	"Ellis County, KS"	Aug-10(p)	3.7	kansas
+CN200530	20	53	"Ellsworth County, KS"	Aug-10(p)	4.1	kansas
+CN200550	20	55	"Finney County, KS"	Aug-10(p)	4.9	kansas
+CN200570	20	57	"Ford County, KS"	Aug-10(p)	3.7	kansas
+CN200590	20	59	"Franklin County, KS"	Aug-10(p)	8.2	kansas
+CN200610	20	61	"Geary County, KS"	Aug-10(p)	7.4	kansas
+CN200630	20	63	"Gove County, KS"	Aug-10(p)	3.1	kansas
+CN200650	20	65	"Graham County, KS"	Aug-10(p)	4.4	kansas
+CN200670	20	67	"Grant County, KS"	Aug-10(p)	4	kansas
+CN200690	20	69	"Gray County, KS"	Aug-10(p)	3.3	kansas
+CN200710	20	71	"Greeley County, KS"	Aug-10(p)	3.8	kansas
+CN200730	20	73	"Greenwood County, KS"	Aug-10(p)	7.4	kansas
+CN200750	20	75	"Hamilton County, KS"	Aug-10(p)	4	kansas
+CN200770	20	77	"Harper County, KS"	Aug-10(p)	5.2	kansas
+CN200790	20	79	"Harvey County, KS"	Aug-10(p)	6.9	kansas
+CN200810	20	81	"Haskell County, KS"	Aug-10(p)	3.6	kansas
+CN200830	20	83	"Hodgeman County, KS"	Aug-10(p)	4.3	kansas
+CN200850	20	85	"Jackson County, KS"	Aug-10(p)	6	kansas
+CN200870	20	87	"Jefferson County, KS"	Aug-10(p)	7.2	kansas
+CN200890	20	89	"Jewell County, KS"	Aug-10(p)	4.2	kansas
+CN200910	20	91	"Johnson County, KS"	Aug-10(p)	6.2	kansas
+CN200930	20	93	"Kearny County, KS"	Aug-10(p)	4.5	kansas
+CN200950	20	95	"Kingman County, KS"	Aug-10(p)	5.5	kansas
+CN200970	20	97	"Kiowa County, KS"	Aug-10(p)	4.5	kansas
+CN200990	20	99	"Labette County, KS"	Aug-10(p)	8.7	kansas
+CN201010	20	101	"Lane County, KS"	Aug-10(p)	3.5	kansas
+PA200400	20	103	"Leavenworth County, KS"	Aug-10(p)	7.5	kansas
+CN201050	20	105	"Lincoln County, KS"	Aug-10(p)	5.4	kansas
+CN201070	20	107	"Linn County, KS"	Aug-10(p)	8.6	kansas
+CN201090	20	109	"Logan County, KS"	Aug-10(p)	3.2	kansas
+CN201110	20	111	"Lyon County, KS"	Aug-10(p)	6.4	kansas
+CN201130	20	113	"McPherson County, KS"	Aug-10(p)	4.9	kansas
+CN201150	20	115	"Marion County, KS"	Aug-10(p)	5.6	kansas
+CN201170	20	117	"Marshall County, KS"	Aug-10(p)	4.5	kansas
+CN201190	20	119	"Meade County, KS"	Aug-10(p)	4.1	kansas
+CN201210	20	121	"Miami County, KS"	Aug-10(p)	7	kansas
+CN201230	20	123	"Mitchell County, KS"	Aug-10(p)	4.8	kansas
+CN201250	20	125	"Montgomery County, KS"	Aug-10(p)	9.3	kansas
+CN201270	20	127	"Morris County, KS"	Aug-10(p)	6.8	kansas
+CN201290	20	129	"Morton County, KS"	Aug-10(p)	4.2	kansas
+CN201310	20	131	"Nemaha County, KS"	Aug-10(p)	3.9	kansas
+CN201330	20	133	"Neosho County, KS"	Aug-10(p)	8.3	kansas
+CN201350	20	135	"Ness County, KS"	Aug-10(p)	3.5	kansas
+CN201370	20	137	"Norton County, KS"	Aug-10(p)	4.1	kansas
+CN201390	20	139	"Osage County, KS"	Aug-10(p)	7.7	kansas
+CN201410	20	141	"Osborne County, KS"	Aug-10(p)	4.2	kansas
+CN201430	20	143	"Ottawa County, KS"	Aug-10(p)	5.7	kansas
+CN201450	20	145	"Pawnee County, KS"	Aug-10(p)	4.1	kansas
+CN201470	20	147	"Phillips County, KS"	Aug-10(p)	4.3	kansas
+CN201490	20	149	"Pottawatomie County, KS"	Aug-10(p)	5.1	kansas
+CN201510	20	151	"Pratt County, KS"	Aug-10(p)	4.5	kansas
+CN201530	20	153	"Rawlins County, KS"	Aug-10(p)	4.2	kansas
+PA200550	20	155	"Reno County, KS"	Aug-10(p)	5.7	kansas
+CN201570	20	157	"Republic County, KS"	Aug-10(p)	3.9	kansas
+CN201590	20	159	"Rice County, KS"	Aug-10(p)	4.9	kansas
+PA200600	20	161	"Riley County, KS"	Aug-10(p)	4.6	kansas
+CN201630	20	163	"Rooks County, KS"	Aug-10(p)	5.5	kansas
+CN201650	20	165	"Rush County, KS"	Aug-10(p)	5.4	kansas
+CN201670	20	167	"Russell County, KS"	Aug-10(p)	5.1	kansas
+PA200800	20	169	"Saline County, KS"	Aug-10(p)	5.7	kansas
+CN201710	20	171	"Scott County, KS"	Aug-10(p)	3.4	kansas
+CN201730	20	173	"Sedgwick County, KS"	Aug-10(p)	8.3	kansas
+CN201750	20	175	"Seward County, KS"	Aug-10(p)	4.6	kansas
+PS200150	20	177	"Shawnee County, KS"	Aug-10(p)	6.7	kansas
+CN201790	20	179	"Sheridan County, KS"	Aug-10(p)	3.1	kansas
+CN201810	20	181	"Sherman County, KS"	Aug-10(p)	3.9	kansas
+CN201830	20	183	"Smith County, KS"	Aug-10(p)	4.3	kansas
+CN201850	20	185	"Stafford County, KS"	Aug-10(p)	5	kansas
+CN201870	20	187	"Stanton County, KS"	Aug-10(p)	3.9	kansas
+CN201890	20	189	"Stevens County, KS"	Aug-10(p)	4.7	kansas
+CN201910	20	191	"Sumner County, KS"	Aug-10(p)	9	kansas
+CN201930	20	193	"Thomas County, KS"	Aug-10(p)	4	kansas
+CN201950	20	195	"Trego County, KS"	Aug-10(p)	3.6	kansas
+CN201970	20	197	"Wabaunsee County, KS"	Aug-10(p)	6.3	kansas
+CN201990	20	199	"Wallace County, KS"	Aug-10(p)	3.4	kansas
+CN202010	20	201	"Washington County, KS"	Aug-10(p)	4.1	kansas
+CN202030	20	203	"Wichita County, KS"	Aug-10(p)	3.4	kansas
+CN202050	20	205	"Wilson County, KS"	Aug-10(p)	10	kansas
+CN202070	20	207	"Woodson County, KS"	Aug-10(p)	7.1	kansas
+PS200100	20	209	"Wyandotte County, KS"	Aug-10(p)	10.4	kansas
+CN210010	21	1	"Adair County, KY"	Aug-10(p)	10.5	kentucky
+CN210030	21	3	"Allen County, KY"	Aug-10(p)	11.8	kentucky
+CN210050	21	5	"Anderson County, KY"	Aug-10(p)	10.3	kentucky
+CN210070	21	7	"Ballard County, KY"	Aug-10(p)	9.3	kentucky
+CN210090	21	9	"Barren County, KY"	Aug-10(p)	11	kentucky
+CN210110	21	11	"Bath County, KY"	Aug-10(p)	12.1	kentucky
+CN210130	21	13	"Bell County, KY"	Aug-10(p)	12.6	kentucky
+CN210150	21	15	"Boone County, KY"	Aug-10(p)	8.5	kentucky
+CN210170	21	17	"Bourbon County, KY"	Aug-10(p)	9.3	kentucky
+PA210350	21	19	"Boyd County, KY"	Aug-10(p)	8.2	kentucky
+CN210210	21	21	"Boyle County, KY"	Aug-10(p)	12.2	kentucky
+CN210230	21	23	"Bracken County, KY"	Aug-10(p)	9	kentucky
+CN210250	21	25	"Breathitt County, KY"	Aug-10(p)	11.6	kentucky
+CN210270	21	27	"Breckinridge County, KY"	Aug-10(p)	10.5	kentucky
+CN210290	21	29	"Bullitt County, KY"	Aug-10(p)	9.6	kentucky
+CN210310	21	31	"Butler County, KY"	Aug-10(p)	12.3	kentucky
+CN210330	21	33	"Caldwell County, KY"	Aug-10(p)	8.8	kentucky
+CN210350	21	35	"Calloway County, KY"	Aug-10(p)	8.5	kentucky
+PA210400	21	37	"Campbell County, KY"	Aug-10(p)	9.7	kentucky
+CN210390	21	39	"Carlisle County, KY"	Aug-10(p)	8.6	kentucky
+CN210410	21	41	"Carroll County, KY"	Aug-10(p)	12.9	kentucky
+CN210430	21	43	"Carter County, KY"	Aug-10(p)	12.3	kentucky
+CN210450	21	45	"Casey County, KY"	Aug-10(p)	10.7	kentucky
+PA210450	21	47	"Christian County, KY"	Aug-10(p)	10.7	kentucky
+CN210490	21	49	"Clark County, KY"	Aug-10(p)	9.9	kentucky
+CN210510	21	51	"Clay County, KY"	Aug-10(p)	14.3	kentucky
+CN210530	21	53	"Clinton County, KY"	Aug-10(p)	8.9	kentucky
+CN210550	21	55	"Crittenden County, KY"	Aug-10(p)	9.9	kentucky
+CN210570	21	57	"Cumberland County, KY"	Aug-10(p)	10.3	kentucky
+CN210590	21	59	"Daviess County, KY"	Aug-10(p)	9	kentucky
+CN210610	21	61	"Edmonson County, KY"	Aug-10(p)	11.2	kentucky
+CN210630	21	63	"Elliott County, KY"	Aug-10(p)	11.8	kentucky
+CN210650	21	65	"Estill County, KY"	Aug-10(p)	13.2	kentucky
+PA210150	21	67	"Fayette County, KY"	Aug-10(p)	8.3	kentucky
+CN210690	21	69	"Fleming County, KY"	Aug-10(p)	11.8	kentucky
+CN210710	21	71	"Floyd County, KY"	Aug-10(p)	12.1	kentucky
+CN210730	21	73	"Franklin County, KY"	Aug-10(p)	8.6	kentucky
+CN210750	21	75	"Fulton County, KY"	Aug-10(p)	12.5	kentucky
+CN210770	21	77	"Gallatin County, KY"	Aug-10(p)	9.5	kentucky
+CN210790	21	79	"Garrard County, KY"	Aug-10(p)	11.8	kentucky
+CN210810	21	81	"Grant County, KY"	Aug-10(p)	9.5	kentucky
+CN210830	21	83	"Graves County, KY"	Aug-10(p)	10	kentucky
+CN210850	21	85	"Grayson County, KY"	Aug-10(p)	13.6	kentucky
+CN210870	21	87	"Green County, KY"	Aug-10(p)	12	kentucky
+CN210890	21	89	"Greenup County, KY"	Aug-10(p)	9	kentucky
+CN210910	21	91	"Hancock County, KY"	Aug-10(p)	8.6	kentucky
+PA210500	21	93	"Hardin County, KY"	Aug-10(p)	9.3	kentucky
+CN210950	21	95	"Harlan County, KY"	Aug-10(p)	11.8	kentucky
+CN210970	21	97	"Harrison County, KY"	Aug-10(p)	10.2	kentucky
+CN210990	21	99	"Hart County, KY"	Aug-10(p)	10.1	kentucky
+CN211010	21	101	"Henderson County, KY"	Aug-10(p)	8.6	kentucky
+CN211030	21	103	"Henry County, KY"	Aug-10(p)	9.5	kentucky
+CN211050	21	105	"Hickman County, KY"	Aug-10(p)	9.5	kentucky
+CN211070	21	107	"Hopkins County, KY"	Aug-10(p)	8.8	kentucky
+CN211090	21	109	"Jackson County, KY"	Aug-10(p)	16.7	kentucky
+PS210200	21	111	"Jefferson County, KY"	Aug-10(p)	10.2	kentucky
+CN211130	21	113	"Jessamine County, KY"	Aug-10(p)	9.4	kentucky
+CN211150	21	115	"Johnson County, KY"	Aug-10(p)	11.2	kentucky
+CN211170	21	117	"Kenton County, KY"	Aug-10(p)	9.2	kentucky
+CN211190	21	119	"Knott County, KY"	Aug-10(p)	12.2	kentucky
+CN211210	21	121	"Knox County, KY"	Aug-10(p)	11.4	kentucky
+CN211230	21	123	"Larue County, KY"	Aug-10(p)	9.2	kentucky
+CN211250	21	125	"Laurel County, KY"	Aug-10(p)	10.8	kentucky
+CN211270	21	127	"Lawrence County, KY"	Aug-10(p)	12.5	kentucky
+CN211290	21	129	"Lee County, KY"	Aug-10(p)	11.8	kentucky
+CN211310	21	131	"Leslie County, KY"	Aug-10(p)	13.4	kentucky
+CN211330	21	133	"Letcher County, KY"	Aug-10(p)	11.5	kentucky
+CN211350	21	135	"Lewis County, KY"	Aug-10(p)	13.4	kentucky
+CN211370	21	137	"Lincoln County, KY"	Aug-10(p)	12.3	kentucky
+CN211390	21	139	"Livingston County, KY"	Aug-10(p)	8.4	kentucky
+CN211410	21	141	"Logan County, KY"	Aug-10(p)	10	kentucky
+CN211430	21	143	"Lyon County, KY"	Aug-10(p)	10.2	kentucky
+PA210600	21	145	"McCracken County, KY"	Aug-10(p)	8.7	kentucky
+CN211470	21	147	"McCreary County, KY"	Aug-10(p)	14.2	kentucky
+CN211490	21	149	"McLean County, KY"	Aug-10(p)	10.7	kentucky
+PA210700	21	151	"Madison County, KY"	Aug-10(p)	9.1	kentucky
+CN211530	21	153	"Magoffin County, KY"	Aug-10(p)	18.2	kentucky
+CN211550	21	155	"Marion County, KY"	Aug-10(p)	10.9	kentucky
+CN211570	21	157	"Marshall County, KY"	Aug-10(p)	10.4	kentucky
+CN211590	21	159	"Martin County, KY"	Aug-10(p)	11.7	kentucky
+CN211610	21	161	"Mason County, KY"	Aug-10(p)	10.3	kentucky
+CN211630	21	163	"Meade County, KY"	Aug-10(p)	11.7	kentucky
+CN211650	21	165	"Menifee County, KY"	Aug-10(p)	17.2	kentucky
+CN211670	21	167	"Mercer County, KY"	Aug-10(p)	11.3	kentucky
+CN211690	21	169	"Metcalfe County, KY"	Aug-10(p)	15.5	kentucky
+CN211710	21	171	"Monroe County, KY"	Aug-10(p)	11.1	kentucky
+CN211730	21	173	"Montgomery County, KY"	Aug-10(p)	11.2	kentucky
+CN211750	21	175	"Morgan County, KY"	Aug-10(p)	13.6	kentucky
+CN211770	21	177	"Muhlenberg County, KY"	Aug-10(p)	10.7	kentucky
+CN211790	21	179	"Nelson County, KY"	Aug-10(p)	9.9	kentucky
+CN211810	21	181	"Nicholas County, KY"	Aug-10(p)	11.2	kentucky
+CN211830	21	183	"Ohio County, KY"	Aug-10(p)	9	kentucky
+CN211850	21	185	"Oldham County, KY"	Aug-10(p)	8.3	kentucky
+CN211870	21	187	"Owen County, KY"	Aug-10(p)	9.1	kentucky
+CN211890	21	189	"Owsley County, KY"	Aug-10(p)	11.5	kentucky
+CN211910	21	191	"Pendleton County, KY"	Aug-10(p)	10.3	kentucky
+CN211930	21	193	"Perry County, KY"	Aug-10(p)	11.2	kentucky
+PA210200	21	195	"Pike County, KY"	Aug-10(p)	10.1	kentucky
+CN211970	21	197	"Powell County, KY"	Aug-10(p)	13.6	kentucky
+CN211990	21	199	"Pulaski County, KY"	Aug-10(p)	10.1	kentucky
+CN212010	21	201	"Robertson County, KY"	Aug-10(p)	9.5	kentucky
+CN212030	21	203	"Rockcastle County, KY"	Aug-10(p)	9.7	kentucky
+CN212050	21	205	"Rowan County, KY"	Aug-10(p)	9.2	kentucky
+CN212070	21	207	"Russell County, KY"	Aug-10(p)	10.6	kentucky
+CN212090	21	209	"Scott County, KY"	Aug-10(p)	8.7	kentucky
+CN212110	21	211	"Shelby County, KY"	Aug-10(p)	8.6	kentucky
+CN212130	21	213	"Simpson County, KY"	Aug-10(p)	12	kentucky
+CN212150	21	215	"Spencer County, KY"	Aug-10(p)	8.9	kentucky
+CN212170	21	217	"Taylor County, KY"	Aug-10(p)	10.8	kentucky
+CN212190	21	219	"Todd County, KY"	Aug-10(p)	10.8	kentucky
+CN212210	21	221	"Trigg County, KY"	Aug-10(p)	8.8	kentucky
+CN212230	21	223	"Trimble County, KY"	Aug-10(p)	11.3	kentucky
+CN212250	21	225	"Union County, KY"	Aug-10(p)	10.5	kentucky
+PA210550	21	227	"Warren County, KY"	Aug-10(p)	9	kentucky
+CN212290	21	229	"Washington County, KY"	Aug-10(p)	11.4	kentucky
+CN212310	21	231	"Wayne County, KY"	Aug-10(p)	13.5	kentucky
+CN212330	21	233	"Webster County, KY"	Aug-10(p)	7.9	kentucky
+CN212350	21	235	"Whitley County, KY"	Aug-10(p)	12.2	kentucky
+CN212370	21	237	"Wolfe County, KY"	Aug-10(p)	13.7	kentucky
+CN212390	21	239	"Woodford County, KY"	Aug-10(p)	7.6	kentucky
+PA220200	22	1	"Acadia Parish, LA"	Aug-10(p)	7.4	louisiana
+CN220030	22	3	"Allen Parish, LA"	Aug-10(p)	10.2	louisiana
+PA221000	22	5	"Ascension Parish, LA"	Aug-10(p)	7.7	louisiana
+CN220070	22	7	"Assumption Parish, LA"	Aug-10(p)	10.7	louisiana
+CN220090	22	9	"Avoyelles Parish, LA"	Aug-10(p)	9.2	louisiana
+CN220110	22	11	"Beauregard Parish, LA"	Aug-10(p)	8.2	louisiana
+CN220130	22	13	"Bienville Parish, LA"	Aug-10(p)	9.7	louisiana
+CN220150	22	15	"Bossier Parish, LA"	Aug-10(p)	6.3	louisiana
+CN220170	22	17	"Caddo Parish, LA"	Aug-10(p)	8.2	louisiana
+CN220190	22	19	"Calcasieu Parish, LA"	Aug-10(p)	7.6	louisiana
+CN220210	22	21	"Caldwell Parish, LA"	Aug-10(p)	9.4	louisiana
+CN220230	22	23	"Cameron Parish, LA"	Aug-10(p)	6.9	louisiana
+CN220250	22	25	"Catahoula Parish, LA"	Aug-10(p)	10.5	louisiana
+CN220270	22	27	"Claiborne Parish, LA"	Aug-10(p)	10.1	louisiana
+CN220290	22	29	"Concordia Parish, LA"	Aug-10(p)	10.4	louisiana
+CN220310	22	31	"De Soto Parish, LA"	Aug-10(p)	8.8	louisiana
+PS220050	22	33	"East Baton Rouge Parish, LA"	Aug-10(p)	8	louisiana
+CN220350	22	35	"East Carroll Parish, LA"	Aug-10(p)	15.9	louisiana
+CN220370	22	37	"East Feliciana Parish, LA"	Aug-10(p)	9.6	louisiana
+CN220390	22	39	"Evangeline Parish, LA"	Aug-10(p)	9.3	louisiana
+CN220410	22	41	"Franklin Parish, LA"	Aug-10(p)	12.2	louisiana
+CN220430	22	43	"Grant Parish, LA"	Aug-10(p)	8.4	louisiana
+PA220300	22	45	"Iberia Parish, LA"	Aug-10(p)	8.1	louisiana
+CN220470	22	47	"Iberville Parish, LA"	Aug-10(p)	11	louisiana
+CN220490	22	49	"Jackson Parish, LA"	Aug-10(p)	7.5	louisiana
+PS220150	22	51	"Jefferson Parish, LA"	Aug-10(p)	7.3	louisiana
+CN220530	22	53	"Jefferson Davis Parish, LA"	Aug-10(p)	6.9	louisiana
+PS220170	22	55	"Lafayette Parish, LA"	Aug-10(p)	6.3	louisiana
+PA220350	22	57	"Lafourche Parish, LA"	Aug-10(p)	5.7	louisiana
+CN220590	22	59	"La Salle Parish, LA"	Aug-10(p)	6.7	louisiana
+CN220610	22	61	"Lincoln Parish, LA"	Aug-10(p)	9.6	louisiana
+PA220970	22	63	"Livingston Parish, LA"	Aug-10(p)	7.8	louisiana
+CN220650	22	65	"Madison Parish, LA"	Aug-10(p)	11.3	louisiana
+CN220670	22	67	"Morehouse Parish, LA"	Aug-10(p)	15.1	louisiana
+CN220690	22	69	"Natchitoches Parish, LA"	Aug-10(p)	8.9	louisiana
+PS220200	22	71	"Orleans Parish, LA"	Aug-10(p)	10.8	louisiana
+PS220220	22	73	"Ouachita Parish, LA"	Aug-10(p)	8.6	louisiana
+CN220750	22	75	"Plaquemines Parish, LA"	Aug-10(p)	6.7	louisiana
+CN220770	22	77	"Pointe Coupee Parish, LA"	Aug-10(p)	9.3	louisiana
+PS220250	22	79	"Rapides Parish, LA"	Aug-10(p)	7.7	louisiana
+CN220810	22	81	"Red River Parish, LA"	Aug-10(p)	9.5	louisiana
+CN220830	22	83	"Richland Parish, LA"	Aug-10(p)	10.5	louisiana
+CN220850	22	85	"Sabine Parish, LA"	Aug-10(p)	7.5	louisiana
+PA220450	22	87	"St. Bernard Parish, LA"	Aug-10(p)	7.8	louisiana
+CN220890	22	89	"St. Charles Parish, LA"	Aug-10(p)	7.4	louisiana
+CN220910	22	91	"St. Helena Parish, LA"	Aug-10(p)	15	louisiana
+CN220930	22	93	"St. James Parish, LA"	Aug-10(p)	12.4	louisiana
+CN220950	22	95	"St. John the Baptist Parish, LA"	Aug-10(p)	10.5	louisiana
+PA220500	22	97	"St. Landry Parish, LA"	Aug-10(p)	8.9	louisiana
+CN220990	22	99	"St. Martin Parish, LA"	Aug-10(p)	7.9	louisiana
+PA220550	22	101	"St. Mary Parish, LA"	Aug-10(p)	9.7	louisiana
+PA220600	22	103	"St. Tammany Parish, LA"	Aug-10(p)	6.2	louisiana
+PA220650	22	105	"Tangipahoa Parish, LA"	Aug-10(p)	9.8	louisiana
+CN221070	22	107	"Tensas Parish, LA"	Aug-10(p)	15.1	louisiana
+PA220750	22	109	"Terrebonne Parish, LA"	Aug-10(p)	6	louisiana
+CN221110	22	111	"Union Parish, LA"	Aug-10(p)	8.7	louisiana
+CN221130	22	113	"Vermilion Parish, LA"	Aug-10(p)	7.5	louisiana
+PA220950	22	115	"Vernon Parish, LA"	Aug-10(p)	8.5	louisiana
+CN221170	22	117	"Washington Parish, LA"	Aug-10(p)	10.6	louisiana
+CN221190	22	119	"Webster Parish, LA"	Aug-10(p)	9.2	louisiana
+CN221210	22	121	"West Baton Rouge Parish, LA"	Aug-10(p)	9	louisiana
+CN221230	22	123	"West Carroll Parish, LA"	Aug-10(p)	13.9	louisiana
+CN221250	22	125	"West Feliciana Parish, LA"	Aug-10(p)	9.2	louisiana
+CN221270	22	127	"Winn Parish, LA"	Aug-10(p)	8.5	louisiana
+PA230100	23	1	"Androscoggin County, ME"	Aug-10(p)	7.5	maine
+PA230150	23	3	"Aroostook County, ME"	Aug-10(p)	8.5	maine
+PS230050	23	5	"Cumberland County, ME"	Aug-10(p)	5.6	maine
+CN230070	23	7	"Franklin County, ME"	Aug-10(p)	8.9	maine
+CN230090	23	9	"Hancock County, ME"	Aug-10(p)	6.1	maine
+PA230170	23	11	"Kennebec County, ME"	Aug-10(p)	6.5	maine
+CN230130	23	13	"Knox County, ME"	Aug-10(p)	5.7	maine
+CN230150	23	15	"Lincoln County, ME"	Aug-10(p)	5.3	maine
+CN230170	23	17	"Oxford County, ME"	Aug-10(p)	9.4	maine
+PA230200	23	19	"Penobscot County, ME"	Aug-10(p)	7.9	maine
+CN230210	23	21	"Piscataquis County, ME"	Aug-10(p)	10.2	maine
+CN230230	23	23	"Sagadahoc County, ME"	Aug-10(p)	6	maine
+CN230250	23	25	"Somerset County, ME"	Aug-10(p)	9.3	maine
+CN230270	23	27	"Waldo County, ME"	Aug-10(p)	7.1	maine
+CN230290	23	29	"Washington County, ME"	Aug-10(p)	9.3	maine
+PA230600	23	31	"York County, ME"	Aug-10(p)	6.3	maine
+PA240400	24	1	"Allegany County, MD"	Aug-10(p)	9.3	maryland
+PA240150	24	3	"Anne Arundel County, MD"	Aug-10(p)	7	maryland
+PS240300	24	5	"Baltimore County, MD"	Aug-10(p)	8.2	maryland
+CN240090	24	9	"Calvert County, MD"	Aug-10(p)	6.3	maryland
+CN240110	24	11	"Caroline County, MD"	Aug-10(p)	9.3	maryland
+PA240250	24	13	"Carroll County, MD"	Aug-10(p)	6.8	maryland
+PA240500	24	15	"Cecil County, MD"	Aug-10(p)	10.5	maryland
+PA240600	24	17	"Charles County, MD"	Aug-10(p)	6.4	maryland
+CN240190	24	19	"Dorchester County, MD"	Aug-10(p)	10.5	maryland
+PS240350	24	21	"Frederick County, MD"	Aug-10(p)	6.4	maryland
+CN240230	24	23	"Garrett County, MD"	Aug-10(p)	7.4	maryland
+PA240200	24	25	"Harford County, MD"	Aug-10(p)	7.6	maryland
+PA240300	24	27	"Howard County, MD"	Aug-10(p)	5.6	maryland
+CN240290	24	29	"Kent County, MD"	Aug-10(p)	7.8	maryland
+PS240100	24	31	"Montgomery County, MD"	Aug-10(p)	5.5	maryland
+PS240150	24	33	"Prince George's County, MD"	Aug-10(p)	7.6	maryland
+CN240350	24	35	"Queen Anne's County, MD"	Aug-10(p)	6.7	maryland
+PA240650	24	37	"St. Mary's County, MD"	Aug-10(p)	6.5	maryland
+CN240390	24	39	"Somerset County, MD"	Aug-10(p)	10.1	maryland
+CN240410	24	41	"Talbot County, MD"	Aug-10(p)	7.3	maryland
+PA240350	24	43	"Washington County, MD"	Aug-10(p)	10.6	maryland
+PA240550	24	45	"Wicomico County, MD"	Aug-10(p)	8.5	maryland
+CN240470	24	47	"Worcester County, MD"	Aug-10(p)	7.9	maryland
+PA240050	24	510	"Baltimore city, MD"	Aug-10(p)	11.7	maryland
+CN250010	25	1	"Barnstable County, MA"	Aug-10(p)	6.8	massachusetts
+PS250220	25	3	"Berkshire County, MA"	Aug-10(p)	7.7	massachusetts
+CN250050	25	5	"Bristol County, MA"	Aug-10(p)	10.6	massachusetts
+CN250070	25	7	"Dukes County, MA"	Aug-10(p)	4.5	massachusetts
+CN250090	25	9	"Essex County, MA"	Aug-10(p)	8.6	massachusetts
+CN250110	25	11	"Franklin County, MA"	Aug-10(p)	8.1	massachusetts
+PS250200	25	13	"Hampden County, MA"	Aug-10(p)	10.4	massachusetts
+CN250150	25	15	"Hampshire County, MA"	Aug-10(p)	7.2	massachusetts
+CN250170	25	17	"Middlesex County, MA"	Aug-10(p)	6.9	massachusetts
+CN250190	25	19	"Nantucket County/town, MA"	Aug-10(p)	4.2	massachusetts
+CN250210	25	21	"Norfolk County, MA"	Aug-10(p)	7.4	massachusetts
+CN250230	25	23	"Plymouth County, MA"	Aug-10(p)	8.7	massachusetts
+CN250250	25	25	"Suffolk County, MA"	Aug-10(p)	8.3	massachusetts
+CN250270	25	27	"Worcester County, MA"	Aug-10(p)	9.4	massachusetts
+CN260010	26	1	"Alcona County, MI"	Aug-10(p)	16.8	michigan
+CN260030	26	3	"Alger County, MI"	Aug-10(p)	11.2	michigan
+PA260800	26	5	"Allegan County, MI"	Aug-10(p)	11.5	michigan
+CN260070	26	7	"Alpena County, MI"	Aug-10(p)	13	michigan
+CN260090	26	9	"Antrim County, MI"	Aug-10(p)	13.7	michigan
+CN260110	26	11	"Arenac County, MI"	Aug-10(p)	14.7	michigan
+CN260130	26	13	"Baraga County, MI"	Aug-10(p)	22	michigan
+CN260150	26	15	"Barry County, MI"	Aug-10(p)	9.6	michigan
+PS260070	26	17	"Bay County, MI"	Aug-10(p)	11.5	michigan
+CN260190	26	19	"Benzie County, MI"	Aug-10(p)	13.4	michigan
+PA262150	26	21	"Berrien County, MI"	Aug-10(p)	12.4	michigan
+CN260230	26	23	"Branch County, MI"	Aug-10(p)	12.5	michigan
+CN260250	26	25	"Calhoun County, MI"	Aug-10(p)	11.3	michigan
+CN260270	26	27	"Cass County, MI"	Aug-10(p)	10.7	michigan
+CN260290	26	29	"Charlevoix County, MI"	Aug-10(p)	12.7	michigan
+CN260310	26	31	"Cheboygan County, MI"	Aug-10(p)	7.9	michigan
+CN260330	26	33	"Chippewa County, MI"	Aug-10(p)	12.3	michigan
+CN260350	26	35	"Clare County, MI"	Aug-10(p)	15.6	michigan
+PA261950	26	37	"Clinton County, MI"	Aug-10(p)	8.9	michigan
+CN260390	26	39	"Crawford County, MI"	Aug-10(p)	12	michigan
+CN260410	26	41	"Delta County, MI"	Aug-10(p)	11.8	michigan
+CN260430	26	43	"Dickinson County, MI"	Aug-10(p)	10.9	michigan
+CN260450	26	45	"Eaton County, MI"	Aug-10(p)	9	michigan
+CN260470	26	47	"Emmet County, MI"	Aug-10(p)	12.2	michigan
+CN260490	26	49	"Genesee County, MI"	Aug-10(p)	13.9	michigan
+CN260510	26	51	"Gladwin County, MI"	Aug-10(p)	15.6	michigan
+CN260530	26	53	"Gogebic County, MI"	Aug-10(p)	13.6	michigan
+PA262300	26	55	"Grand Traverse County, MI"	Aug-10(p)	11	michigan
+CN260570	26	57	"Gratiot County, MI"	Aug-10(p)	13	michigan
+CN260590	26	59	"Hillsdale County, MI"	Aug-10(p)	14.9	michigan
+CN260610	26	61	"Houghton County, MI"	Aug-10(p)	10.9	michigan
+CN260630	26	63	"Huron County, MI"	Aug-10(p)	13.4	michigan
+CN260650	26	65	"Ingham County, MI"	Aug-10(p)	10.9	michigan
+PA262250	26	67	"Ionia County, MI"	Aug-10(p)	12.5	michigan
+CN260690	26	69	"Iosco County, MI"	Aug-10(p)	15.7	michigan
+CN260710	26	71	"Iron County, MI"	Aug-10(p)	10.9	michigan
+PA262000	26	73	"Isabella County, MI"	Aug-10(p)	8.9	michigan
+PA261300	26	75	"Jackson County, MI"	Aug-10(p)	12.8	michigan
+CN260770	26	77	"Kalamazoo County, MI"	Aug-10(p)	10.8	michigan
+CN260790	26	79	"Kalkaska County, MI"	Aug-10(p)	12.9	michigan
+CN260810	26	81	"Kent County, MI"	Aug-10(p)	10.5	michigan
+CN260830	26	83	"Keweenaw County, MI"	Aug-10(p)	11.5	michigan
+CN260850	26	85	"Lake County, MI"	Aug-10(p)	14.9	michigan
+PA261050	26	87	"Lapeer County, MI"	Aug-10(p)	14.1	michigan
+CN260890	26	89	"Leelanau County, MI"	Aug-10(p)	9.1	michigan
+PA261350	26	91	"Lenawee County, MI"	Aug-10(p)	14.7	michigan
+PS260530	26	93	"Livingston County, MI"	Aug-10(p)	11.4	michigan
+CN260950	26	95	"Luce County, MI"	Aug-10(p)	13.7	michigan
+CN260970	26	97	"Mackinac County, MI"	Aug-10(p)	5.6	michigan
+CN260990	26	99	"Macomb County, MI"	Aug-10(p)	14.3	michigan
+CN261010	26	101	"Manistee County, MI"	Aug-10(p)	12	michigan
+PA261650	26	103	"Marquette County, MI"	Aug-10(p)	9.8	michigan
+CN261050	26	105	"Mason County, MI"	Aug-10(p)	11.7	michigan
+CN261070	26	107	"Mecosta County, MI"	Aug-10(p)	12.9	michigan
+CN261090	26	109	"Menominee County, MI"	Aug-10(p)	10.6	michigan
+PA261700	26	111	"Midland County, MI"	Aug-10(p)	9.5	michigan
+CN261130	26	113	"Missaukee County, MI"	Aug-10(p)	14.9	michigan
+PS260650	26	115	"Monroe County, MI"	Aug-10(p)	12.9	michigan
+CN261170	26	117	"Montcalm County, MI"	Aug-10(p)	15.7	michigan
+CN261190	26	119	"Montmorency County, MI"	Aug-10(p)	18.4	michigan
+CN261210	26	121	"Muskegon County, MI"	Aug-10(p)	13.5	michigan
+CN261230	26	123	"Newaygo County, MI"	Aug-10(p)	12.8	michigan
+PS260750	26	125	"Oakland County, MI"	Aug-10(p)	13.1	michigan
+CN261270	26	127	"Oceana County, MI"	Aug-10(p)	13.4	michigan
+CN261290	26	129	"Ogemaw County, MI"	Aug-10(p)	12.1	michigan
+CN261310	26	131	"Ontonagon County, MI"	Aug-10(p)	18	michigan
+CN261330	26	133	"Osceola County, MI"	Aug-10(p)	14.1	michigan
+CN261350	26	135	"Oscoda County, MI"	Aug-10(p)	20.4	michigan
+CN261370	26	137	"Otsego County, MI"	Aug-10(p)	13.8	michigan
+PS260800	26	139	"Ottawa County, MI"	Aug-10(p)	11.3	michigan
+CN261410	26	141	"Presque Isle County, MI"	Aug-10(p)	15	michigan
+CN261430	26	143	"Roscommon County, MI"	Aug-10(p)	14.6	michigan
+CN261450	26	145	"Saginaw County, MI"	Aug-10(p)	11.8	michigan
+PS260850	26	147	"St. Clair County, MI"	Aug-10(p)	14.6	michigan
+PA261850	26	149	"St. Joseph County, MI"	Aug-10(p)	12.5	michigan
+CN261510	26	151	"Sanilac County, MI"	Aug-10(p)	15.1	michigan
+CN261530	26	153	"Schoolcraft County, MI"	Aug-10(p)	12.5	michigan
+PA261100	26	155	"Shiawassee County, MI"	Aug-10(p)	13.4	michigan
+CN261570	26	157	"Tuscola County, MI"	Aug-10(p)	14.4	michigan
+PA261750	26	159	"Van Buren County, MI"	Aug-10(p)	11.2	michigan
+CN261610	26	161	"Washtenaw County, MI"	Aug-10(p)	8.8	michigan
+CN261630	26	163	"Wayne County, MI"	Aug-10(p)	15.7	michigan
+CN261650	26	165	"Wexford County, MI"	Aug-10(p)	15.6	michigan
+CN270010	27	1	"Aitkin County, MN"	Aug-10(p)	8.7	minnesota
+PA270150	27	3	"Anoka County, MN"	Aug-10(p)	7.3	minnesota
+CN270050	27	5	"Becker County, MN"	Aug-10(p)	6.4	minnesota
+CN270070	27	7	"Beltrami County, MN"	Aug-10(p)	8.1	minnesota
+CN270090	27	9	"Benton County, MN"	Aug-10(p)	7	minnesota
+CN270110	27	11	"Big Stone County, MN"	Aug-10(p)	5.2	minnesota
+PA270450	27	13	"Blue Earth County, MN"	Aug-10(p)	6.3	minnesota
+CN270150	27	15	"Brown County, MN"	Aug-10(p)	6	minnesota
+CN270170	27	17	"Carlton County, MN"	Aug-10(p)	7.7	minnesota
+CN270190	27	19	"Carver County, MN"	Aug-10(p)	6.4	minnesota
+CN270210	27	21	"Cass County, MN"	Aug-10(p)	9.3	minnesota
+CN270230	27	23	"Chippewa County, MN"	Aug-10(p)	6.8	minnesota
+CN270250	27	25	"Chisago County, MN"	Aug-10(p)	8.3	minnesota
+CN270270	27	27	"Clay County, MN"	Aug-10(p)	4.4	minnesota
+CN270290	27	29	"Clearwater County, MN"	Aug-10(p)	11.5	minnesota
+CN270310	27	31	"Cook County, MN"	Aug-10(p)	4.9	minnesota
+CN270330	27	33	"Cottonwood County, MN"	Aug-10(p)	5.4	minnesota
+CN270350	27	35	"Crow Wing County, MN"	Aug-10(p)	7.7	minnesota
+PS270050	27	37	"Dakota County, MN"	Aug-10(p)	6.9	minnesota
+CN270390	27	39	"Dodge County, MN"	Aug-10(p)	6	minnesota
+CN270410	27	41	"Douglas County, MN"	Aug-10(p)	5.8	minnesota
+CN270430	27	43	"Faribault County, MN"	Aug-10(p)	7.9	minnesota
+CN270450	27	45	"Fillmore County, MN"	Aug-10(p)	6.7	minnesota
+CN270470	27	47	"Freeborn County, MN"	Aug-10(p)	7.8	minnesota
+CN270490	27	49	"Goodhue County, MN"	Aug-10(p)	6.8	minnesota
+CN270510	27	51	"Grant County, MN"	Aug-10(p)	6.9	minnesota
+CN270530	27	53	"Hennepin County, MN"	Aug-10(p)	6.9	minnesota
+CN270550	27	55	"Houston County, MN"	Aug-10(p)	6.6	minnesota
+CN270570	27	57	"Hubbard County, MN"	Aug-10(p)	8.2	minnesota
+CN270590	27	59	"Isanti County, MN"	Aug-10(p)	7.5	minnesota
+CN270610	27	61	"Itasca County, MN"	Aug-10(p)	8.9	minnesota
+CN270630	27	63	"Jackson County, MN"	Aug-10(p)	4.7	minnesota
+CN270650	27	65	"Kanabec County, MN"	Aug-10(p)	9.9	minnesota
+CN270670	27	67	"Kandiyohi County, MN"	Aug-10(p)	6	minnesota
+CN270690	27	69	"Kittson County, MN"	Aug-10(p)	7.1	minnesota
+CN270710	27	71	"Koochiching County, MN"	Aug-10(p)	7.7	minnesota
+CN270730	27	73	"Lac qui Parle County, MN"	Aug-10(p)	6	minnesota
+CN270750	27	75	"Lake County, MN"	Aug-10(p)	7.5	minnesota
+CN270770	27	77	"Lake of the Woods County, MN"	Aug-10(p)	6.3	minnesota
+CN270790	27	79	"Le Sueur County, MN"	Aug-10(p)	8.4	minnesota
+CN270810	27	81	"Lincoln County, MN"	Aug-10(p)	4.8	minnesota
+CN270830	27	83	"Lyon County, MN"	Aug-10(p)	5.5	minnesota
+CN270850	27	85	"McLeod County, MN"	Aug-10(p)	8.8	minnesota
+CN270870	27	87	"Mahnomen County, MN"	Aug-10(p)	7.8	minnesota
+CN270890	27	89	"Marshall County, MN"	Aug-10(p)	7.1	minnesota
+CN270910	27	91	"Martin County, MN"	Aug-10(p)	7.1	minnesota
+CN270930	27	93	"Meeker County, MN"	Aug-10(p)	8	minnesota
+CN270950	27	95	"Mille Lacs County, MN"	Aug-10(p)	10.6	minnesota
+CN270970	27	97	"Morrison County, MN"	Aug-10(p)	8.1	minnesota
+CN270990	27	99	"Mower County, MN"	Aug-10(p)	5.8	minnesota
+CN271010	27	101	"Murray County, MN"	Aug-10(p)	4.4	minnesota
+CN271030	27	103	"Nicollet County, MN"	Aug-10(p)	5.9	minnesota
+CN271050	27	105	"Nobles County, MN"	Aug-10(p)	5	minnesota
+CN271070	27	107	"Norman County, MN"	Aug-10(p)	6.7	minnesota
+CN271090	27	109	"Olmsted County, MN"	Aug-10(p)	5.5	minnesota
+PA270650	27	111	"Otter Tail County, MN"	Aug-10(p)	6.3	minnesota
+CN271130	27	113	"Pennington County, MN"	Aug-10(p)	6.2	minnesota
+CN271150	27	115	"Pine County, MN"	Aug-10(p)	8.7	minnesota
+CN271170	27	117	"Pipestone County, MN"	Aug-10(p)	5.5	minnesota
+CN271190	27	119	"Polk County, MN"	Aug-10(p)	5.5	minnesota
+CN271210	27	121	"Pope County, MN"	Aug-10(p)	6.1	minnesota
+CN271230	27	123	"Ramsey County, MN"	Aug-10(p)	7.4	minnesota
+CN271250	27	125	"Red Lake County, MN"	Aug-10(p)	7.5	minnesota
+CN271270	27	127	"Redwood County, MN"	Aug-10(p)	6.1	minnesota
+CN271290	27	129	"Renville County, MN"	Aug-10(p)	7.7	minnesota
+CN271310	27	131	"Rice County, MN"	Aug-10(p)	7.9	minnesota
+CN271330	27	133	"Rock County, MN"	Aug-10(p)	5.3	minnesota
+CN271350	27	135	"Roseau County, MN"	Aug-10(p)	5.5	minnesota
+CN271370	27	137	"St. Louis County, MN"	Aug-10(p)	7.4	minnesota
+CN271390	27	139	"Scott County, MN"	Aug-10(p)	6.6	minnesota
+CN271410	27	141	"Sherburne County, MN"	Aug-10(p)	7.1	minnesota
+CN271430	27	143	"Sibley County, MN"	Aug-10(p)	6.4	minnesota
+PA270350	27	145	"Stearns County, MN"	Aug-10(p)	6.6	minnesota
+CN271470	27	147	"Steele County, MN"	Aug-10(p)	7.6	minnesota
+CN271490	27	149	"Stevens County, MN"	Aug-10(p)	5.4	minnesota
+CN271510	27	151	"Swift County, MN"	Aug-10(p)	7.1	minnesota
+CN271530	27	153	"Todd County, MN"	Aug-10(p)	7.3	minnesota
+CN271550	27	155	"Traverse County, MN"	Aug-10(p)	6.1	minnesota
+CN271570	27	157	"Wabasha County, MN"	Aug-10(p)	6.1	minnesota
+CN271590	27	159	"Wadena County, MN"	Aug-10(p)	8.8	minnesota
+CN271610	27	161	"Waseca County, MN"	Aug-10(p)	7	minnesota
+PA270250	27	163	"Washington County, MN"	Aug-10(p)	6.7	minnesota
+CN271650	27	165	"Watonwan County, MN"	Aug-10(p)	7.6	minnesota
+CN271670	27	167	"Wilkin County, MN"	Aug-10(p)	4.8	minnesota
+CN271690	27	169	"Winona County, MN"	Aug-10(p)	7.2	minnesota
+PA270600	27	171	"Wright County, MN"	Aug-10(p)	6.9	minnesota
+CN271730	27	173	"Yellow Medicine County, MN"	Aug-10(p)	6.3	minnesota
+CN280010	28	1	"Adams County, MS"	Aug-10(p)	9.8	mississippi
+CN280030	28	3	"Alcorn County, MS"	Aug-10(p)	10	mississippi
+CN280050	28	5	"Amite County, MS"	Aug-10(p)	10.5	mississippi
+CN280070	28	7	"Attala County, MS"	Aug-10(p)	12.8	mississippi
+CN280090	28	9	"Benton County, MS"	Aug-10(p)	12.7	mississippi
+CN280110	28	11	"Bolivar County, MS"	Aug-10(p)	10.3	mississippi
+CN280130	28	13	"Calhoun County, MS"	Aug-10(p)	9	mississippi
+CN280150	28	15	"Carroll County, MS"	Aug-10(p)	8.9	mississippi
+CN280170	28	17	"Chickasaw County, MS"	Aug-10(p)	12.3	mississippi
+CN280190	28	19	"Choctaw County, MS"	Aug-10(p)	10.5	mississippi
+CN280210	28	21	"Claiborne County, MS"	Aug-10(p)	14.3	mississippi
+CN280230	28	23	"Clarke County, MS"	Aug-10(p)	10.5	mississippi
+CN280250	28	25	"Clay County, MS"	Aug-10(p)	17.5	mississippi
+CN280270	28	27	"Coahoma County, MS"	Aug-10(p)	12.4	mississippi
+CN280290	28	29	"Copiah County, MS"	Aug-10(p)	9.5	mississippi
+CN280310	28	31	"Covington County, MS"	Aug-10(p)	8	mississippi
+PA280500	28	33	"DeSoto County, MS"	Aug-10(p)	7.2	mississippi
+PA280200	28	35	"Forrest County, MS"	Aug-10(p)	7.7	mississippi
+CN280370	28	37	"Franklin County, MS"	Aug-10(p)	10.8	mississippi
+CN280390	28	39	"George County, MS"	Aug-10(p)	8.5	mississippi
+CN280410	28	41	"Greene County, MS"	Aug-10(p)	10.8	mississippi
+CN280430	28	43	"Grenada County, MS"	Aug-10(p)	10.5	mississippi
+CN280450	28	45	"Hancock County, MS"	Aug-10(p)	7.6	mississippi
+CN280470	28	47	"Harrison County, MS"	Aug-10(p)	7.1	mississippi
+CN280490	28	49	"Hinds County, MS"	Aug-10(p)	7.7	mississippi
+CN280510	28	51	"Holmes County, MS"	Aug-10(p)	17.7	mississippi
+CN280530	28	53	"Humphreys County, MS"	Aug-10(p)	12.6	mississippi
+CN280550	28	55	"Issaquena County, MS"	Aug-10(p)	7.5	mississippi
+CN280570	28	57	"Itawamba County, MS"	Aug-10(p)	10.2	mississippi
+CN280590	28	59	"Jackson County, MS"	Aug-10(p)	7.8	mississippi
+CN280610	28	61	"Jasper County, MS"	Aug-10(p)	10	mississippi
+CN280630	28	63	"Jefferson County, MS"	Aug-10(p)	16.4	mississippi
+CN280650	28	65	"Jefferson Davis County, MS"	Aug-10(p)	12	mississippi
+PA280300	28	67	"Jones County, MS"	Aug-10(p)	6.6	mississippi
+CN280690	28	69	"Kemper County, MS"	Aug-10(p)	10.9	mississippi
+CN280710	28	71	"Lafayette County, MS"	Aug-10(p)	6.9	mississippi
+CN280730	28	73	"Lamar County, MS"	Aug-10(p)	6.2	mississippi
+PA280350	28	75	"Lauderdale County, MS"	Aug-10(p)	9	mississippi
+CN280770	28	77	"Lawrence County, MS"	Aug-10(p)	10.7	mississippi
+CN280790	28	79	"Leake County, MS"	Aug-10(p)	8.6	mississippi
+PA280600	28	81	"Lee County, MS"	Aug-10(p)	9.3	mississippi
+CN280830	28	83	"Leflore County, MS"	Aug-10(p)	11.8	mississippi
+CN280850	28	85	"Lincoln County, MS"	Aug-10(p)	8.9	mississippi
+PA280450	28	87	"Lowndes County, MS"	Aug-10(p)	10.3	mississippi
+CN280890	28	89	"Madison County, MS"	Aug-10(p)	6.2	mississippi
+CN280910	28	91	"Marion County, MS"	Aug-10(p)	9.9	mississippi
+CN280930	28	93	"Marshall County, MS"	Aug-10(p)	10.9	mississippi
+CN280950	28	95	"Monroe County, MS"	Aug-10(p)	12	mississippi
+CN280970	28	97	"Montgomery County, MS"	Aug-10(p)	12.5	mississippi
+CN280990	28	99	"Neshoba County, MS"	Aug-10(p)	8.1	mississippi
+CN281010	28	101	"Newton County, MS"	Aug-10(p)	8.9	mississippi
+CN281030	28	103	"Noxubee County, MS"	Aug-10(p)	18.5	mississippi
+CN281050	28	105	"Oktibbeha County, MS"	Aug-10(p)	8.7	mississippi
+CN281070	28	107	"Panola County, MS"	Aug-10(p)	11	mississippi
+CN281090	28	109	"Pearl River County, MS"	Aug-10(p)	8.6	mississippi
+CN281110	28	111	"Perry County, MS"	Aug-10(p)	10	mississippi
+CN281130	28	113	"Pike County, MS"	Aug-10(p)	10	mississippi
+CN281150	28	115	"Pontotoc County, MS"	Aug-10(p)	9.4	mississippi
+CN281170	28	117	"Prentiss County, MS"	Aug-10(p)	11.1	mississippi
+CN281190	28	119	"Quitman County, MS"	Aug-10(p)	11.6	mississippi
+PA280550	28	121	"Rankin County, MS"	Aug-10(p)	5.1	mississippi
+CN281230	28	123	"Scott County, MS"	Aug-10(p)	6.4	mississippi
+CN281250	28	125	"Sharkey County, MS"	Aug-10(p)	10.4	mississippi
+CN281270	28	127	"Simpson County, MS"	Aug-10(p)	7.4	mississippi
+CN281290	28	129	"Smith County, MS"	Aug-10(p)	8.4	mississippi
+CN281310	28	131	"Stone County, MS"	Aug-10(p)	7.3	mississippi
+CN281330	28	133	"Sunflower County, MS"	Aug-10(p)	13.4	mississippi
+CN281350	28	135	"Tallahatchie County, MS"	Aug-10(p)	9.6	mississippi
+CN281370	28	137	"Tate County, MS"	Aug-10(p)	10.4	mississippi
+CN281390	28	139	"Tippah County, MS"	Aug-10(p)	12.8	mississippi
+CN281410	28	141	"Tishomingo County, MS"	Aug-10(p)	11.1	mississippi
+CN281430	28	143	"Tunica County, MS"	Aug-10(p)	14.9	mississippi
+CN281450	28	145	"Union County, MS"	Aug-10(p)	10.5	mississippi
+CN281470	28	147	"Walthall County, MS"	Aug-10(p)	11.2	mississippi
+PA280750	28	149	"Warren County, MS"	Aug-10(p)	9.2	mississippi
+PA280400	28	151	"Washington County, MS"	Aug-10(p)	13.3	mississippi
+CN281530	28	153	"Wayne County, MS"	Aug-10(p)	10	mississippi
+CN281550	28	155	"Webster County, MS"	Aug-10(p)	11.9	mississippi
+CN281570	28	157	"Wilkinson County, MS"	Aug-10(p)	11.1	mississippi
+CN281590	28	159	"Winston County, MS"	Aug-10(p)	16.3	mississippi
+CN281610	28	161	"Yalobusha County, MS"	Aug-10(p)	11.9	mississippi
+CN281630	28	163	"Yazoo County, MS"	Aug-10(p)	10.8	mississippi
+CN290010	29	1	"Adair County, MO"	Aug-10(p)	8.2	missouri
+CN290030	29	3	"Andrew County, MO"	Aug-10(p)	7.2	missouri
+CN290050	29	5	"Atchison County, MO"	Aug-10(p)	9.5	missouri
+CN290070	29	7	"Audrain County, MO"	Aug-10(p)	9.1	missouri
+CN290090	29	9	"Barry County, MO"	Aug-10(p)	8.4	missouri
+CN290110	29	11	"Barton County, MO"	Aug-10(p)	11.4	missouri
+CN290130	29	13	"Bates County, MO"	Aug-10(p)	11.1	missouri
+CN290150	29	15	"Benton County, MO"	Aug-10(p)	10.3	missouri
+CN290170	29	17	"Bollinger County, MO"	Aug-10(p)	9.2	missouri
+CN290190	29	19	"Boone County, MO"	Aug-10(p)	6.8	missouri
+CN290210	29	21	"Buchanan County, MO"	Aug-10(p)	8	missouri
+CN290230	29	23	"Butler County, MO"	Aug-10(p)	8.1	missouri
+CN290250	29	25	"Caldwell County, MO"	Aug-10(p)	8.8	missouri
+CN290270	29	27	"Callaway County, MO"	Aug-10(p)	8	missouri
+CN290290	29	29	"Camden County, MO"	Aug-10(p)	8.4	missouri
+PA290700	29	31	"Cape Girardeau County, MO"	Aug-10(p)	7.6	missouri
+CN290330	29	33	"Carroll County, MO"	Aug-10(p)	10.9	missouri
+CN290350	29	35	"Carter County, MO"	Aug-10(p)	9.8	missouri
+PA290900	29	37	"Cass County, MO"	Aug-10(p)	9.6	missouri
+CN290390	29	39	"Cedar County, MO"	Aug-10(p)	10.1	missouri
+CN290410	29	41	"Chariton County, MO"	Aug-10(p)	9.6	missouri
+CN290430	29	43	"Christian County, MO"	Aug-10(p)	7.7	missouri
+CN290450	29	45	"Clark County, MO"	Aug-10(p)	10.2	missouri
+CN290470	29	47	"Clay County, MO"	Aug-10(p)	8.6	missouri
+CN290490	29	49	"Clinton County, MO"	Aug-10(p)	10.2	missouri
+PA290300	29	51	"Cole County, MO"	Aug-10(p)	7.2	missouri
+CN290530	29	53	"Cooper County, MO"	Aug-10(p)	8.5	missouri
+CN290550	29	55	"Crawford County, MO"	Aug-10(p)	10.3	missouri
+CN290570	29	57	"Dade County, MO"	Aug-10(p)	9.3	missouri
+CN290590	29	59	"Dallas County, MO"	Aug-10(p)	10.9	missouri
+CN290610	29	61	"Daviess County, MO"	Aug-10(p)	9.4	missouri
+CN290630	29	63	"DeKalb County, MO"	Aug-10(p)	9.2	missouri
+CN290650	29	65	"Dent County, MO"	Aug-10(p)	10	missouri
+CN290670	29	67	"Douglas County, MO"	Aug-10(p)	8.8	missouri
+CN290690	29	69	"Dunklin County, MO"	Aug-10(p)	11.1	missouri
+PA290200	29	71	"Franklin County, MO"	Aug-10(p)	10.2	missouri
+CN290730	29	73	"Gasconade County, MO"	Aug-10(p)	9.9	missouri
+CN290750	29	75	"Gentry County, MO"	Aug-10(p)	6.7	missouri
+CN290770	29	77	"Greene County, MO"	Aug-10(p)	8.2	missouri
+CN290790	29	79	"Grundy County, MO"	Aug-10(p)	8.3	missouri
+CN290810	29	81	"Harrison County, MO"	Aug-10(p)	8.1	missouri
+CN290830	29	83	"Henry County, MO"	Aug-10(p)	9.5	missouri
+CN290850	29	85	"Hickory County, MO"	Aug-10(p)	12.9	missouri
+CN290870	29	87	"Holt County, MO"	Aug-10(p)	7.7	missouri
+CN290890	29	89	"Howard County, MO"	Aug-10(p)	8.2	missouri
+CN290910	29	91	"Howell County, MO"	Aug-10(p)	9.2	missouri
+CN290930	29	93	"Iron County, MO"	Aug-10(p)	10.4	missouri
+CN290950	29	95	"Jackson County, MO"	Aug-10(p)	10.9	missouri
+PA290750	29	97	"Jasper County, MO"	Aug-10(p)	8.6	missouri
+PA290150	29	99	"Jefferson County, MO"	Aug-10(p)	9.4	missouri
+CN291010	29	101	"Johnson County, MO"	Aug-10(p)	9.3	missouri
+CN291030	29	103	"Knox County, MO"	Aug-10(p)	6.6	missouri
+CN291050	29	105	"Laclede County, MO"	Aug-10(p)	11.5	missouri
+CN291070	29	107	"Lafayette County, MO"	Aug-10(p)	9.9	missouri
+CN291090	29	109	"Lawrence County, MO"	Aug-10(p)	8.4	missouri
+CN291110	29	111	"Lewis County, MO"	Aug-10(p)	7.5	missouri
+CN291130	29	113	"Lincoln County, MO"	Aug-10(p)	9.8	missouri
+CN291150	29	115	"Linn County, MO"	Aug-10(p)	10.2	missouri
+CN291170	29	117	"Livingston County, MO"	Aug-10(p)	7.6	missouri
+CN291190	29	119	"McDonald County, MO"	Aug-10(p)	9.6	missouri
+CN291210	29	121	"Macon County, MO"	Aug-10(p)	8.3	missouri
+CN291230	29	123	"Madison County, MO"	Aug-10(p)	10.1	missouri
+CN291250	29	125	"Maries County, MO"	Aug-10(p)	8.4	missouri
+CN291270	29	127	"Marion County, MO"	Aug-10(p)	8.5	missouri
+CN291290	29	129	"Mercer County, MO"	Aug-10(p)	9.5	missouri
+CN291310	29	131	"Miller County, MO"	Aug-10(p)	10.5	missouri
+CN291330	29	133	"Mississippi County, MO"	Aug-10(p)	9.5	missouri
+CN291350	29	135	"Moniteau County, MO"	Aug-10(p)	8.3	missouri
+CN291370	29	137	"Monroe County, MO"	Aug-10(p)	11.5	missouri
+CN291390	29	139	"Montgomery County, MO"	Aug-10(p)	10.4	missouri
+CN291410	29	141	"Morgan County, MO"	Aug-10(p)	11.1	missouri
+CN291430	29	143	"New Madrid County, MO"	Aug-10(p)	9.7	missouri
+CN291450	29	145	"Newton County, MO"	Aug-10(p)	9.4	missouri
+CN291470	29	147	"Nodaway County, MO"	Aug-10(p)	7.3	missouri
+CN291490	29	149	"Oregon County, MO"	Aug-10(p)	8.6	missouri
+CN291510	29	151	"Osage County, MO"	Aug-10(p)	7.3	missouri
+CN291530	29	153	"Ozark County, MO"	Aug-10(p)	8.3	missouri
+CN291550	29	155	"Pemiscot County, MO"	Aug-10(p)	10.8	missouri
+CN291570	29	157	"Perry County, MO"	Aug-10(p)	6.2	missouri
+CN291590	29	159	"Pettis County, MO"	Aug-10(p)	8.9	missouri
+CN291610	29	161	"Phelps County, MO"	Aug-10(p)	7.8	missouri
+CN291630	29	163	"Pike County, MO"	Aug-10(p)	8.5	missouri
+CN291650	29	165	"Platte County, MO"	Aug-10(p)	7.9	missouri
+CN291670	29	167	"Polk County, MO"	Aug-10(p)	11	missouri
+PA290350	29	169	"Pulaski County, MO"	Aug-10(p)	7.9	missouri
+CN291710	29	171	"Putnam County, MO"	Aug-10(p)	8.3	missouri
+CN291730	29	173	"Ralls County, MO"	Aug-10(p)	7.6	missouri
+CN291750	29	175	"Randolph County, MO"	Aug-10(p)	10.1	missouri
+CN291770	29	177	"Ray County, MO"	Aug-10(p)	10.5	missouri
+CN291790	29	179	"Reynolds County, MO"	Aug-10(p)	13.4	missouri
+CN291810	29	181	"Ripley County, MO"	Aug-10(p)	9.9	missouri
+PS290300	29	183	"St. Charles County, MO"	Aug-10(p)	8.1	missouri
+CN291850	29	185	"St. Clair County, MO"	Aug-10(p)	11	missouri
+CN291860	29	186	"Ste. Genevieve County, MO"	Aug-10(p)	8.8	missouri
+CN291870	29	187	"St. Francois County, MO"	Aug-10(p)	10.6	missouri
+PS290400	29	189	"St. Louis County, MO"	Aug-10(p)	9.5	missouri
+CN291950	29	195	"Saline County, MO"	Aug-10(p)	8.8	missouri
+CN291970	29	197	"Schuyler County, MO"	Aug-10(p)	8.9	missouri
+CN291990	29	199	"Scotland County, MO"	Aug-10(p)	7.2	missouri
+CN292010	29	201	"Scott County, MO"	Aug-10(p)	9	missouri
+CN292030	29	203	"Shannon County, MO"	Aug-10(p)	11.7	missouri
+CN292050	29	205	"Shelby County, MO"	Aug-10(p)	8.1	missouri
+CN292070	29	207	"Stoddard County, MO"	Aug-10(p)	9	missouri
+CN292090	29	209	"Stone County, MO"	Aug-10(p)	9.6	missouri
+CN292110	29	211	"Sullivan County, MO"	Aug-10(p)	6.8	missouri
+CN292130	29	213	"Taney County, MO"	Aug-10(p)	9.5	missouri
+CN292150	29	215	"Texas County, MO"	Aug-10(p)	9.8	missouri
+CN292170	29	217	"Vernon County, MO"	Aug-10(p)	8.8	missouri
+CN292190	29	219	"Warren County, MO"	Aug-10(p)	9.6	missouri
+CN292210	29	221	"Washington County, MO"	Aug-10(p)	11.8	missouri
+CN292230	29	223	"Wayne County, MO"	Aug-10(p)	9.7	missouri
+CN292250	29	225	"Webster County, MO"	Aug-10(p)	9.6	missouri
+CN292270	29	227	"Worth County, MO"	Aug-10(p)	7.6	missouri
+CN292290	29	229	"Wright County, MO"	Aug-10(p)	10.4	missouri
+PS290350	29	510	"St. Louis city, MO"	Aug-10(p)	12.8	missouri
+CN300010	30	1	"Beaverhead County, MT"	Aug-10(p)	5.1	montana
+CN300030	30	3	"Big Horn County, MT"	Aug-10(p)	11.5	montana
+CN300050	30	5	"Blaine County, MT"	Aug-10(p)	5.5	montana
+CN300070	30	7	"Broadwater County, MT"	Aug-10(p)	6.8	montana
+CN300090	30	9	"Carbon County, MT"	Aug-10(p)	5.6	montana
+CN300110	30	11	"Carter County, MT"	Aug-10(p)	3.8	montana
+CN300130	30	13	"Cascade County, MT"	Aug-10(p)	6.1	montana
+CN300150	30	15	"Chouteau County, MT"	Aug-10(p)	4.5	montana
+CN300170	30	17	"Custer County, MT"	Aug-10(p)	4.5	montana
+CN300190	30	19	"Daniels County, MT"	Aug-10(p)	4.6	montana
+CN300210	30	21	"Dawson County, MT"	Aug-10(p)	4.3	montana
+CN300230	30	23	"Deer Lodge County, MT"	Aug-10(p)	7.8	montana
+CN300250	30	25	"Fallon County, MT"	Aug-10(p)	2.7	montana
+CN300270	30	27	"Fergus County, MT"	Aug-10(p)	5.7	montana
+PA300300	30	29	"Flathead County, MT"	Aug-10(p)	10.2	montana
+CN300310	30	31	"Gallatin County, MT"	Aug-10(p)	6.3	montana
+CN300330	30	33	"Garfield County, MT"	Aug-10(p)	3.6	montana
+CN300350	30	35	"Glacier County, MT"	Aug-10(p)	10.5	montana
+CN300370	30	37	"Golden Valley County, MT"	Aug-10(p)	5.3	montana
+CN300390	30	39	"Granite County, MT"	Aug-10(p)	9	montana
+CN300410	30	41	"Hill County, MT"	Aug-10(p)	5.9	montana
+CN300430	30	43	"Jefferson County, MT"	Aug-10(p)	5.3	montana
+CN300450	30	45	"Judith Basin County, MT"	Aug-10(p)	6.3	montana
+CN300470	30	47	"Lake County, MT"	Aug-10(p)	9.6	montana
+CN300490	30	49	"Lewis and Clark County, MT"	Aug-10(p)	5.3	montana
+CN300510	30	51	"Liberty County, MT"	Aug-10(p)	5.3	montana
+CN300530	30	53	"Lincoln County, MT"	Aug-10(p)	14.3	montana
+CN300550	30	55	"McCone County, MT"	Aug-10(p)	2.9	montana
+CN300570	30	57	"Madison County, MT"	Aug-10(p)	5.6	montana
+CN300590	30	59	"Meagher County, MT"	Aug-10(p)	8	montana
+CN300610	30	61	"Mineral County, MT"	Aug-10(p)	9.8	montana
+PA300200	30	63	"Missoula County, MT"	Aug-10(p)	6.6	montana
+CN300650	30	65	"Musselshell County, MT"	Aug-10(p)	5.5	montana
+CN300670	30	67	"Park County, MT"	Aug-10(p)	6.5	montana
+CN300690	30	69	"Petroleum County, MT"	Aug-10(p)	6.5	montana
+CN300710	30	71	"Phillips County, MT"	Aug-10(p)	6	montana
+CN300730	30	73	"Pondera County, MT"	Aug-10(p)	6.7	montana
+CN300750	30	75	"Powder River County, MT"	Aug-10(p)	3.9	montana
+CN300770	30	77	"Powell County, MT"	Aug-10(p)	8.6	montana
+CN300790	30	79	"Prairie County, MT"	Aug-10(p)	4	montana
+CN300810	30	81	"Ravalli County, MT"	Aug-10(p)	9	montana
+CN300830	30	83	"Richland County, MT"	Aug-10(p)	3.7	montana
+CN300850	30	85	"Roosevelt County, MT"	Aug-10(p)	8.4	montana
+CN300870	30	87	"Rosebud County, MT"	Aug-10(p)	8.2	montana
+CN300890	30	89	"Sanders County, MT"	Aug-10(p)	13.9	montana
+CN300910	30	91	"Sheridan County, MT"	Aug-10(p)	3.6	montana
+CN300930	30	93	"Silver Bow County, MT"	Aug-10(p)	6.3	montana
+CN300950	30	95	"Stillwater County, MT"	Aug-10(p)	5.9	montana
+CN300970	30	97	"Sweet Grass County, MT"	Aug-10(p)	3.7	montana
+CN300990	30	99	"Teton County, MT"	Aug-10(p)	5.5	montana
+CN301010	30	101	"Toole County, MT"	Aug-10(p)	4.3	montana
+CN301030	30	103	"Treasure County, MT"	Aug-10(p)	4	montana
+CN301050	30	105	"Valley County, MT"	Aug-10(p)	4.7	montana
+CN301070	30	107	"Wheatland County, MT"	Aug-10(p)	5.2	montana
+CN301090	30	109	"Wibaux County, MT"	Aug-10(p)	3.6	montana
+CN301110	30	111	"Yellowstone County, MT"	Aug-10(p)	5.5	montana
+CN310010	31	1	"Adams County, NE"	Aug-10(p)	4	nebraska
+CN310030	31	3	"Antelope County, NE"	Aug-10(p)	3	nebraska
+CN310050	31	5	"Arthur County, NE"	Aug-10(p)	3.9	nebraska
+CN310070	31	7	"Banner County, NE"	Aug-10(p)	5.3	nebraska
+CN310090	31	9	"Blaine County, NE"	Aug-10(p)	4.5	nebraska
+CN310110	31	11	"Boone County, NE"	Aug-10(p)	2.8	nebraska
+CN310130	31	13	"Box Butte County, NE"	Aug-10(p)	5.2	nebraska
+CN310150	31	15	"Boyd County, NE"	Aug-10(p)	3.1	nebraska
+CN310170	31	17	"Brown County, NE"	Aug-10(p)	2.7	nebraska
+CN310190	31	19	"Buffalo County, NE"	Aug-10(p)	3.1	nebraska
+CN310210	31	21	"Burt County, NE"	Aug-10(p)	5.2	nebraska
+CN310230	31	23	"Butler County, NE"	Aug-10(p)	3.5	nebraska
+CN310250	31	25	"Cass County, NE"	Aug-10(p)	4.8	nebraska
+CN310270	31	27	"Cedar County, NE"	Aug-10(p)	3.1	nebraska
+CN310290	31	29	"Chase County, NE"	Aug-10(p)	2.7	nebraska
+CN310310	31	31	"Cherry County, NE"	Aug-10(p)	2.4	nebraska
+CN310330	31	33	"Cheyenne County, NE"	Aug-10(p)	3.4	nebraska
+CN310350	31	35	"Clay County, NE"	Aug-10(p)	4.3	nebraska
+CN310370	31	37	"Colfax County, NE"	Aug-10(p)	3.5	nebraska
+CN310390	31	39	"Cuming County, NE"	Aug-10(p)	3.4	nebraska
+CN310410	31	41	"Custer County, NE"	Aug-10(p)	3.2	nebraska
+CN310430	31	43	"Dakota County, NE"	Aug-10(p)	9.3	nebraska
+CN310450	31	45	"Dawes County, NE"	Aug-10(p)	4	nebraska
+CN310470	31	47	"Dawson County, NE"	Aug-10(p)	4.9	nebraska
+CN310490	31	49	"Deuel County, NE"	Aug-10(p)	3.2	nebraska
+CN310510	31	51	"Dixon County, NE"	Aug-10(p)	4.8	nebraska
+CN310530	31	53	"Dodge County, NE"	Aug-10(p)	4.6	nebraska
+CN310550	31	55	"Douglas County, NE"	Aug-10(p)	5	nebraska
+CN310570	31	57	"Dundy County, NE"	Aug-10(p)	3.1	nebraska
+CN310590	31	59	"Fillmore County, NE"	Aug-10(p)	3.5	nebraska
+CN310610	31	61	"Franklin County, NE"	Aug-10(p)	3.3	nebraska
+CN310630	31	63	"Frontier County, NE"	Aug-10(p)	3.1	nebraska
+CN310650	31	65	"Furnas County, NE"	Aug-10(p)	2.8	nebraska
+CN310670	31	67	"Gage County, NE"	Aug-10(p)	6.3	nebraska
+CN310690	31	69	"Garden County, NE"	Aug-10(p)	4.6	nebraska
+CN310710	31	71	"Garfield County, NE"	Aug-10(p)	2.5	nebraska
+CN310730	31	73	"Gosper County, NE"	Aug-10(p)	2.9	nebraska
+CN310750	31	75	"Grant County, NE"	Aug-10(p)	3.8	nebraska
+CN310770	31	77	"Greeley County, NE"	Aug-10(p)	3.3	nebraska
+CN310790	31	79	"Hall County, NE"	Aug-10(p)	4	nebraska
+CN310810	31	81	"Hamilton County, NE"	Aug-10(p)	3	nebraska
+CN310830	31	83	"Harlan County, NE"	Aug-10(p)	2.7	nebraska
+CN310850	31	85	"Hayes County, NE"	Aug-10(p)	4.6	nebraska
+CN310870	31	87	"Hitchcock County, NE"	Aug-10(p)	3.6	nebraska
+CN310890	31	89	"Holt County, NE"	Aug-10(p)	2.9	nebraska
+CN310910	31	91	"Hooker County, NE"	Aug-10(p)	4.1	nebraska
+CN310930	31	93	"Howard County, NE"	Aug-10(p)	3.2	nebraska
+CN310950	31	95	"Jefferson County, NE"	Aug-10(p)	4.3	nebraska
+CN310970	31	97	"Johnson County, NE"	Aug-10(p)	3.9	nebraska
+CN310990	31	99	"Kearney County, NE"	Aug-10(p)	3.2	nebraska
+CN311010	31	101	"Keith County, NE"	Aug-10(p)	3.5	nebraska
+CN311030	31	103	"Keya Paha County, NE"	Aug-10(p)	3.5	nebraska
+CN311050	31	105	"Kimball County, NE"	Aug-10(p)	4.5	nebraska
+CN311070	31	107	"Knox County, NE"	Aug-10(p)	3.7	nebraska
+CN311090	31	109	"Lancaster County, NE"	Aug-10(p)	3.9	nebraska
+CN311110	31	111	"Lincoln County, NE"	Aug-10(p)	3.7	nebraska
+CN311130	31	113	"Logan County, NE"	Aug-10(p)	6.4	nebraska
+CN311150	31	115	"Loup County, NE"	Aug-10(p)	5.1	nebraska
+CN311170	31	117	"McPherson County, NE"	Aug-10(p)	3.9	nebraska
+CN311190	31	119	"Madison County, NE"	Aug-10(p)	3.8	nebraska
+CN311210	31	121	"Merrick County, NE"	Aug-10(p)	4.2	nebraska
+CN311230	31	123	"Morrill County, NE"	Aug-10(p)	3.8	nebraska
+CN311250	31	125	"Nance County, NE"	Aug-10(p)	3.5	nebraska
+CN311270	31	127	"Nemaha County, NE"	Aug-10(p)	5.8	nebraska
+CN311290	31	129	"Nuckolls County, NE"	Aug-10(p)	3.9	nebraska
+CN311310	31	131	"Otoe County, NE"	Aug-10(p)	4.2	nebraska
+CN311330	31	133	"Pawnee County, NE"	Aug-10(p)	3.6	nebraska
+CN311350	31	135	"Perkins County, NE"	Aug-10(p)	2.6	nebraska
+CN311370	31	137	"Phelps County, NE"	Aug-10(p)	2.8	nebraska
+CN311390	31	139	"Pierce County, NE"	Aug-10(p)	3.5	nebraska
+CN311410	31	141	"Platte County, NE"	Aug-10(p)	3.7	nebraska
+CN311430	31	143	"Polk County, NE"	Aug-10(p)	3.5	nebraska
+CN311450	31	145	"Red Willow County, NE"	Aug-10(p)	3.6	nebraska
+CN311470	31	147	"Richardson County, NE"	Aug-10(p)	5.9	nebraska
+CN311490	31	149	"Rock County, NE"	Aug-10(p)	2.9	nebraska
+CN311510	31	151	"Saline County, NE"	Aug-10(p)	3.7	nebraska
+PA310150	31	153	"Sarpy County, NE"	Aug-10(p)	4.4	nebraska
+CN311550	31	155	"Saunders County, NE"	Aug-10(p)	4.5	nebraska
+CN311570	31	157	"Scotts Bluff County, NE"	Aug-10(p)	4.7	nebraska
+CN311590	31	159	"Seward County, NE"	Aug-10(p)	3.5	nebraska
+CN311610	31	161	"Sheridan County, NE"	Aug-10(p)	3.1	nebraska
+CN311630	31	163	"Sherman County, NE"	Aug-10(p)	3	nebraska
+CN311650	31	165	"Sioux County, NE"	Aug-10(p)	3.7	nebraska
+CN311670	31	167	"Stanton County, NE"	Aug-10(p)	3.5	nebraska
+CN311690	31	169	"Thayer County, NE"	Aug-10(p)	3.5	nebraska
+CN311710	31	171	"Thomas County, NE"	Aug-10(p)	4	nebraska
+CN311730	31	173	"Thurston County, NE"	Aug-10(p)	8.4	nebraska
+CN311750	31	175	"Valley County, NE"	Aug-10(p)	3.3	nebraska
+CN311770	31	177	"Washington County, NE"	Aug-10(p)	4.7	nebraska
+CN311790	31	179	"Wayne County, NE"	Aug-10(p)	3.8	nebraska
+CN311810	31	181	"Webster County, NE"	Aug-10(p)	3.6	nebraska
+CN311830	31	183	"Wheeler County, NE"	Aug-10(p)	4.4	nebraska
+CN311850	31	185	"York County, NE"	Aug-10(p)	5	nebraska
+CN320010	32	1	"Churchill County, NV"	Aug-10(p)	10.9	nevada
+CN320030	32	3	"Clark County, NV"	Aug-10(p)	14.7	nevada
+CN320050	32	5	"Douglas County, NV"	Aug-10(p)	14.3	nevada
+CN320070	32	7	"Elko County, NV"	Aug-10(p)	7.6	nevada
+CN320090	32	9	"Esmeralda County, NV"	Aug-10(p)	7.9	nevada
+CN320110	32	11	"Eureka County, NV"	Aug-10(p)	10	nevada
+CN320130	32	13	"Humboldt County, NV"	Aug-10(p)	9.5	nevada
+CN320150	32	15	"Lander County, NV"	Aug-10(p)	6.7	nevada
+CN320170	32	17	"Lincoln County, NV"	Aug-10(p)	12.8	nevada
+CN320190	32	19	"Lyon County, NV"	Aug-10(p)	18	nevada
+CN320210	32	21	"Mineral County, NV"	Aug-10(p)	14.6	nevada
+CN320230	32	23	"Nye County, NV"	Aug-10(p)	17.2	nevada
+CN320270	32	27	"Pershing County, NV"	Aug-10(p)	11.9	nevada
+CN320290	32	29	"Storey County, NV"	Aug-10(p)	13.4	nevada
+PS320070	32	31	"Washoe County, NV"	Aug-10(p)	13.3	nevada
+CN320330	32	33	"White Pine County, NV"	Aug-10(p)	8.6	nevada
+CN325100	32	510	"Carson City, NV"	Aug-10(p)	13.1	nevada
+CN330010	33	1	"Belknap County, NH"	Aug-10(p)	5.5	new hampshire
+CN330030	33	3	"Carroll County, NH"	Aug-10(p)	4.7	new hampshire
+PA330250	33	5	"Cheshire County, NH"	Aug-10(p)	5.9	new hampshire
+CN330070	33	7	"Coos County, NH"	Aug-10(p)	6.3	new hampshire
+PA330300	33	9	"Grafton County, NH"	Aug-10(p)	4.7	new hampshire
+PS330050	33	11	"Hillsborough County, NH"	Aug-10(p)	6.1	new hampshire
+PA330350	33	13	"Merrimack County, NH"	Aug-10(p)	5.3	new hampshire
+PA330050	33	15	"Rockingham County, NH"	Aug-10(p)	5.9	new hampshire
+PA330100	33	17	"Strafford County, NH"	Aug-10(p)	5.6	new hampshire
+CN330190	33	19	"Sullivan County, NH"	Aug-10(p)	5.4	new hampshire
+PS340020	34	1	"Atlantic County, NJ"	Aug-10(p)	11.5	new jersey
+PS340050	34	3	"Bergen County, NJ"	Aug-10(p)	8.4	new jersey
+PS340100	34	5	"Burlington County, NJ"	Aug-10(p)	9.2	new jersey
+CN340070	34	7	"Camden County, NJ"	Aug-10(p)	10.6	new jersey
+PS340210	34	9	"Cape May County, NJ"	Aug-10(p)	7.3	new jersey
+PS340220	34	11	"Cumberland County, NJ"	Aug-10(p)	12.8	new jersey
+CN340130	34	13	"Essex County, NJ"	Aug-10(p)	11.1	new jersey
+PS340350	34	15	"Gloucester County, NJ"	Aug-10(p)	9.9	new jersey
+CN340170	34	17	"Hudson County, NJ"	Aug-10(p)	10.7	new jersey
+PA340700	34	19	"Hunterdon County, NJ"	Aug-10(p)	7	new jersey
+CN340210	34	21	"Mercer County, NJ"	Aug-10(p)	8.1	new jersey
+PS340420	34	23	"Middlesex County, NJ"	Aug-10(p)	8.9	new jersey
+PS340430	34	25	"Monmouth County, NJ"	Aug-10(p)	8.5	new jersey
+PS340450	34	27	"Morris County, NJ"	Aug-10(p)	7.2	new jersey
+PS340550	34	29	"Ocean County, NJ"	Aug-10(p)	9.4	new jersey
+CN340310	34	31	"Passaic County, NJ"	Aug-10(p)	11.5	new jersey
+PA340750	34	33	"Salem County, NJ"	Aug-10(p)	11.2	new jersey
+PS340700	34	35	"Somerset County, NJ"	Aug-10(p)	7.4	new jersey
+PA340800	34	37	"Sussex County, NJ"	Aug-10(p)	9.1	new jersey
+CN340390	34	39	"Union County, NJ"	Aug-10(p)	9.6	new jersey
+PA340850	34	41	"Warren County, NJ"	Aug-10(p)	9.4	new jersey
+CN350010	35	1	"Bernalillo County, NM"	Aug-10(p)	8.7	new mexico
+CN350030	35	3	"Catron County, NM"	Aug-10(p)	8	new mexico
+PA350450	35	5	"Chaves County, NM"	Aug-10(p)	8.2	new mexico
+CN350060	35	6	"Cibola County, NM"	Aug-10(p)	8.2	new mexico
+CN350070	35	7	"Colfax County, NM"	Aug-10(p)	7.6	new mexico
+CN350090	35	9	"Curry County, NM"	Aug-10(p)	5.5	new mexico
+CN350110	35	11	"De Baca County, NM"	Aug-10(p)	5.3	new mexico
+PA350150	35	13	"Dona Ana County, NM"	Aug-10(p)	8.1	new mexico
+CN350150	35	15	"Eddy County, NM"	Aug-10(p)	6	new mexico
+CN350170	35	17	"Grant County, NM"	Aug-10(p)	10.4	new mexico
+CN350190	35	19	"Guadalupe County, NM"	Aug-10(p)	10.3	new mexico
+CN350210	35	21	"Harding County, NM"	Aug-10(p)	4.4	new mexico
+CN350230	35	23	"Hidalgo County, NM"	Aug-10(p)	6.7	new mexico
+PA350300	35	25	"Lea County, NM"	Aug-10(p)	7.6	new mexico
+CN350270	35	27	"Lincoln County, NM"	Aug-10(p)	6	new mexico
+CN350280	35	28	"Los Alamos County, NM"	Aug-10(p)	3.9	new mexico
+CN350290	35	29	"Luna County, NM"	Aug-10(p)	14.8	new mexico
+PA350350	35	31	"McKinley County, NM"	Aug-10(p)	10.1	new mexico
+CN350330	35	33	"Mora County, NM"	Aug-10(p)	14.8	new mexico
+CN350350	35	35	"Otero County, NM"	Aug-10(p)	7.5	new mexico
+CN350370	35	37	"Quay County, NM"	Aug-10(p)	8	new mexico
+CN350390	35	39	"Rio Arriba County, NM"	Aug-10(p)	8.5	new mexico
+CN350410	35	41	"Roosevelt County, NM"	Aug-10(p)	6.3	new mexico
+CN350430	35	43	"Sandoval County, NM"	Aug-10(p)	9.5	new mexico
+PA350200	35	45	"San Juan County, NM"	Aug-10(p)	9.8	new mexico
+CN350470	35	47	"San Miguel County, NM"	Aug-10(p)	8.8	new mexico
+PA350250	35	49	"Santa Fe County, NM"	Aug-10(p)	6.9	new mexico
+CN350510	35	51	"Sierra County, NM"	Aug-10(p)	5.9	new mexico
+CN350530	35	53	"Socorro County, NM"	Aug-10(p)	6.5	new mexico
+CN350550	35	55	"Taos County, NM"	Aug-10(p)	10	new mexico
+CN350570	35	57	"Torrance County, NM"	Aug-10(p)	9.8	new mexico
+CN350590	35	59	"Union County, NM"	Aug-10(p)	5.6	new mexico
+PA350400	35	61	"Valencia County, NM"	Aug-10(p)	10.4	new mexico
+CN360010	36	1	"Albany County, NY"	Aug-10(p)	6.7	new york
+PA361720	36	3	"Allegany County, NY"	Aug-10(p)	9.1	new york
+CN360050	36	5	"Bronx County, NY"	Aug-10(p)	13	new york
+CN360070	36	7	"Broome County, NY"	Aug-10(p)	7.8	new york
+PA361700	36	9	"Cattaraugus County, NY"	Aug-10(p)	8.1	new york
+PA361750	36	11	"Cayuga County, NY"	Aug-10(p)	7.2	new york
+PA361650	36	13	"Chautauqua County, NY"	Aug-10(p)	7.6	new york
+PS360220	36	15	"Chemung County, NY"	Aug-10(p)	7.8	new york
+CN360170	36	17	"Chenango County, NY"	Aug-10(p)	7.7	new york
+PA361800	36	19	"Clinton County, NY"	Aug-10(p)	9.1	new york
+PA361850	36	21	"Columbia County, NY"	Aug-10(p)	6.8	new york
+CN360230	36	23	"Cortland County, NY"	Aug-10(p)	8.1	new york
+CN360250	36	25	"Delaware County, NY"	Aug-10(p)	7.9	new york
+CN360270	36	27	"Dutchess County, NY"	Aug-10(p)	7.4	new york
+CN360290	36	29	"Erie County, NY"	Aug-10(p)	7.5	new york
+CN360310	36	31	"Essex County, NY"	Aug-10(p)	7	new york
+CN360330	36	33	"Franklin County, NY"	Aug-10(p)	7.8	new york
+PA361900	36	35	"Fulton County, NY"	Aug-10(p)	9	new york
+PA361950	36	37	"Genesee County, NY"	Aug-10(p)	6.2	new york
+CN360390	36	39	"Greene County, NY"	Aug-10(p)	7.5	new york
+CN360410	36	41	"Hamilton County, NY"	Aug-10(p)	4.9	new york
+PA362000	36	43	"Herkimer County, NY"	Aug-10(p)	6.8	new york
+PS361600	36	45	"Jefferson County, NY"	Aug-10(p)	8	new york
+CN360470	36	47	"Kings County, NY"	Aug-10(p)	10.5	new york
+CN360490	36	49	"Lewis County, NY"	Aug-10(p)	7.2	new york
+PA362100	36	51	"Livingston County, NY"	Aug-10(p)	6.9	new york
+PA362150	36	53	"Madison County, NY"	Aug-10(p)	7.1	new york
+CN360550	36	55	"Monroe County, NY"	Aug-10(p)	7.6	new york
+PA362200	36	57	"Montgomery County, NY"	Aug-10(p)	8.7	new york
+CN360590	36	59	"Nassau County, NY"	Aug-10(p)	6.8	new york
+CN360610	36	61	"New York County, NY"	Aug-10(p)	7.8	new york
+CN360630	36	63	"Niagara County, NY"	Aug-10(p)	8.1	new york
+CN360650	36	65	"Oneida County, NY"	Aug-10(p)	7	new york
+CN360670	36	67	"Onondaga County, NY"	Aug-10(p)	7.3	new york
+PA362250	36	69	"Ontario County, NY"	Aug-10(p)	6.1	new york
+CN360710	36	71	"Orange County, NY"	Aug-10(p)	7.8	new york
+CN360730	36	73	"Orleans County, NY"	Aug-10(p)	9.4	new york
+PS360650	36	75	"Oswego County, NY"	Aug-10(p)	9.2	new york
+PA362300	36	77	"Otsego County, NY"	Aug-10(p)	6.9	new york
+PA361000	36	79	"Putnam County, NY"	Aug-10(p)	6.5	new york
+CN360810	36	81	"Queens County, NY"	Aug-10(p)	8.5	new york
+PS360700	36	83	"Rensselaer County, NY"	Aug-10(p)	7.2	new york
+CN360850	36	85	"Richmond County, NY"	Aug-10(p)	9.3	new york
+PS360750	36	87	"Rockland County, NY"	Aug-10(p)	6.9	new york
+PS360950	36	89	"St. Lawrence County, NY"	Aug-10(p)	9.9	new york
+PS360800	36	91	"Saratoga County, NY"	Aug-10(p)	5.9	new york
+PS360850	36	93	"Schenectady County, NY"	Aug-10(p)	7.5	new york
+CN360950	36	95	"Schoharie County, NY"	Aug-10(p)	8.1	new york
+CN360970	36	97	"Schuyler County, NY"	Aug-10(p)	6.9	new york
+CN360990	36	99	"Seneca County, NY"	Aug-10(p)	7.1	new york
+PA362850	36	101	"Steuben County, NY"	Aug-10(p)	8.7	new york
+PS361000	36	103	"Suffolk County, NY"	Aug-10(p)	7.2	new york
+PA362350	36	105	"Sullivan County, NY"	Aug-10(p)	7.7	new york
+CN361070	36	107	"Tioga County, NY"	Aug-10(p)	7.3	new york
+PA362400	36	109	"Tompkins County, NY"	Aug-10(p)	6.1	new york
+PS361100	36	111	"Ulster County, NY"	Aug-10(p)	7.6	new york
+PA362550	36	113	"Warren County, NY"	Aug-10(p)	6.5	new york
+PA362450	36	115	"Washington County, NY"	Aug-10(p)	6.5	new york
+PA362500	36	117	"Wayne County, NY"	Aug-10(p)	8	new york
+CN361190	36	119	"Westchester County, NY"	Aug-10(p)	6.9	new york
+CN361210	36	121	"Wyoming County, NY"	Aug-10(p)	7.5	new york
+CN361230	36	123	"Yates County, NY"	Aug-10(p)	5.7	new york
+CN370010	37	1	"Alamance County, NC"	Aug-10(p)	10.6	north carolina
+CN370030	37	3	"Alexander County, NC"	Aug-10(p)	12.1	north carolina
+CN370050	37	5	"Alleghany County, NC"	Aug-10(p)	9.6	north carolina
+CN370070	37	7	"Anson County, NC"	Aug-10(p)	12.5	north carolina
+CN370090	37	9	"Ashe County, NC"	Aug-10(p)	10.6	north carolina
+CN370110	37	11	"Avery County, NC"	Aug-10(p)	7.8	north carolina
+CN370130	37	13	"Beaufort County, NC"	Aug-10(p)	10.5	north carolina
+CN370150	37	15	"Bertie County, NC"	Aug-10(p)	10.7	north carolina
+CN370170	37	17	"Bladen County, NC"	Aug-10(p)	11.5	north carolina
+CN370190	37	19	"Brunswick County, NC"	Aug-10(p)	10.1	north carolina
+CN370210	37	21	"Buncombe County, NC"	Aug-10(p)	7.9	north carolina
+PA370600	37	23	"Burke County, NC"	Aug-10(p)	12.9	north carolina
+PA370650	37	25	"Cabarrus County, NC"	Aug-10(p)	10.3	north carolina
+PA370700	37	27	"Caldwell County, NC"	Aug-10(p)	12.9	north carolina
+CN370290	37	29	"Camden County, NC"	Aug-10(p)	7	north carolina
+CN370310	37	31	"Carteret County, NC"	Aug-10(p)	7.1	north carolina
+CN370330	37	33	"Caswell County, NC"	Aug-10(p)	11.4	north carolina
+PA370750	37	35	"Catawba County, NC"	Aug-10(p)	12.3	north carolina
+CN370370	37	37	"Chatham County, NC"	Aug-10(p)	6.4	north carolina
+CN370390	37	39	"Cherokee County, NC"	Aug-10(p)	13	north carolina
+CN370410	37	41	"Chowan County, NC"	Aug-10(p)	10	north carolina
+CN370430	37	43	"Clay County, NC"	Aug-10(p)	9.7	north carolina
+PA370800	37	45	"Cleveland County, NC"	Aug-10(p)	12.5	north carolina
+PA371900	37	47	"Columbus County, NC"	Aug-10(p)	11.8	north carolina
+PA370850	37	49	"Craven County, NC"	Aug-10(p)	9.4	north carolina
+PS370120	37	51	"Cumberland County, NC"	Aug-10(p)	9.1	north carolina
+CN370530	37	53	"Currituck County, NC"	Aug-10(p)	4.1	north carolina
+CN370550	37	55	"Dare County, NC"	Aug-10(p)	6.2	north carolina
+PS370140	37	57	"Davidson County, NC"	Aug-10(p)	11.4	north carolina
+CN370590	37	59	"Davie County, NC"	Aug-10(p)	9	north carolina
+CN370610	37	61	"Duplin County, NC"	Aug-10(p)	8.1	north carolina
+PS370180	37	63	"Durham County, NC"	Aug-10(p)	7.5	north carolina
+PA370950	37	65	"Edgecombe County, NC"	Aug-10(p)	14.5	north carolina
+PS370450	37	67	"Forsyth County, NC"	Aug-10(p)	9.4	north carolina
+CN370690	37	69	"Franklin County, NC"	Aug-10(p)	9.5	north carolina
+PS370200	37	71	"Gaston County, NC"	Aug-10(p)	10.8	north carolina
+CN370730	37	73	"Gates County, NC"	Aug-10(p)	7.5	north carolina
+CN370750	37	75	"Graham County, NC"	Aug-10(p)	13.3	north carolina
+CN370770	37	77	"Granville County, NC"	Aug-10(p)	9.9	north carolina
+CN370790	37	79	"Greene County, NC"	Aug-10(p)	9.5	north carolina
+CN370810	37	81	"Guilford County, NC"	Aug-10(p)	10.5	north carolina
+PA371000	37	83	"Halifax County, NC"	Aug-10(p)	12.2	north carolina
+PA371800	37	85	"Harnett County, NC"	Aug-10(p)	10.3	north carolina
+CN370870	37	87	"Haywood County, NC"	Aug-10(p)	8.5	north carolina
+PA372000	37	89	"Henderson County, NC"	Aug-10(p)	7.7	north carolina
+CN370910	37	91	"Hertford County, NC"	Aug-10(p)	9.2	north carolina
+CN370930	37	93	"Hoke County, NC"	Aug-10(p)	8.7	north carolina
+CN370950	37	95	"Hyde County, NC"	Aug-10(p)	6.2	north carolina
+PA371050	37	97	"Iredell County, NC"	Aug-10(p)	11.3	north carolina
+CN370990	37	99	"Jackson County, NC"	Aug-10(p)	7.7	north carolina
+PA370300	37	101	"Johnston County, NC"	Aug-10(p)	9	north carolina
+CN371030	37	103	"Jones County, NC"	Aug-10(p)	9.4	north carolina
+CN371050	37	105	"Lee County, NC"	Aug-10(p)	11.4	north carolina
+PA371100	37	107	"Lenoir County, NC"	Aug-10(p)	10.3	north carolina
+CN371090	37	109	"Lincoln County, NC"	Aug-10(p)	11.9	north carolina
+CN371110	37	111	"McDowell County, NC"	Aug-10(p)	11.4	north carolina
+CN371130	37	113	"Macon County, NC"	Aug-10(p)	8.9	north carolina
+CN371150	37	115	"Madison County, NC"	Aug-10(p)	8.6	north carolina
+CN371170	37	117	"Martin County, NC"	Aug-10(p)	10.1	north carolina
+CN371190	37	119	"Mecklenburg County, NC"	Aug-10(p)	10.5	north carolina
+CN371210	37	121	"Mitchell County, NC"	Aug-10(p)	9.9	north carolina
+CN371230	37	123	"Montgomery County, NC"	Aug-10(p)	12.2	north carolina
+PA374000	37	125	"Moore County, NC"	Aug-10(p)	8.9	north carolina
+PA371150	37	127	"Nash County, NC"	Aug-10(p)	11.8	north carolina
+CN371290	37	129	"New Hanover County, NC"	Aug-10(p)	8.9	north carolina
+CN371310	37	131	"Northampton County, NC"	Aug-10(p)	11.4	north carolina
+PA372050	37	133	"Onslow County, NC"	Aug-10(p)	7.9	north carolina
+PA370520	37	135	"Orange County, NC"	Aug-10(p)	6.4	north carolina
+CN371370	37	137	"Pamlico County, NC"	Aug-10(p)	9.8	north carolina
+CN371390	37	139	"Pasquotank County, NC"	Aug-10(p)	9.1	north carolina
+CN371410	37	141	"Pender County, NC"	Aug-10(p)	9.7	north carolina
+CN371430	37	143	"Perquimans County, NC"	Aug-10(p)	8.9	north carolina
+CN371450	37	145	"Person County, NC"	Aug-10(p)	10.3	north carolina
+CN371470	37	147	"Pitt County, NC"	Aug-10(p)	9.9	north carolina
+CN371490	37	149	"Polk County, NC"	Aug-10(p)	7.6	north carolina
+CN371510	37	151	"Randolph County, NC"	Aug-10(p)	9.6	north carolina
+CN371530	37	153	"Richmond County, NC"	Aug-10(p)	12.8	north carolina
+PS370470	37	155	"Robeson County, NC"	Aug-10(p)	11.8	north carolina
+PA371400	37	157	"Rockingham County, NC"	Aug-10(p)	11.4	north carolina
+PA371450	37	159	"Rowan County, NC"	Aug-10(p)	11.6	north carolina
+PA371850	37	161	"Rutherford County, NC"	Aug-10(p)	14.6	north carolina
+CN371630	37	163	"Sampson County, NC"	Aug-10(p)	8.3	north carolina
+CN371650	37	165	"Scotland County, NC"	Aug-10(p)	15.7	north carolina
+CN371670	37	167	"Stanly County, NC"	Aug-10(p)	11.3	north carolina
+CN371690	37	169	"Stokes County, NC"	Aug-10(p)	8.9	north carolina
+PA371500	37	171	"Surry County, NC"	Aug-10(p)	10.9	north carolina
+CN371730	37	173	"Swain County, NC"	Aug-10(p)	10.1	north carolina
+CN371750	37	175	"Transylvania County, NC"	Aug-10(p)	8.3	north carolina
+CN371770	37	177	"Tyrrell County, NC"	Aug-10(p)	8.7	north carolina
+PA371650	37	179	"Union County, NC"	Aug-10(p)	8.9	north carolina
+CN371810	37	181	"Vance County, NC"	Aug-10(p)	12.2	north carolina
+CN371830	37	183	"Wake County, NC"	Aug-10(p)	8	north carolina
+CN371850	37	185	"Warren County, NC"	Aug-10(p)	11.3	north carolina
+CN371870	37	187	"Washington County, NC"	Aug-10(p)	11	north carolina
+CN371890	37	189	"Watauga County, NC"	Aug-10(p)	7.4	north carolina
+CN371910	37	191	"Wayne County, NC"	Aug-10(p)	8.3	north carolina
+PA371750	37	193	"Wilkes County, NC"	Aug-10(p)	12.6	north carolina
+PA371600	37	195	"Wilson County, NC"	Aug-10(p)	12.2	north carolina
+CN371970	37	197	"Yadkin County, NC"	Aug-10(p)	8.9	north carolina
+CN371990	37	199	"Yancey County, NC"	Aug-10(p)	10.1	north carolina
+CN380010	38	1	"Adams County, ND"	Aug-10(p)	2.3	north dakota
+CN380030	38	3	"Barnes County, ND"	Aug-10(p)	4.8	north dakota
+CN380050	38	5	"Benson County, ND"	Aug-10(p)	4.9	north dakota
+CN380070	38	7	"Billings County, ND"	Aug-10(p)	2.6	north dakota
+CN380090	38	9	"Bottineau County, ND"	Aug-10(p)	3.2	north dakota
+CN380110	38	11	"Bowman County, ND"	Aug-10(p)	2.5	north dakota
+CN380130	38	13	"Burke County, ND"	Aug-10(p)	2.8	north dakota
+PA380250	38	15	"Burleigh County, ND"	Aug-10(p)	3	north dakota
+CN380170	38	17	"Cass County, ND"	Aug-10(p)	3.4	north dakota
+CN380190	38	19	"Cavalier County, ND"	Aug-10(p)	2.9	north dakota
+CN380210	38	21	"Dickey County, ND"	Aug-10(p)	3	north dakota
+CN380230	38	23	"Divide County, ND"	Aug-10(p)	3.1	north dakota
+CN380250	38	25	"Dunn County, ND"	Aug-10(p)	3.7	north dakota
+CN380270	38	27	"Eddy County, ND"	Aug-10(p)	4.2	north dakota
+CN380290	38	29	"Emmons County, ND"	Aug-10(p)	6.7	north dakota
+CN380310	38	31	"Foster County, ND"	Aug-10(p)	3.1	north dakota
+CN380330	38	33	"Golden Valley County, ND"	Aug-10(p)	2.4	north dakota
+CN380350	38	35	"Grand Forks County, ND"	Aug-10(p)	3.6	north dakota
+CN380370	38	37	"Grant County, ND"	Aug-10(p)	3.7	north dakota
+CN380390	38	39	"Griggs County, ND"	Aug-10(p)	2.8	north dakota
+CN380410	38	41	"Hettinger County, ND"	Aug-10(p)	3.4	north dakota
+CN380430	38	43	"Kidder County, ND"	Aug-10(p)	5.5	north dakota
+CN380450	38	45	"LaMoure County, ND"	Aug-10(p)	3.2	north dakota
+CN380470	38	47	"Logan County, ND"	Aug-10(p)	3.5	north dakota
+CN380490	38	49	"McHenry County, ND"	Aug-10(p)	3.6	north dakota
+CN380510	38	51	"McIntosh County, ND"	Aug-10(p)	4.1	north dakota
+CN380530	38	53	"McKenzie County, ND"	Aug-10(p)	2.6	north dakota
+CN380550	38	55	"McLean County, ND"	Aug-10(p)	3.7	north dakota
+CN380570	38	57	"Mercer County, ND"	Aug-10(p)	3.2	north dakota
+CN380590	38	59	"Morton County, ND"	Aug-10(p)	3.6	north dakota
+CN380610	38	61	"Mountrail County, ND"	Aug-10(p)	2.9	north dakota
+CN380630	38	63	"Nelson County, ND"	Aug-10(p)	3.6	north dakota
+CN380650	38	65	"Oliver County, ND"	Aug-10(p)	3.4	north dakota
+CN380670	38	67	"Pembina County, ND"	Aug-10(p)	5.7	north dakota
+CN380690	38	69	"Pierce County, ND"	Aug-10(p)	4.5	north dakota
+CN380710	38	71	"Ramsey County, ND"	Aug-10(p)	3.4	north dakota
+CN380730	38	73	"Ransom County, ND"	Aug-10(p)	4.5	north dakota
+CN380750	38	75	"Renville County, ND"	Aug-10(p)	2.9	north dakota
+CN380770	38	77	"Richland County, ND"	Aug-10(p)	4.1	north dakota
+CN380790	38	79	"Rolette County, ND"	Aug-10(p)	12.8	north dakota
+CN380810	38	81	"Sargent County, ND"	Aug-10(p)	5	north dakota
+CN380830	38	83	"Sheridan County, ND"	Aug-10(p)	3.7	north dakota
+CN380850	38	85	"Sioux County, ND"	Aug-10(p)	6.3	north dakota
+CN380870	38	87	"Slope County, ND"	Aug-10(p)	2.8	north dakota
+CN380890	38	89	"Stark County, ND"	Aug-10(p)	2.3	north dakota
+CN380910	38	91	"Steele County, ND"	Aug-10(p)	2.3	north dakota
+CN380930	38	93	"Stutsman County, ND"	Aug-10(p)	3.2	north dakota
+CN380950	38	95	"Towner County, ND"	Aug-10(p)	3	north dakota
+CN380970	38	97	"Traill County, ND"	Aug-10(p)	4.2	north dakota
+CN380990	38	99	"Walsh County, ND"	Aug-10(p)	5.2	north dakota
+PA380200	38	101	"Ward County, ND"	Aug-10(p)	2.8	north dakota
+CN381030	38	103	"Wells County, ND"	Aug-10(p)	3.6	north dakota
+CN381050	38	105	"Williams County, ND"	Aug-10(p)	2	north dakota
+CN390010	39	1	"Adams County, OH"	Aug-10(p)	13.1	ohio
+PS390100	39	3	"Allen County, OH"	Aug-10(p)	10.3	ohio
+CN390050	39	5	"Ashland County, OH"	Aug-10(p)	10.4	ohio
+PS390110	39	7	"Ashtabula County, OH"	Aug-10(p)	11.6	ohio
+PA391950	39	9	"Athens County, OH"	Aug-10(p)	9.7	ohio
+CN390110	39	11	"Auglaize County, OH"	Aug-10(p)	8.7	ohio
+PA392000	39	13	"Belmont County, OH"	Aug-10(p)	9	ohio
+CN390150	39	15	"Brown County, OH"	Aug-10(p)	10.9	ohio
+PS390120	39	17	"Butler County, OH"	Aug-10(p)	9.4	ohio
+CN390190	39	19	"Carroll County, OH"	Aug-10(p)	11.6	ohio
+CN390210	39	21	"Champaign County, OH"	Aug-10(p)	10.7	ohio
+PS390250	39	23	"Clark County, OH"	Aug-10(p)	10	ohio
+PA391800	39	25	"Clermont County, OH"	Aug-10(p)	9.6	ohio
+CN390270	39	27	"Clinton County, OH"	Aug-10(p)	15.6	ohio
+PS390390	39	29	"Columbiana County, OH"	Aug-10(p)	11.5	ohio
+CN390310	39	31	"Coshocton County, OH"	Aug-10(p)	11.7	ohio
+PA392100	39	33	"Crawford County, OH"	Aug-10(p)	11.4	ohio
+CN390350	39	35	"Cuyahoga County, OH"	Aug-10(p)	10.1	ohio
+PA391900	39	37	"Darke County, OH"	Aug-10(p)	9.5	ohio
+CN390390	39	39	"Defiance County, OH"	Aug-10(p)	10.9	ohio
+PA392950	39	41	"Delaware County, OH"	Aug-10(p)	6.9	ohio
+PA392150	39	43	"Erie County, OH"	Aug-10(p)	8.4	ohio
+PA392200	39	45	"Fairfield County, OH"	Aug-10(p)	8.4	ohio
+CN390470	39	47	"Fayette County, OH"	Aug-10(p)	10.5	ohio
+PS390400	39	49	"Franklin County, OH"	Aug-10(p)	8.3	ohio
+CN390510	39	51	"Fulton County, OH"	Aug-10(p)	9.7	ohio
+CN390530	39	53	"Gallia County, OH"	Aug-10(p)	10.2	ohio
+PA391050	39	55	"Geauga County, OH"	Aug-10(p)	7.5	ohio
+PS390450	39	57	"Greene County, OH"	Aug-10(p)	9.6	ohio
+CN390590	39	59	"Guernsey County, OH"	Aug-10(p)	10.8	ohio
+CN390610	39	61	"Hamilton County, OH"	Aug-10(p)	9.4	ohio
+PA392250	39	63	"Hancock County, OH"	Aug-10(p)	8.6	ohio
+CN390650	39	65	"Hardin County, OH"	Aug-10(p)	11	ohio
+CN390670	39	67	"Harrison County, OH"	Aug-10(p)	10.9	ohio
+CN390690	39	69	"Henry County, OH"	Aug-10(p)	10.2	ohio
+CN390710	39	71	"Highland County, OH"	Aug-10(p)	15	ohio
+CN390730	39	73	"Hocking County, OH"	Aug-10(p)	10.1	ohio
+CN390750	39	75	"Holmes County, OH"	Aug-10(p)	6.7	ohio
+PA392050	39	77	"Huron County, OH"	Aug-10(p)	11.3	ohio
+CN390790	39	79	"Jackson County, OH"	Aug-10(p)	10.3	ohio
+PA392300	39	81	"Jefferson County, OH"	Aug-10(p)	13.2	ohio
+CN390830	39	83	"Knox County, OH"	Aug-10(p)	9.1	ohio
+PS390520	39	85	"Lake County, OH"	Aug-10(p)	8.5	ohio
+PA392350	39	87	"Lawrence County, OH"	Aug-10(p)	8.9	ohio
+PA390200	39	89	"Licking County, OH"	Aug-10(p)	9	ohio
+CN390910	39	91	"Logan County, OH"	Aug-10(p)	10.3	ohio
+CN390930	39	93	"Lorain County, OH"	Aug-10(p)	9.9	ohio
+CN390950	39	95	"Lucas County, OH"	Aug-10(p)	11.1	ohio
+CN390970	39	97	"Madison County, OH"	Aug-10(p)	8.7	ohio
+CN390990	39	99	"Mahoning County, OH"	Aug-10(p)	11.1	ohio
+PA392400	39	101	"Marion County, OH"	Aug-10(p)	10.2	ohio
+PA390500	39	103	"Medina County, OH"	Aug-10(p)	8.4	ohio
+CN391050	39	105	"Meigs County, OH"	Aug-10(p)	14.2	ohio
+CN391070	39	107	"Mercer County, OH"	Aug-10(p)	7.1	ohio
+PA392450	39	109	"Miami County, OH"	Aug-10(p)	9.6	ohio
+CN391110	39	111	"Monroe County, OH"	Aug-10(p)	13.1	ohio
+CN391130	39	113	"Montgomery County, OH"	Aug-10(p)	10.7	ohio
+CN391150	39	115	"Morgan County, OH"	Aug-10(p)	13.3	ohio
+CN391170	39	117	"Morrow County, OH"	Aug-10(p)	9.1	ohio
+PA392500	39	119	"Muskingum County, OH"	Aug-10(p)	12	ohio
+CN391210	39	121	"Noble County, OH"	Aug-10(p)	13.3	ohio
+CN391230	39	123	"Ottawa County, OH"	Aug-10(p)	9.9	ohio
+CN391250	39	125	"Paulding County, OH"	Aug-10(p)	10.5	ohio
+CN391270	39	127	"Perry County, OH"	Aug-10(p)	11.9	ohio
+CN391290	39	129	"Pickaway County, OH"	Aug-10(p)	10.1	ohio
+CN391310	39	131	"Pike County, OH"	Aug-10(p)	13.6	ohio
+PS390670	39	133	"Portage County, OH"	Aug-10(p)	9.1	ohio
+CN391350	39	135	"Preble County, OH"	Aug-10(p)	9.5	ohio
+CN391370	39	137	"Putnam County, OH"	Aug-10(p)	8.4	ohio
+CN391390	39	139	"Richland County, OH"	Aug-10(p)	10.7	ohio
+PA392650	39	141	"Ross County, OH"	Aug-10(p)	10.7	ohio
+PA392700	39	143	"Sandusky County, OH"	Aug-10(p)	9.4	ohio
+PS390690	39	145	"Scioto County, OH"	Aug-10(p)	12.3	ohio
+PA392800	39	147	"Seneca County, OH"	Aug-10(p)	10.3	ohio
+CN391490	39	149	"Shelby County, OH"	Aug-10(p)	11	ohio
+CN391510	39	151	"Stark County, OH"	Aug-10(p)	10.5	ohio
+CN391530	39	153	"Summit County, OH"	Aug-10(p)	9.4	ohio
+PS390710	39	155	"Trumbull County, OH"	Aug-10(p)	11.4	ohio
+PA392850	39	157	"Tuscarawas County, OH"	Aug-10(p)	9.8	ohio
+CN391590	39	159	"Union County, OH"	Aug-10(p)	8	ohio
+CN391610	39	161	"Van Wert County, OH"	Aug-10(p)	11.2	ohio
+CN391630	39	163	"Vinton County, OH"	Aug-10(p)	11.3	ohio
+PA391850	39	165	"Warren County, OH"	Aug-10(p)	8.7	ohio
+PA392900	39	167	"Washington County, OH"	Aug-10(p)	8.3	ohio
+PA390650	39	169	"Wayne County, OH"	Aug-10(p)	8.9	ohio
+CN391710	39	171	"Williams County, OH"	Aug-10(p)	11.8	ohio
+PA391400	39	173	"Wood County, OH"	Aug-10(p)	9.1	ohio
+CN391750	39	175	"Wyandot County, OH"	Aug-10(p)	11	ohio
+CN400010	40	1	"Adair County, OK"	Aug-10(p)	7.6	oklahoma
+CN400030	40	3	"Alfalfa County, OK"	Aug-10(p)	5.4	oklahoma
+CN400050	40	5	"Atoka County, OK"	Aug-10(p)	8	oklahoma
+CN400070	40	7	"Beaver County, OK"	Aug-10(p)	3.3	oklahoma
+CN400090	40	9	"Beckham County, OK"	Aug-10(p)	4.8	oklahoma
+CN400110	40	11	"Blaine County, OK"	Aug-10(p)	8.4	oklahoma
+CN400130	40	13	"Bryan County, OK"	Aug-10(p)	5.2	oklahoma
+CN400150	40	15	"Caddo County, OK"	Aug-10(p)	6.4	oklahoma
+CN400170	40	17	"Canadian County, OK"	Aug-10(p)	5.6	oklahoma
+CN400190	40	19	"Carter County, OK"	Aug-10(p)	5.3	oklahoma
+CN400210	40	21	"Cherokee County, OK"	Aug-10(p)	5.6	oklahoma
+CN400230	40	23	"Choctaw County, OK"	Aug-10(p)	7.1	oklahoma
+CN400250	40	25	"Cimarron County, OK"	Aug-10(p)	4.3	oklahoma
+CN400270	40	27	"Cleveland County, OK"	Aug-10(p)	5.7	oklahoma
+CN400290	40	29	"Coal County, OK"	Aug-10(p)	7.8	oklahoma
+PS400020	40	31	"Comanche County, OK"	Aug-10(p)	6.2	oklahoma
+CN400330	40	33	"Cotton County, OK"	Aug-10(p)	5	oklahoma
+CN400350	40	35	"Craig County, OK"	Aug-10(p)	5.8	oklahoma
+PA400450	40	37	"Creek County, OK"	Aug-10(p)	8.4	oklahoma
+CN400390	40	39	"Custer County, OK"	Aug-10(p)	4.6	oklahoma
+CN400410	40	41	"Delaware County, OK"	Aug-10(p)	6.4	oklahoma
+CN400430	40	43	"Dewey County, OK"	Aug-10(p)	4.1	oklahoma
+CN400450	40	45	"Ellis County, OK"	Aug-10(p)	4.3	oklahoma
+CN400470	40	47	"Garfield County, OK"	Aug-10(p)	4.9	oklahoma
+CN400490	40	49	"Garvin County, OK"	Aug-10(p)	6	oklahoma
+CN400510	40	51	"Grady County, OK"	Aug-10(p)	6.9	oklahoma
+CN400530	40	53	"Grant County, OK"	Aug-10(p)	4.1	oklahoma
+CN400550	40	55	"Greer County, OK"	Aug-10(p)	8	oklahoma
+CN400570	40	57	"Harmon County, OK"	Aug-10(p)	5.5	oklahoma
+CN400590	40	59	"Harper County, OK"	Aug-10(p)	3.5	oklahoma
+CN400610	40	61	"Haskell County, OK"	Aug-10(p)	7.3	oklahoma
+CN400630	40	63	"Hughes County, OK"	Aug-10(p)	10.2	oklahoma
+CN400650	40	65	"Jackson County, OK"	Aug-10(p)	5.3	oklahoma
+CN400670	40	67	"Jefferson County, OK"	Aug-10(p)	7.6	oklahoma
+CN400690	40	69	"Johnston County, OK"	Aug-10(p)	7.1	oklahoma
+CN400710	40	71	"Kay County, OK"	Aug-10(p)	7.9	oklahoma
+CN400730	40	73	"Kingfisher County, OK"	Aug-10(p)	4.7	oklahoma
+CN400750	40	75	"Kiowa County, OK"	Aug-10(p)	5.8	oklahoma
+CN400770	40	77	"Latimer County, OK"	Aug-10(p)	11	oklahoma
+CN400790	40	79	"Le Flore County, OK"	Aug-10(p)	10.6	oklahoma
+CN400810	40	81	"Lincoln County, OK"	Aug-10(p)	6.4	oklahoma
+CN400830	40	83	"Logan County, OK"	Aug-10(p)	6.4	oklahoma
+CN400850	40	85	"Love County, OK"	Aug-10(p)	5	oklahoma
+CN400870	40	87	"McClain County, OK"	Aug-10(p)	6.1	oklahoma
+CN400890	40	89	"McCurtain County, OK"	Aug-10(p)	11.2	oklahoma
+CN400910	40	91	"McIntosh County, OK"	Aug-10(p)	8.7	oklahoma
+CN400930	40	93	"Major County, OK"	Aug-10(p)	4.4	oklahoma
+CN400950	40	95	"Marshall County, OK"	Aug-10(p)	6.7	oklahoma
+CN400970	40	97	"Mayes County, OK"	Aug-10(p)	8.6	oklahoma
+CN400990	40	99	"Murray County, OK"	Aug-10(p)	3.9	oklahoma
+PA400300	40	101	"Muskogee County, OK"	Aug-10(p)	7.9	oklahoma
+CN401030	40	103	"Noble County, OK"	Aug-10(p)	6.1	oklahoma
+CN401050	40	105	"Nowata County, OK"	Aug-10(p)	8.5	oklahoma
+CN401070	40	107	"Okfuskee County, OK"	Aug-10(p)	8.7	oklahoma
+CN401090	40	109	"Oklahoma County, OK"	Aug-10(p)	6.7	oklahoma
+CN401110	40	111	"Okmulgee County, OK"	Aug-10(p)	9.7	oklahoma
+CN401130	40	113	"Osage County, OK"	Aug-10(p)	8.1	oklahoma
+CN401150	40	115	"Ottawa County, OK"	Aug-10(p)	6.2	oklahoma
+CN401170	40	117	"Pawnee County, OK"	Aug-10(p)	9.1	oklahoma
+PA400400	40	119	"Payne County, OK"	Aug-10(p)	6.3	oklahoma
+CN401210	40	121	"Pittsburg County, OK"	Aug-10(p)	6.4	oklahoma
+CN401230	40	123	"Pontotoc County, OK"	Aug-10(p)	5.2	oklahoma
+PA400500	40	125	"Pottawatomie County, OK"	Aug-10(p)	6.6	oklahoma
+CN401270	40	127	"Pushmataha County, OK"	Aug-10(p)	8.1	oklahoma
+CN401290	40	129	"Roger Mills County, OK"	Aug-10(p)	3.8	oklahoma
+CN401310	40	131	"Rogers County, OK"	Aug-10(p)	7.2	oklahoma
+CN401330	40	133	"Seminole County, OK"	Aug-10(p)	8.5	oklahoma
+CN401350	40	135	"Sequoyah County, OK"	Aug-10(p)	10.7	oklahoma
+CN401370	40	137	"Stephens County, OK"	Aug-10(p)	6.8	oklahoma
+CN401390	40	139	"Texas County, OK"	Aug-10(p)	5.9	oklahoma
+CN401410	40	141	"Tillman County, OK"	Aug-10(p)	6.1	oklahoma
+CN401430	40	143	"Tulsa County, OK"	Aug-10(p)	7.5	oklahoma
+CN401450	40	145	"Wagoner County, OK"	Aug-10(p)	7.1	oklahoma
+CN401470	40	147	"Washington County, OK"	Aug-10(p)	5.9	oklahoma
+CN401490	40	149	"Washita County, OK"	Aug-10(p)	5.1	oklahoma
+CN401510	40	151	"Woods County, OK"	Aug-10(p)	4.1	oklahoma
+CN401530	40	153	"Woodward County, OK"	Aug-10(p)	5.5	oklahoma
+CN410010	41	1	"Baker County, OR"	Aug-10(p)	8.3	oregon
+CN410030	41	3	"Benton County, OR"	Aug-10(p)	7.3	oregon
+CN410050	41	5	"Clackamas County, OR"	Aug-10(p)	9.8	oregon
+CN410070	41	7	"Clatsop County, OR"	Aug-10(p)	8.3	oregon
+CN410090	41	9	"Columbia County, OR"	Aug-10(p)	11.3	oregon
+CN410110	41	11	"Coos County, OR"	Aug-10(p)	12.2	oregon
+CN410130	41	13	"Crook County, OR"	Aug-10(p)	15.8	oregon
+CN410150	41	15	"Curry County, OR"	Aug-10(p)	11.6	oregon
+CN410170	41	17	"Deschutes County, OR"	Aug-10(p)	13	oregon
+PA410450	41	19	"Douglas County, OR"	Aug-10(p)	13.9	oregon
+CN410210	41	21	"Gilliam County, OR"	Aug-10(p)	5.3	oregon
+CN410230	41	23	"Grant County, OR"	Aug-10(p)	10.5	oregon
+CN410250	41	25	"Harney County, OR"	Aug-10(p)	12.7	oregon
+CN410270	41	27	"Hood River County, OR"	Aug-10(p)	8.6	oregon
+PA410300	41	29	"Jackson County, OR"	Aug-10(p)	12.4	oregon
+CN410310	41	31	"Jefferson County, OR"	Aug-10(p)	12.7	oregon
+PA411250	41	33	"Josephine County, OR"	Aug-10(p)	13.5	oregon
+CN410350	41	35	"Klamath County, OR"	Aug-10(p)	12	oregon
+CN410370	41	37	"Lake County, OR"	Aug-10(p)	11.3	oregon
+CN410390	41	39	"Lane County, OR"	Aug-10(p)	10.5	oregon
+CN410410	41	41	"Lincoln County, OR"	Aug-10(p)	9.7	oregon
+CN410430	41	43	"Linn County, OR"	Aug-10(p)	12.8	oregon
+CN410450	41	45	"Malheur County, OR"	Aug-10(p)	10.5	oregon
+CN410470	41	47	"Marion County, OR"	Aug-10(p)	10.4	oregon
+CN410490	41	49	"Morrow County, OR"	Aug-10(p)	7.4	oregon
+CN410510	41	51	"Multnomah County, OR"	Aug-10(p)	9.9	oregon
+CN410530	41	53	"Polk County, OR"	Aug-10(p)	8.9	oregon
+CN410550	41	55	"Sherman County, OR"	Aug-10(p)	8	oregon
+CN410570	41	57	"Tillamook County, OR"	Aug-10(p)	8.8	oregon
+CN410590	41	59	"Umatilla County, OR"	Aug-10(p)	8.6	oregon
+CN410610	41	61	"Union County, OR"	Aug-10(p)	9	oregon
+CN410630	41	63	"Wallowa County, OR"	Aug-10(p)	8.4	oregon
+CN410650	41	65	"Wasco County, OR"	Aug-10(p)	8.6	oregon
+PA410050	41	67	"Washington County, OR"	Aug-10(p)	8.8	oregon
+CN410690	41	69	"Wheeler County, OR"	Aug-10(p)	10.6	oregon
+PA411300	41	71	"Yamhill County, OR"	Aug-10(p)	10.2	oregon
+PA421600	42	1	"Adams County, PA"	Aug-10(p)	8.1	pennsylvania
+CN420030	42	3	"Allegheny County, PA"	Aug-10(p)	8	pennsylvania
+PA421250	42	5	"Armstrong County, PA"	Aug-10(p)	8.9	pennsylvania
+CN420070	42	7	"Beaver County, PA"	Aug-10(p)	8.4	pennsylvania
+CN420090	42	9	"Bedford County, PA"	Aug-10(p)	10.4	pennsylvania
+PS420120	42	11	"Berks County, PA"	Aug-10(p)	9.5	pennsylvania
+CN420130	42	13	"Blair County, PA"	Aug-10(p)	7.6	pennsylvania
+PA421650	42	15	"Bradford County, PA"	Aug-10(p)	7.2	pennsylvania
+PS420150	42	17	"Bucks County, PA"	Aug-10(p)	8	pennsylvania
+PA421200	42	19	"Butler County, PA"	Aug-10(p)	7.7	pennsylvania
+PA420250	42	21	"Cambria County, PA"	Aug-10(p)	10	pennsylvania
+CN420230	42	23	"Cameron County, PA"	Aug-10(p)	14.8	pennsylvania
+PA421550	42	25	"Carbon County, PA"	Aug-10(p)	10.6	pennsylvania
+PS420200	42	27	"Centre County, PA"	Aug-10(p)	6.6	pennsylvania
+PS420250	42	29	"Chester County, PA"	Aug-10(p)	7.3	pennsylvania
+CN420310	42	31	"Clarion County, PA"	Aug-10(p)	10.6	pennsylvania
+PA421700	42	33	"Clearfield County, PA"	Aug-10(p)	10	pennsylvania
+CN420350	42	35	"Clinton County, PA"	Aug-10(p)	9.1	pennsylvania
+PA421750	42	37	"Columbia County, PA"	Aug-10(p)	8.7	pennsylvania
+PA421400	42	39	"Crawford County, PA"	Aug-10(p)	9.8	pennsylvania
+PA421900	42	41	"Cumberland County, PA"	Aug-10(p)	7.3	pennsylvania
+CN420430	42	43	"Dauphin County, PA"	Aug-10(p)	8.6	pennsylvania
+PS420300	42	45	"Delaware County, PA"	Aug-10(p)	9	pennsylvania
+CN420470	42	47	"Elk County, PA"	Aug-10(p)	9.7	pennsylvania
+CN420490	42	49	"Erie County, PA"	Aug-10(p)	9.4	pennsylvania
+PS420400	42	51	"Fayette County, PA"	Aug-10(p)	9.7	pennsylvania
+CN420530	42	53	"Forest County, PA"	Aug-10(p)	8.7	pennsylvania
+PS420450	42	55	"Franklin County, PA"	Aug-10(p)	8.4	pennsylvania
+CN420570	42	57	"Fulton County, PA"	Aug-10(p)	12.1	pennsylvania
+CN420590	42	59	"Greene County, PA"	Aug-10(p)	8	pennsylvania
+CN420610	42	61	"Huntingdon County, PA"	Aug-10(p)	10.4	pennsylvania
+PA421300	42	63	"Indiana County, PA"	Aug-10(p)	8.8	pennsylvania
+CN420650	42	65	"Jefferson County, PA"	Aug-10(p)	9.7	pennsylvania
+CN420670	42	67	"Juniata County, PA"	Aug-10(p)	7.9	pennsylvania
+CN420690	42	69	"Lackawanna County, PA"	Aug-10(p)	9.8	pennsylvania
+PS421500	42	71	"Lancaster County, PA"	Aug-10(p)	7.8	pennsylvania
+PS420600	42	73	"Lawrence County, PA"	Aug-10(p)	9.4	pennsylvania
+PS421550	42	75	"Lebanon County, PA"	Aug-10(p)	7.4	pennsylvania
+CN420770	42	77	"Lehigh County, PA"	Aug-10(p)	9.7	pennsylvania
+PS420700	42	79	"Luzerne County, PA"	Aug-10(p)	10.2	pennsylvania
+PA421150	42	81	"Lycoming County, PA"	Aug-10(p)	8.9	pennsylvania
+PA421800	42	83	"McKean County, PA"	Aug-10(p)	10	pennsylvania
+PA421350	42	85	"Mercer County, PA"	Aug-10(p)	10.7	pennsylvania
+CN420870	42	87	"Mifflin County, PA"	Aug-10(p)	10.2	pennsylvania
+PA421950	42	89	"Monroe County, PA"	Aug-10(p)	9.7	pennsylvania
+PS420850	42	91	"Montgomery County, PA"	Aug-10(p)	7.6	pennsylvania
+CN420930	42	93	"Montour County, PA"	Aug-10(p)	7.1	pennsylvania
+CN420950	42	95	"Northampton County, PA"	Aug-10(p)	9.5	pennsylvania
+PS420900	42	97	"Northumberland County, PA"	Aug-10(p)	9.4	pennsylvania
+CN420990	42	99	"Perry County, PA"	Aug-10(p)	8.4	pennsylvania
+PS420950	42	101	"Philadelphia County/city, PA"	Aug-10(p)	11.8	pennsylvania
+CN421030	42	103	"Pike County, PA"	Aug-10(p)	9.3	pennsylvania
+CN421050	42	105	"Potter County, PA"	Aug-10(p)	10.8	pennsylvania
+PS421040	42	107	"Schuylkill County, PA"	Aug-10(p)	10.4	pennsylvania
+CN421090	42	109	"Snyder County, PA"	Aug-10(p)	8.9	pennsylvania
+PA420350	42	111	"Somerset County, PA"	Aug-10(p)	9.5	pennsylvania
+CN421130	42	113	"Sullivan County, PA"	Aug-10(p)	8.3	pennsylvania
+CN421150	42	115	"Susquehanna County, PA"	Aug-10(p)	8.1	pennsylvania
+CN421170	42	117	"Tioga County, PA"	Aug-10(p)	8.4	pennsylvania
+CN421190	42	119	"Union County, PA"	Aug-10(p)	9.3	pennsylvania
+PA421450	42	121	"Venango County, PA"	Aug-10(p)	9.1	pennsylvania
+CN421230	42	123	"Warren County, PA"	Aug-10(p)	8.1	pennsylvania
+PS421300	42	125	"Washington County, PA"	Aug-10(p)	7.8	pennsylvania
+CN421270	42	127	"Wayne County, PA"	Aug-10(p)	7	pennsylvania
+PS421350	42	129	"Westmoreland County, PA"	Aug-10(p)	8.7	pennsylvania
+CN421310	42	131	"Wyoming County, PA"	Aug-10(p)	9.2	pennsylvania
+PS421400	42	133	"York County, PA"	Aug-10(p)	9	pennsylvania
+CN440010	44	1	"Bristol County, RI"	Aug-10(p)	10.1	rhode island
+CN440030	44	3	"Kent County, RI"	Aug-10(p)	11.6	rhode island
+CN440050	44	5	"Newport County, RI"	Aug-10(p)	9.9	rhode island
+CN440070	44	7	"Providence County, RI"	Aug-10(p)	12.8	rhode island
+CN440090	44	9	"Washington County, RI"	Aug-10(p)	9.6	rhode island
+CN450010	45	1	"Abbeville County, SC"	Aug-10(p)	13.8	south carolina
+PA450500	45	3	"Aiken County, SC"	Aug-10(p)	8.6	south carolina
+CN450050	45	5	"Allendale County, SC"	Aug-10(p)	19.5	south carolina
+CN450070	45	7	"Anderson County, SC"	Aug-10(p)	11.7	south carolina
+CN450090	45	9	"Bamberg County, SC"	Aug-10(p)	16.9	south carolina
+CN450110	45	11	"Barnwell County, SC"	Aug-10(p)	17.5	south carolina
+PA450550	45	13	"Beaufort County, SC"	Aug-10(p)	9.1	south carolina
+PA450600	45	15	"Berkeley County, SC"	Aug-10(p)	10.8	south carolina
+CN450170	45	17	"Calhoun County, SC"	Aug-10(p)	12.1	south carolina
+CN450190	45	19	"Charleston County, SC"	Aug-10(p)	9.8	south carolina
+CN450210	45	21	"Cherokee County, SC"	Aug-10(p)	14.6	south carolina
+CN450230	45	23	"Chester County, SC"	Aug-10(p)	17.9	south carolina
+CN450250	45	25	"Chesterfield County, SC"	Aug-10(p)	14.9	south carolina
+CN450270	45	27	"Clarendon County, SC"	Aug-10(p)	15.5	south carolina
+CN450290	45	29	"Colleton County, SC"	Aug-10(p)	13.4	south carolina
+PA450650	45	31	"Darlington County, SC"	Aug-10(p)	13.3	south carolina
+CN450330	45	33	"Dillon County, SC"	Aug-10(p)	15.5	south carolina
+PA450670	45	35	"Dorchester County, SC"	Aug-10(p)	9.8	south carolina
+CN450370	45	37	"Edgefield County, SC"	Aug-10(p)	10.3	south carolina
+CN450390	45	39	"Fairfield County, SC"	Aug-10(p)	13.4	south carolina
+PA450700	45	41	"Florence County, SC"	Aug-10(p)	11.6	south carolina
+CN450430	45	43	"Georgetown County, SC"	Aug-10(p)	11.7	south carolina
+CN450450	45	45	"Greenville County, SC"	Aug-10(p)	9.9	south carolina
+PA451100	45	47	"Greenwood County, SC"	Aug-10(p)	12.6	south carolina
+CN450490	45	49	"Hampton County, SC"	Aug-10(p)	14.5	south carolina
+CN450510	45	51	"Horry County, SC"	Aug-10(p)	10.5	south carolina
+CN450530	45	53	"Jasper County, SC"	Aug-10(p)	10.2	south carolina
+CN450550	45	55	"Kershaw County, SC"	Aug-10(p)	11.1	south carolina
+PA450770	45	57	"Lancaster County, SC"	Aug-10(p)	16.2	south carolina
+PA451150	45	59	"Laurens County, SC"	Aug-10(p)	12.3	south carolina
+CN450610	45	61	"Lee County, SC"	Aug-10(p)	14.5	south carolina
+PA450800	45	63	"Lexington County, SC"	Aug-10(p)	8.6	south carolina
+CN450650	45	65	"McCormick County, SC"	Aug-10(p)	15.5	south carolina
+CN450670	45	67	"Marion County, SC"	Aug-10(p)	19.8	south carolina
+CN450690	45	69	"Marlboro County, SC"	Aug-10(p)	18.5	south carolina
+CN450710	45	71	"Newberry County, SC"	Aug-10(p)	11.5	south carolina
+CN450730	45	73	"Oconee County, SC"	Aug-10(p)	12	south carolina
+PA450850	45	75	"Orangeburg County, SC"	Aug-10(p)	16.2	south carolina
+PA450900	45	77	"Pickens County, SC"	Aug-10(p)	10.8	south carolina
+CN450790	45	79	"Richland County, SC"	Aug-10(p)	10.6	south carolina
+CN450810	45	81	"Saluda County, SC"	Aug-10(p)	9.5	south carolina
+PA450400	45	83	"Spartanburg County, SC"	Aug-10(p)	12	south carolina
+CN450850	45	85	"Sumter County, SC"	Aug-10(p)	13.2	south carolina
+CN450870	45	87	"Union County, SC"	Aug-10(p)	18.4	south carolina
+CN450890	45	89	"Williamsburg County, SC"	Aug-10(p)	14.8	south carolina
+PA451050	45	91	"York County, SC"	Aug-10(p)	15.4	south carolina
+CN460030	46	3	"Aurora County, SD"	Aug-10(p)	4.8	south dakota
+CN460050	46	5	"Beadle County, SD"	Aug-10(p)	3.3	south dakota
+CN460070	46	7	"Bennett County, SD"	Aug-10(p)	5.6	south dakota
+CN460090	46	9	"Bon Homme County, SD"	Aug-10(p)	4.2	south dakota
+CN460110	46	11	"Brookings County, SD"	Aug-10(p)	4.2	south dakota
+CN460130	46	13	"Brown County, SD"	Aug-10(p)	3.1	south dakota
+CN460150	46	15	"Brule County, SD"	Aug-10(p)	3	south dakota
+CN460170	46	17	"Buffalo County, SD"	Aug-10(p)	16.4	south dakota
+CN460190	46	19	"Butte County, SD"	Aug-10(p)	4.3	south dakota
+CN460210	46	21	"Campbell County, SD"	Aug-10(p)	3.5	south dakota
+CN460230	46	23	"Charles Mix County, SD"	Aug-10(p)	4	south dakota
+CN460250	46	25	"Clark County, SD"	Aug-10(p)	3.9	south dakota
+CN460270	46	27	"Clay County, SD"	Aug-10(p)	3.9	south dakota
+CN460290	46	29	"Codington County, SD"	Aug-10(p)	3.8	south dakota
+CN460310	46	31	"Corson County, SD"	Aug-10(p)	9.3	south dakota
+CN460330	46	33	"Custer County, SD"	Aug-10(p)	3	south dakota
+CN460350	46	35	"Davison County, SD"	Aug-10(p)	3.6	south dakota
+CN460370	46	37	"Day County, SD"	Aug-10(p)	5.7	south dakota
+CN460390	46	39	"Deuel County, SD"	Aug-10(p)	4.1	south dakota
+CN460410	46	41	"Dewey County, SD"	Aug-10(p)	16	south dakota
+CN460430	46	43	"Douglas County, SD"	Aug-10(p)	3.3	south dakota
+CN460450	46	45	"Edmunds County, SD"	Aug-10(p)	2.9	south dakota
+CN460470	46	47	"Fall River County, SD"	Aug-10(p)	4.1	south dakota
+CN460490	46	49	"Faulk County, SD"	Aug-10(p)	3.7	south dakota
+CN460510	46	51	"Grant County, SD"	Aug-10(p)	4	south dakota
+CN460530	46	53	"Gregory County, SD"	Aug-10(p)	3	south dakota
+CN460550	46	55	"Haakon County, SD"	Aug-10(p)	2.4	south dakota
+CN460570	46	57	"Hamlin County, SD"	Aug-10(p)	3.9	south dakota
+CN460590	46	59	"Hand County, SD"	Aug-10(p)	2.6	south dakota
+CN460610	46	61	"Hanson County, SD"	Aug-10(p)	3.5	south dakota
+CN460630	46	63	"Harding County, SD"	Aug-10(p)	3.6	south dakota
+CN460650	46	65	"Hughes County, SD"	Aug-10(p)	2.8	south dakota
+CN460670	46	67	"Hutchinson County, SD"	Aug-10(p)	3.3	south dakota
+CN460690	46	69	"Hyde County, SD"	Aug-10(p)	3.5	south dakota
+CN460710	46	71	"Jackson County, SD"	Aug-10(p)	4.4	south dakota
+CN460730	46	73	"Jerauld County, SD"	Aug-10(p)	2.1	south dakota
+CN460750	46	75	"Jones County, SD"	Aug-10(p)	2.2	south dakota
+CN460770	46	77	"Kingsbury County, SD"	Aug-10(p)	5	south dakota
+CN460790	46	79	"Lake County, SD"	Aug-10(p)	5.1	south dakota
+CN460810	46	81	"Lawrence County, SD"	Aug-10(p)	4.1	south dakota
+CN460830	46	83	"Lincoln County, SD"	Aug-10(p)	4.1	south dakota
+CN460850	46	85	"Lyman County, SD"	Aug-10(p)	6.1	south dakota
+CN460870	46	87	"McCook County, SD"	Aug-10(p)	4.8	south dakota
+CN460890	46	89	"McPherson County, SD"	Aug-10(p)	4.5	south dakota
+CN460910	46	91	"Marshall County, SD"	Aug-10(p)	5.2	south dakota
+CN460930	46	93	"Meade County, SD"	Aug-10(p)	4.8	south dakota
+CN460950	46	95	"Mellette County, SD"	Aug-10(p)	6.5	south dakota
+CN460970	46	97	"Miner County, SD"	Aug-10(p)	5.1	south dakota
+CN460990	46	99	"Minnehaha County, SD"	Aug-10(p)	4.5	south dakota
+CN461010	46	101	"Moody County, SD"	Aug-10(p)	8.6	south dakota
+CN461030	46	103	"Pennington County, SD"	Aug-10(p)	3.9	south dakota
+CN461050	46	105	"Perkins County, SD"	Aug-10(p)	3.5	south dakota
+CN461070	46	107	"Potter County, SD"	Aug-10(p)	3.6	south dakota
+CN461090	46	109	"Roberts County, SD"	Aug-10(p)	5	south dakota
+CN461110	46	111	"Sanborn County, SD"	Aug-10(p)	3.7	south dakota
+CN461130	46	113	"Shannon County, SD"	Aug-10(p)	12.9	south dakota
+CN461150	46	115	"Spink County, SD"	Aug-10(p)	3.2	south dakota
+CN461170	46	117	"Stanley County, SD"	Aug-10(p)	2.8	south dakota
+CN461190	46	119	"Sully County, SD"	Aug-10(p)	2	south dakota
+CN461210	46	121	"Todd County, SD"	Aug-10(p)	7.9	south dakota
+CN461230	46	123	"Tripp County, SD"	Aug-10(p)	3.4	south dakota
+CN461250	46	125	"Turner County, SD"	Aug-10(p)	3.7	south dakota
+CN461270	46	127	"Union County, SD"	Aug-10(p)	5.3	south dakota
+CN461290	46	129	"Walworth County, SD"	Aug-10(p)	5.1	south dakota
+CN461350	46	135	"Yankton County, SD"	Aug-10(p)	4.2	south dakota
+CN461370	46	137	"Ziebach County, SD"	Aug-10(p)	9.6	south dakota
+PA470250	47	1	"Anderson County, TN"	Aug-10(p)	8.8	tennessee
+CN470030	47	3	"Bedford County, TN"	Aug-10(p)	11.9	tennessee
+CN470050	47	5	"Benton County, TN"	Aug-10(p)	12.9	tennessee
+CN470070	47	7	"Bledsoe County, TN"	Aug-10(p)	12.3	tennessee
+PA470300	47	9	"Blount County, TN"	Aug-10(p)	7.5	tennessee
+PA470350	47	11	"Bradley County, TN"	Aug-10(p)	9.1	tennessee
+CN470130	47	13	"Campbell County, TN"	Aug-10(p)	11.5	tennessee
+CN470150	47	15	"Cannon County, TN"	Aug-10(p)	9.1	tennessee
+CN470170	47	17	"Carroll County, TN"	Aug-10(p)	14.3	tennessee
+PA471000	47	19	"Carter County, TN"	Aug-10(p)	9.6	tennessee
+CN470210	47	21	"Cheatham County, TN"	Aug-10(p)	8.6	tennessee
+CN470230	47	23	"Chester County, TN"	Aug-10(p)	10.5	tennessee
+CN470250	47	25	"Claiborne County, TN"	Aug-10(p)	10.6	tennessee
+CN470270	47	27	"Clay County, TN"	Aug-10(p)	10.9	tennessee
+CN470290	47	29	"Cocke County, TN"	Aug-10(p)	11.9	tennessee
+CN470310	47	31	"Coffee County, TN"	Aug-10(p)	10.1	tennessee
+CN470330	47	33	"Crockett County, TN"	Aug-10(p)	11.9	tennessee
+CN470350	47	35	"Cumberland County, TN"	Aug-10(p)	9.9	tennessee
+PS470250	47	37	"Davidson County, TN"	Aug-10(p)	9.5	tennessee
+CN470390	47	39	"Decatur County, TN"	Aug-10(p)	11.1	tennessee
+CN470410	47	41	"DeKalb County, TN"	Aug-10(p)	9.6	tennessee
+CN470430	47	43	"Dickson County, TN"	Aug-10(p)	8.9	tennessee
+CN470450	47	45	"Dyer County, TN"	Aug-10(p)	11.9	tennessee
+CN470470	47	47	"Fayette County, TN"	Aug-10(p)	9.6	tennessee
+CN470490	47	49	"Fentress County, TN"	Aug-10(p)	11.4	tennessee
+CN470510	47	51	"Franklin County, TN"	Aug-10(p)	10.5	tennessee
+CN470530	47	53	"Gibson County, TN"	Aug-10(p)	12.7	tennessee
+CN470550	47	55	"Giles County, TN"	Aug-10(p)	13	tennessee
+CN470570	47	57	"Grainger County, TN"	Aug-10(p)	11.8	tennessee
+PA470650	47	59	"Greene County, TN"	Aug-10(p)	12.9	tennessee
+CN470610	47	61	"Grundy County, TN"	Aug-10(p)	11.8	tennessee
+CN470630	47	63	"Hamblen County, TN"	Aug-10(p)	10.9	tennessee
+CN470650	47	65	"Hamilton County, TN"	Aug-10(p)	8.7	tennessee
+CN470670	47	67	"Hancock County, TN"	Aug-10(p)	14.3	tennessee
+CN470690	47	69	"Hardeman County, TN"	Aug-10(p)	12.3	tennessee
+CN470710	47	71	"Hardin County, TN"	Aug-10(p)	10.7	tennessee
+CN470730	47	73	"Hawkins County, TN"	Aug-10(p)	8.8	tennessee
+CN470750	47	75	"Haywood County, TN"	Aug-10(p)	14	tennessee
+CN470770	47	77	"Henderson County, TN"	Aug-10(p)	14.7	tennessee
+CN470790	47	79	"Henry County, TN"	Aug-10(p)	11.2	tennessee
+CN470810	47	81	"Hickman County, TN"	Aug-10(p)	10.8	tennessee
+CN470830	47	83	"Houston County, TN"	Aug-10(p)	10.1	tennessee
+CN470850	47	85	"Humphreys County, TN"	Aug-10(p)	10.6	tennessee
+CN470870	47	87	"Jackson County, TN"	Aug-10(p)	11.2	tennessee
+CN470890	47	89	"Jefferson County, TN"	Aug-10(p)	11.4	tennessee
+CN470910	47	91	"Johnson County, TN"	Aug-10(p)	12.1	tennessee
+PS470150	47	93	"Knox County, TN"	Aug-10(p)	7.6	tennessee
+CN470950	47	95	"Lake County, TN"	Aug-10(p)	9.9	tennessee
+CN470970	47	97	"Lauderdale County, TN"	Aug-10(p)	15	tennessee
+CN470990	47	99	"Lawrence County, TN"	Aug-10(p)	13.9	tennessee
+CN471010	47	101	"Lewis County, TN"	Aug-10(p)	13.8	tennessee
+CN471030	47	103	"Lincoln County, TN"	Aug-10(p)	6.4	tennessee
+CN471050	47	105	"Loudon County, TN"	Aug-10(p)	7.9	tennessee
+CN471070	47	107	"McMinn County, TN"	Aug-10(p)	11.8	tennessee
+CN471090	47	109	"McNairy County, TN"	Aug-10(p)	11.7	tennessee
+CN471110	47	111	"Macon County, TN"	Aug-10(p)	8.7	tennessee
+PA470400	47	113	"Madison County, TN"	Aug-10(p)	9.8	tennessee
+CN471150	47	115	"Marion County, TN"	Aug-10(p)	10.3	tennessee
+CN471170	47	117	"Marshall County, TN"	Aug-10(p)	16	tennessee
+PA471100	47	119	"Maury County, TN"	Aug-10(p)	14.5	tennessee
+CN471210	47	121	"Meigs County, TN"	Aug-10(p)	12.3	tennessee
+CN471230	47	123	"Monroe County, TN"	Aug-10(p)	12.6	tennessee
+CN471250	47	125	"Montgomery County, TN"	Aug-10(p)	9.7	tennessee
+CN471270	47	127	"Moore County, TN"	Aug-10(p)	9.7	tennessee
+CN471290	47	129	"Morgan County, TN"	Aug-10(p)	11	tennessee
+CN471310	47	131	"Obion County, TN"	Aug-10(p)	9.6	tennessee
+CN471330	47	133	"Overton County, TN"	Aug-10(p)	9.5	tennessee
+CN471350	47	135	"Perry County, TN"	Aug-10(p)	13.4	tennessee
+CN471370	47	137	"Pickett County, TN"	Aug-10(p)	12.8	tennessee
+CN471390	47	139	"Polk County, TN"	Aug-10(p)	10.3	tennessee
+CN471410	47	141	"Putnam County, TN"	Aug-10(p)	8.9	tennessee
+CN471430	47	143	"Rhea County, TN"	Aug-10(p)	12.5	tennessee
+CN471450	47	145	"Roane County, TN"	Aug-10(p)	7.8	tennessee
+CN471470	47	147	"Robertson County, TN"	Aug-10(p)	8.4	tennessee
+PA470500	47	149	"Rutherford County, TN"	Aug-10(p)	8.6	tennessee
+CN471510	47	151	"Scott County, TN"	Aug-10(p)	19.8	tennessee
+CN471530	47	153	"Sequatchie County, TN"	Aug-10(p)	10.9	tennessee
+CN471550	47	155	"Sevier County, TN"	Aug-10(p)	8.4	tennessee
+PS470200	47	157	"Shelby County, TN"	Aug-10(p)	9.9	tennessee
+CN471590	47	159	"Smith County, TN"	Aug-10(p)	9.3	tennessee
+CN471610	47	161	"Stewart County, TN"	Aug-10(p)	10.5	tennessee
+PS470300	47	163	"Sullivan County, TN"	Aug-10(p)	7.9	tennessee
+PA470550	47	165	"Sumner County, TN"	Aug-10(p)	8.6	tennessee
+CN471670	47	167	"Tipton County, TN"	Aug-10(p)	10.3	tennessee
+CN471690	47	169	"Trousdale County, TN"	Aug-10(p)	9.8	tennessee
+CN471710	47	171	"Unicoi County, TN"	Aug-10(p)	9.1	tennessee
+CN471730	47	173	"Union County, TN"	Aug-10(p)	8.4	tennessee
+CN471750	47	175	"Van Buren County, TN"	Aug-10(p)	10.7	tennessee
+CN471770	47	177	"Warren County, TN"	Aug-10(p)	11.1	tennessee
+PA470600	47	179	"Washington County, TN"	Aug-10(p)	8.4	tennessee
+CN471810	47	181	"Wayne County, TN"	Aug-10(p)	11.9	tennessee
+CN471830	47	183	"Weakley County, TN"	Aug-10(p)	12.1	tennessee
+CN471850	47	185	"White County, TN"	Aug-10(p)	12	tennessee
+PA470800	47	187	"Williamson County, TN"	Aug-10(p)	7	tennessee
+PA471200	47	189	"Wilson County, TN"	Aug-10(p)	8.2	tennessee
+CN480010	48	1	"Anderson County, TX"	Aug-10(p)	9.8	texas
+CN480030	48	3	"Andrews County, TX"	Aug-10(p)	6.3	texas
+PA481550	48	5	"Angelina County, TX"	Aug-10(p)	8.3	texas
+CN480070	48	7	"Aransas County, TX"	Aug-10(p)	8.3	texas
+CN480090	48	9	"Archer County, TX"	Aug-10(p)	6.3	texas
+CN480110	48	11	"Armstrong County, TX"	Aug-10(p)	4.9	texas
+CN480130	48	13	"Atascosa County, TX"	Aug-10(p)	8.1	texas
+CN480150	48	15	"Austin County, TX"	Aug-10(p)	7.8	texas
+CN480170	48	17	"Bailey County, TX"	Aug-10(p)	7.2	texas
+CN480190	48	19	"Bandera County, TX"	Aug-10(p)	7.1	texas
+CN480210	48	21	"Bastrop County, TX"	Aug-10(p)	8.3	texas
+CN480230	48	23	"Baylor County, TX"	Aug-10(p)	6.4	texas
+CN480250	48	25	"Bee County, TX"	Aug-10(p)	9.9	texas
+CN480270	48	27	"Bell County, TX"	Aug-10(p)	7.7	texas
+CN480290	48	29	"Bexar County, TX"	Aug-10(p)	7.8	texas
+CN480310	48	31	"Blanco County, TX"	Aug-10(p)	5.7	texas
+CN480330	48	33	"Borden County, TX"	Aug-10(p)	5.4	texas
+CN480350	48	35	"Bosque County, TX"	Aug-10(p)	8.6	texas
+CN480370	48	37	"Bowie County, TX"	Aug-10(p)	8.8	texas
+PA483000	48	39	"Brazoria County, TX"	Aug-10(p)	9.4	texas
+PA481330	48	41	"Brazos County, TX"	Aug-10(p)	6.7	texas
+CN480430	48	43	"Brewster County, TX"	Aug-10(p)	5.9	texas
+CN480450	48	45	"Briscoe County, TX"	Aug-10(p)	5.9	texas
+CN480470	48	47	"Brooks County, TX"	Aug-10(p)	10.4	texas
+CN480490	48	49	"Brown County, TX"	Aug-10(p)	7.4	texas
+CN480510	48	51	"Burleson County, TX"	Aug-10(p)	6.7	texas
+CN480530	48	53	"Burnet County, TX"	Aug-10(p)	6.4	texas
+CN480550	48	55	"Caldwell County, TX"	Aug-10(p)	8.6	texas
+CN480570	48	57	"Calhoun County, TX"	Aug-10(p)	9.7	texas
+CN480590	48	59	"Callahan County, TX"	Aug-10(p)	5.9	texas
+PS480120	48	61	"Cameron County, TX"	Aug-10(p)	11.7	texas
+CN480630	48	63	"Camp County, TX"	Aug-10(p)	9.3	texas
+CN480650	48	65	"Carson County, TX"	Aug-10(p)	5.3	texas
+CN480670	48	67	"Cass County, TX"	Aug-10(p)	11.1	texas
+CN480690	48	69	"Castro County, TX"	Aug-10(p)	6.1	texas
+CN480710	48	71	"Chambers County, TX"	Aug-10(p)	10.2	texas
+CN480730	48	73	"Cherokee County, TX"	Aug-10(p)	9.2	texas
+CN480750	48	75	"Childress County, TX"	Aug-10(p)	7	texas
+CN480770	48	77	"Clay County, TX"	Aug-10(p)	6.4	texas
+CN480790	48	79	"Cochran County, TX"	Aug-10(p)	8.6	texas
+CN480810	48	81	"Coke County, TX"	Aug-10(p)	9.1	texas
+CN480830	48	83	"Coleman County, TX"	Aug-10(p)	7	texas
+CN480850	48	85	"Collin County, TX"	Aug-10(p)	7.7	texas
+CN480870	48	87	"Collingsworth County, TX"	Aug-10(p)	5.7	texas
+CN480890	48	89	"Colorado County, TX"	Aug-10(p)	7.3	texas
+CN480910	48	91	"Comal County, TX"	Aug-10(p)	6.7	texas
+CN480930	48	93	"Comanche County, TX"	Aug-10(p)	6.7	texas
+CN480950	48	95	"Concho County, TX"	Aug-10(p)	8.7	texas
+CN480970	48	97	"Cooke County, TX"	Aug-10(p)	6.7	texas
+PA483300	48	99	"Coryell County, TX"	Aug-10(p)	9.4	texas
+CN481010	48	101	"Cottle County, TX"	Aug-10(p)	6.4	texas
+CN481030	48	103	"Crane County, TX"	Aug-10(p)	7.7	texas
+CN481050	48	105	"Crockett County, TX"	Aug-10(p)	5.8	texas
+CN481070	48	107	"Crosby County, TX"	Aug-10(p)	7.5	texas
+CN481090	48	109	"Culberson County, TX"	Aug-10(p)	4.5	texas
+CN481110	48	111	"Dallam County, TX"	Aug-10(p)	5.1	texas
+CN481130	48	113	"Dallas County, TX"	Aug-10(p)	8.8	texas
+CN481150	48	115	"Dawson County, TX"	Aug-10(p)	8.4	texas
+CN481170	48	117	"Deaf Smith County, TX"	Aug-10(p)	6.2	texas
+CN481190	48	119	"Delta County, TX"	Aug-10(p)	9.2	texas
+PA481520	48	121	"Denton County, TX"	Aug-10(p)	7.7	texas
+CN481230	48	123	"DeWitt County, TX"	Aug-10(p)	8.5	texas
+CN481250	48	125	"Dickens County, TX"	Aug-10(p)	12.3	texas
+CN481270	48	127	"Dimmit County, TX"	Aug-10(p)	10.3	texas
+CN481290	48	129	"Donley County, TX"	Aug-10(p)	7.6	texas
+CN481310	48	131	"Duval County, TX"	Aug-10(p)	11.6	texas
+CN481330	48	133	"Eastland County, TX"	Aug-10(p)	8.3	texas
+CN481350	48	135	"Ector County, TX"	Aug-10(p)	8.1	texas
+CN481370	48	137	"Edwards County, TX"	Aug-10(p)	7.3	texas
+PA481900	48	139	"Ellis County, TX"	Aug-10(p)	8.8	texas
+PS480400	48	141	"El Paso County, TX"	Aug-10(p)	10.2	texas
+CN481430	48	143	"Erath County, TX"	Aug-10(p)	6.9	texas
+CN481450	48	145	"Falls County, TX"	Aug-10(p)	10.1	texas
+CN481470	48	147	"Fannin County, TX"	Aug-10(p)	9.8	texas
+CN481490	48	149	"Fayette County, TX"	Aug-10(p)	5.8	texas
+CN481510	48	151	"Fisher County, TX"	Aug-10(p)	6.9	texas
+CN481530	48	153	"Floyd County, TX"	Aug-10(p)	9.2	texas
+CN481550	48	155	"Foard County, TX"	Aug-10(p)	7.8	texas
+PA483050	48	157	"Fort Bend County, TX"	Aug-10(p)	8.3	texas
+CN481590	48	159	"Franklin County, TX"	Aug-10(p)	7.8	texas
+CN481610	48	161	"Freestone County, TX"	Aug-10(p)	6.7	texas
+CN481630	48	163	"Frio County, TX"	Aug-10(p)	8	texas
+CN481650	48	165	"Gaines County, TX"	Aug-10(p)	6.2	texas
+PS480470	48	167	"Galveston County, TX"	Aug-10(p)	9.3	texas
+CN481690	48	169	"Garza County, TX"	Aug-10(p)	5.7	texas
+CN481710	48	171	"Gillespie County, TX"	Aug-10(p)	4.6	texas
+CN481730	48	173	"Glasscock County, TX"	Aug-10(p)	5.9	texas
+CN481750	48	175	"Goliad County, TX"	Aug-10(p)	7.3	texas
+CN481770	48	177	"Gonzales County, TX"	Aug-10(p)	6	texas
+CN481790	48	179	"Gray County, TX"	Aug-10(p)	7.3	texas
+PA481000	48	181	"Grayson County, TX"	Aug-10(p)	8.6	texas
+CN481830	48	183	"Gregg County, TX"	Aug-10(p)	7.4	texas
+CN481850	48	185	"Grimes County, TX"	Aug-10(p)	9	texas
+CN481870	48	187	"Guadalupe County, TX"	Aug-10(p)	7	texas
+CN481890	48	189	"Hale County, TX"	Aug-10(p)	7.6	texas
+CN481910	48	191	"Hall County, TX"	Aug-10(p)	10.3	texas
+CN481930	48	193	"Hamilton County, TX"	Aug-10(p)	6.5	texas
+CN481950	48	195	"Hansford County, TX"	Aug-10(p)	4.7	texas
+CN481970	48	197	"Hardeman County, TX"	Aug-10(p)	7.5	texas
+CN481990	48	199	"Hardin County, TX"	Aug-10(p)	9.8	texas
+CN482010	48	201	"Harris County, TX"	Aug-10(p)	8.6	texas
+PA483400	48	203	"Harrison County, TX"	Aug-10(p)	8.8	texas
+CN482050	48	205	"Hartley County, TX"	Aug-10(p)	5	texas
+CN482070	48	207	"Haskell County, TX"	Aug-10(p)	5	texas
+CN482090	48	209	"Hays County, TX"	Aug-10(p)	7.2	texas
+CN482110	48	211	"Hemphill County, TX"	Aug-10(p)	3	texas
+CN482130	48	213	"Henderson County, TX"	Aug-10(p)	8.8	texas
+CN482150	48	215	"Hidalgo County, TX"	Aug-10(p)	12.2	texas
+CN482170	48	217	"Hill County, TX"	Aug-10(p)	8.2	texas
+CN482190	48	219	"Hockley County, TX"	Aug-10(p)	6.7	texas
+CN482210	48	221	"Hood County, TX"	Aug-10(p)	7.1	texas
+CN482230	48	223	"Hopkins County, TX"	Aug-10(p)	6.8	texas
+CN482250	48	225	"Houston County, TX"	Aug-10(p)	10.2	texas
+CN482270	48	227	"Howard County, TX"	Aug-10(p)	7.4	texas
+CN482290	48	229	"Hudspeth County, TX"	Aug-10(p)	6.2	texas
+PA483100	48	231	"Hunt County, TX"	Aug-10(p)	8.9	texas
+CN482330	48	233	"Hutchinson County, TX"	Aug-10(p)	7.6	texas
+CN482350	48	235	"Irion County, TX"	Aug-10(p)	4.8	texas
+CN482370	48	237	"Jack County, TX"	Aug-10(p)	5.5	texas
+CN482390	48	239	"Jackson County, TX"	Aug-10(p)	7.5	texas
+CN482410	48	241	"Jasper County, TX"	Aug-10(p)	11.5	texas
+CN482430	48	243	"Jeff Davis County, TX"	Aug-10(p)	6	texas
+CN482450	48	245	"Jefferson County, TX"	Aug-10(p)	11.1	texas
+CN482470	48	247	"Jim Hogg County, TX"	Aug-10(p)	7.7	texas
+CN482490	48	249	"Jim Wells County, TX"	Aug-10(p)	8.5	texas
+PA481540	48	251	"Johnson County, TX"	Aug-10(p)	8.3	texas
+CN482530	48	253	"Jones County, TX"	Aug-10(p)	8.3	texas
+CN482550	48	255	"Karnes County, TX"	Aug-10(p)	10.2	texas
+CN482570	48	257	"Kaufman County, TX"	Aug-10(p)	9.3	texas
+CN482590	48	259	"Kendall County, TX"	Aug-10(p)	6.1	texas
+CN482610	48	261	"Kenedy County, TX"	Aug-10(p)	4.4	texas
+CN482630	48	263	"Kent County, TX"	Aug-10(p)	5.8	texas
+CN482650	48	265	"Kerr County, TX"	Aug-10(p)	6.2	texas
+CN482670	48	267	"Kimble County, TX"	Aug-10(p)	6.8	texas
+CN482690	48	269	"King County, TX"	Aug-10(p)	5.5	texas
+CN482710	48	271	"Kinney County, TX"	Aug-10(p)	8.5	texas
+CN482730	48	273	"Kleberg County, TX"	Aug-10(p)	7.1	texas
+CN482750	48	275	"Knox County, TX"	Aug-10(p)	6.6	texas
+CN482770	48	277	"Lamar County, TX"	Aug-10(p)	9	texas
+CN482790	48	279	"Lamb County, TX"	Aug-10(p)	7.4	texas
+CN482810	48	281	"Lampasas County, TX"	Aug-10(p)	6.1	texas
+CN482830	48	283	"La Salle County, TX"	Aug-10(p)	9.3	texas
+CN482850	48	285	"Lavaca County, TX"	Aug-10(p)	7.3	texas
+CN482870	48	287	"Lee County, TX"	Aug-10(p)	7.2	texas
+CN482890	48	289	"Leon County, TX"	Aug-10(p)	7.4	texas
+CN482910	48	291	"Liberty County, TX"	Aug-10(p)	10.8	texas
+CN482930	48	293	"Limestone County, TX"	Aug-10(p)	7.1	texas
+CN482950	48	295	"Lipscomb County, TX"	Aug-10(p)	5.3	texas
+CN482970	48	297	"Live Oak County, TX"	Aug-10(p)	7.3	texas
+CN482990	48	299	"Llano County, TX"	Aug-10(p)	7.1	texas
+CN483010	48	301	"Loving County, TX"	Aug-10(p)	9.8	texas
+CN483030	48	303	"Lubbock County, TX"	Aug-10(p)	6.3	texas
+CN483050	48	305	"Lynn County, TX"	Aug-10(p)	7.4	texas
+CN483070	48	307	"McCulloch County, TX"	Aug-10(p)	7.3	texas
+CN483090	48	309	"McLennan County, TX"	Aug-10(p)	7.4	texas
+CN483110	48	311	"McMullen County, TX"	Aug-10(p)	7.2	texas
+CN483130	48	313	"Madison County, TX"	Aug-10(p)	8.8	texas
+CN483150	48	315	"Marion County, TX"	Aug-10(p)	10.7	texas
+CN483170	48	317	"Martin County, TX"	Aug-10(p)	6	texas
+CN483190	48	319	"Mason County, TX"	Aug-10(p)	5.1	texas
+CN483210	48	321	"Matagorda County, TX"	Aug-10(p)	12.1	texas
+CN483230	48	323	"Maverick County, TX"	Aug-10(p)	13.8	texas
+CN483250	48	325	"Medina County, TX"	Aug-10(p)	7.7	texas
+CN483270	48	327	"Menard County, TX"	Aug-10(p)	7.5	texas
+CN483290	48	329	"Midland County, TX"	Aug-10(p)	5.6	texas
+CN483310	48	331	"Milam County, TX"	Aug-10(p)	10.9	texas
+CN483330	48	333	"Mills County, TX"	Aug-10(p)	6.2	texas
+CN483350	48	335	"Mitchell County, TX"	Aug-10(p)	9.3	texas
+CN483370	48	337	"Montague County, TX"	Aug-10(p)	7	texas
+PA481800	48	339	"Montgomery County, TX"	Aug-10(p)	7.7	texas
+CN483410	48	341	"Moore County, TX"	Aug-10(p)	5	texas
+CN483430	48	343	"Morris County, TX"	Aug-10(p)	13.3	texas
+CN483450	48	345	"Motley County, TX"	Aug-10(p)	5.6	texas
+CN483470	48	347	"Nacogdoches County, TX"	Aug-10(p)	7.2	texas
+CN483490	48	349	"Navarro County, TX"	Aug-10(p)	9.4	texas
+CN483510	48	351	"Newton County, TX"	Aug-10(p)	12.9	texas
+CN483530	48	353	"Nolan County, TX"	Aug-10(p)	6.9	texas
+CN483550	48	355	"Nueces County, TX"	Aug-10(p)	7.9	texas
+CN483570	48	357	"Ochiltree County, TX"	Aug-10(p)	5.5	texas
+CN483590	48	359	"Oldham County, TX"	Aug-10(p)	6.9	texas
+PA480250	48	361	"Orange County, TX"	Aug-10(p)	11	texas
+CN483630	48	363	"Palo Pinto County, TX"	Aug-10(p)	8.1	texas
+CN483650	48	365	"Panola County, TX"	Aug-10(p)	7.3	texas
+CN483670	48	367	"Parker County, TX"	Aug-10(p)	7.7	texas
+CN483690	48	369	"Parmer County, TX"	Aug-10(p)	4.8	texas
+CN483710	48	371	"Pecos County, TX"	Aug-10(p)	7.7	texas
+CN483730	48	373	"Polk County, TX"	Aug-10(p)	9.9	texas
+CN483750	48	375	"Potter County, TX"	Aug-10(p)	6.6	texas
+CN483770	48	377	"Presidio County, TX"	Aug-10(p)	18.1	texas
+CN483790	48	379	"Rains County, TX"	Aug-10(p)	9.5	texas
+CN483810	48	381	"Randall County, TX"	Aug-10(p)	5	texas
+CN483830	48	383	"Reagan County, TX"	Aug-10(p)	5.6	texas
+CN483850	48	385	"Real County, TX"	Aug-10(p)	5.4	texas
+CN483870	48	387	"Red River County, TX"	Aug-10(p)	11.2	texas
+CN483890	48	389	"Reeves County, TX"	Aug-10(p)	11.2	texas
+CN483910	48	391	"Refugio County, TX"	Aug-10(p)	7	texas
+CN483930	48	393	"Roberts County, TX"	Aug-10(p)	4.2	texas
+CN483950	48	395	"Robertson County, TX"	Aug-10(p)	9.2	texas
+CN483970	48	397	"Rockwall County, TX"	Aug-10(p)	7.6	texas
+CN483990	48	399	"Runnels County, TX"	Aug-10(p)	10.4	texas
+CN484010	48	401	"Rusk County, TX"	Aug-10(p)	7.9	texas
+CN484030	48	403	"Sabine County, TX"	Aug-10(p)	15.6	texas
+CN484050	48	405	"San Augustine County, TX"	Aug-10(p)	11.5	texas
+CN484070	48	407	"San Jacinto County, TX"	Aug-10(p)	10.5	texas
+PA480450	48	409	"San Patricio County, TX"	Aug-10(p)	10.2	texas
+CN484110	48	411	"San Saba County, TX"	Aug-10(p)	8.6	texas
+CN484130	48	413	"Schleicher County, TX"	Aug-10(p)	8.3	texas
+CN484150	48	415	"Scurry County, TX"	Aug-10(p)	6.8	texas
+CN484170	48	417	"Shackelford County, TX"	Aug-10(p)	5.1	texas
+CN484190	48	419	"Shelby County, TX"	Aug-10(p)	8.5	texas
+CN484210	48	421	"Sherman County, TX"	Aug-10(p)	5.7	texas
+CN484230	48	423	"Smith County, TX"	Aug-10(p)	7.8	texas
+CN484250	48	425	"Somervell County, TX"	Aug-10(p)	8.1	texas
+CN484270	48	427	"Starr County, TX"	Aug-10(p)	17.3	texas
+CN484290	48	429	"Stephens County, TX"	Aug-10(p)	7	texas
+CN484310	48	431	"Sterling County, TX"	Aug-10(p)	4.3	texas
+CN484330	48	433	"Stonewall County, TX"	Aug-10(p)	5.1	texas
+CN484350	48	435	"Sutton County, TX"	Aug-10(p)	5.4	texas
+CN484370	48	437	"Swisher County, TX"	Aug-10(p)	6.3	texas
+CN484390	48	439	"Tarrant County, TX"	Aug-10(p)	8.4	texas
+CN484410	48	441	"Taylor County, TX"	Aug-10(p)	6.6	texas
+CN484430	48	443	"Terrell County, TX"	Aug-10(p)	10.6	texas
+CN484450	48	445	"Terry County, TX"	Aug-10(p)	7.4	texas
+CN484470	48	447	"Throckmorton County, TX"	Aug-10(p)	5.5	texas
+CN484490	48	449	"Titus County, TX"	Aug-10(p)	8.3	texas
+CN484510	48	451	"Tom Green County, TX"	Aug-10(p)	6.6	texas
+CN484530	48	453	"Travis County, TX"	Aug-10(p)	7	texas
+CN484550	48	455	"Trinity County, TX"	Aug-10(p)	8.7	texas
+CN484570	48	457	"Tyler County, TX"	Aug-10(p)	10.7	texas
+CN484590	48	459	"Upshur County, TX"	Aug-10(p)	7.8	texas
+CN484610	48	461	"Upton County, TX"	Aug-10(p)	4.9	texas
+CN484630	48	463	"Uvalde County, TX"	Aug-10(p)	9.8	texas
+CN484650	48	465	"Val Verde County, TX"	Aug-10(p)	9.1	texas
+CN484670	48	467	"Van Zandt County, TX"	Aug-10(p)	7.6	texas
+PA481400	48	469	"Victoria County, TX"	Aug-10(p)	7.5	texas
+CN484710	48	471	"Walker County, TX"	Aug-10(p)	8	texas
+CN484730	48	473	"Waller County, TX"	Aug-10(p)	9.6	texas
+CN484750	48	475	"Ward County, TX"	Aug-10(p)	8.3	texas
+CN484770	48	477	"Washington County, TX"	Aug-10(p)	6.5	texas
+PS480870	48	479	"Webb County, TX"	Aug-10(p)	9	texas
+CN484810	48	481	"Wharton County, TX"	Aug-10(p)	8.9	texas
+CN484830	48	483	"Wheeler County, TX"	Aug-10(p)	4.4	texas
+CN484850	48	485	"Wichita County, TX"	Aug-10(p)	8.4	texas
+CN484870	48	487	"Wilbarger County, TX"	Aug-10(p)	7	texas
+CN484890	48	489	"Willacy County, TX"	Aug-10(p)	14	texas
+PA483150	48	491	"Williamson County, TX"	Aug-10(p)	7.4	texas
+CN484930	48	493	"Wilson County, TX"	Aug-10(p)	7.9	texas
+CN484950	48	495	"Winkler County, TX"	Aug-10(p)	7.6	texas
+CN484970	48	497	"Wise County, TX"	Aug-10(p)	8.4	texas
+CN484990	48	499	"Wood County, TX"	Aug-10(p)	8.3	texas
+CN485010	48	501	"Yoakum County, TX"	Aug-10(p)	6.5	texas
+CN485030	48	503	"Young County, TX"	Aug-10(p)	6.8	texas
+CN485050	48	505	"Zapata County, TX"	Aug-10(p)	11.3	texas
+CN485070	48	507	"Zavala County, TX"	Aug-10(p)	18.7	texas
+CN490010	49	1	"Beaver County, UT"	Aug-10(p)	8.5	utah
+CN490030	49	3	"Box Elder County, UT"	Aug-10(p)	9.1	utah
+PA490400	49	5	"Cache County, UT"	Aug-10(p)	6.2	utah
+CN490070	49	7	"Carbon County, UT"	Aug-10(p)	8.3	utah
+CN490090	49	9	"Daggett County, UT"	Aug-10(p)	4.7	utah
+PS490100	49	11	"Davis County, UT"	Aug-10(p)	7.2	utah
+CN490130	49	13	"Duchesne County, UT"	Aug-10(p)	7.5	utah
+CN490150	49	15	"Emery County, UT"	Aug-10(p)	8	utah
+CN490170	49	17	"Garfield County, UT"	Aug-10(p)	6.5	utah
+CN490190	49	19	"Grand County, UT"	Aug-10(p)	7.4	utah
+CN490210	49	21	"Iron County, UT"	Aug-10(p)	9.7	utah
+CN490230	49	23	"Juab County, UT"	Aug-10(p)	9.5	utah
+CN490250	49	25	"Kane County, UT"	Aug-10(p)	6.2	utah
+CN490270	49	27	"Millard County, UT"	Aug-10(p)	6.1	utah
+CN490290	49	29	"Morgan County, UT"	Aug-10(p)	7.2	utah
+CN490310	49	31	"Piute County, UT"	Aug-10(p)	6.7	utah
+CN490330	49	33	"Rich County, UT"	Aug-10(p)	4.6	utah
+CN490350	49	35	"Salt Lake County, UT"	Aug-10(p)	7.5	utah
+CN490370	49	37	"San Juan County, UT"	Aug-10(p)	12.1	utah
+CN490390	49	39	"Sanpete County, UT"	Aug-10(p)	9.9	utah
+CN490410	49	41	"Sevier County, UT"	Aug-10(p)	7.8	utah
+CN490430	49	43	"Summit County, UT"	Aug-10(p)	6.8	utah
+CN490450	49	45	"Tooele County, UT"	Aug-10(p)	8.2	utah
+CN490470	49	47	"Uintah County, UT"	Aug-10(p)	7.3	utah
+CN490490	49	49	"Utah County, UT"	Aug-10(p)	8	utah
+CN490510	49	51	"Wasatch County, UT"	Aug-10(p)	8.8	utah
+CN490530	49	53	"Washington County, UT"	Aug-10(p)	9.7	utah
+CN490550	49	55	"Wayne County, UT"	Aug-10(p)	6.9	utah
+CN490570	49	57	"Weber County, UT"	Aug-10(p)	8.6	utah
+CN500010	50	1	"Addison County, VT"	Aug-10(p)	5.4	vermont
+CN500030	50	3	"Bennington County, VT"	Aug-10(p)	6.2	vermont
+CN500050	50	5	"Caledonia County, VT"	Aug-10(p)	6.2	vermont
+PA500100	50	7	"Chittenden County, VT"	Aug-10(p)	4.8	vermont
+CN500090	50	9	"Essex County, VT"	Aug-10(p)	6.9	vermont
+CN500110	50	11	"Franklin County, VT"	Aug-10(p)	5.6	vermont
+CN500130	50	13	"Grand Isle County, VT"	Aug-10(p)	5.5	vermont
+CN500150	50	15	"Lamoille County, VT"	Aug-10(p)	5.6	vermont
+CN500170	50	17	"Orange County, VT"	Aug-10(p)	5.2	vermont
+CN500190	50	19	"Orleans County, VT"	Aug-10(p)	7.3	vermont
+PA500200	50	21	"Rutland County, VT"	Aug-10(p)	6.6	vermont
+PA500300	50	23	"Washington County, VT"	Aug-10(p)	5.2	vermont
+CN500250	50	25	"Windham County, VT"	Aug-10(p)	5.8	vermont
+PA500400	50	27	"Windsor County, VT"	Aug-10(p)	4.9	vermont
+CN510010	51	1	"Accomack County, VA"	Aug-10(p)	6.7	virginia
+PA510970	51	3	"Albemarle County, VA"	Aug-10(p)	5.4	virginia
+CN510050	51	5	"Alleghany County, VA"	Aug-10(p)	9.3	virginia
+CN510070	51	7	"Amelia County, VA"	Aug-10(p)	7.5	virginia
+CN510090	51	9	"Amherst County, VA"	Aug-10(p)	8.2	virginia
+CN510110	51	11	"Appomattox County, VA"	Aug-10(p)	8.2	virginia
+PS510100	51	13	"Arlington County, VA"	Aug-10(p)	4.1	virginia
+PA510900	51	15	"Augusta County, VA"	Aug-10(p)	6.6	virginia
+CN510170	51	17	"Bath County, VA"	Aug-10(p)	5.8	virginia
+CN510190	51	19	"Bedford County, VA"	Aug-10(p)	7	virginia
+CN510210	51	21	"Bland County, VA"	Aug-10(p)	6.8	virginia
+CN510230	51	23	"Botetourt County, VA"	Aug-10(p)	6.4	virginia
+CN510250	51	25	"Brunswick County, VA"	Aug-10(p)	11.9	virginia
+CN510270	51	27	"Buchanan County, VA"	Aug-10(p)	9.2	virginia
+CN510290	51	29	"Buckingham County, VA"	Aug-10(p)	9.8	virginia
+PA510800	51	31	"Campbell County, VA"	Aug-10(p)	7.4	virginia
+CN510330	51	33	"Caroline County, VA"	Aug-10(p)	8.5	virginia
+CN510350	51	35	"Carroll County, VA"	Aug-10(p)	11.4	virginia
+CN510360	51	36	"Charles City County, VA"	Aug-10(p)	9.9	virginia
+CN510370	51	37	"Charlotte County, VA"	Aug-10(p)	9.6	virginia
+PA510750	51	41	"Chesterfield County, VA"	Aug-10(p)	6.9	virginia
+CN510430	51	43	"Clarke County, VA"	Aug-10(p)	5.4	virginia
+CN510450	51	45	"Craig County, VA"	Aug-10(p)	7.4	virginia
+CN510470	51	47	"Culpeper County, VA"	Aug-10(p)	8.1	virginia
+CN510490	51	49	"Cumberland County, VA"	Aug-10(p)	8.1	virginia
+CN510510	51	51	"Dickenson County, VA"	Aug-10(p)	9	virginia
+CN510530	51	53	"Dinwiddie County, VA"	Aug-10(p)	7.4	virginia
+CN510570	51	57	"Essex County, VA"	Aug-10(p)	9	virginia
+PA510950	51	59	"Fairfax County, VA"	Aug-10(p)	4.9	virginia
+CN510610	51	61	"Fauquier County, VA"	Aug-10(p)	5.4	virginia
+CN510630	51	63	"Floyd County, VA"	Aug-10(p)	7.6	virginia
+CN510650	51	65	"Fluvanna County, VA"	Aug-10(p)	5.8	virginia
+CN510670	51	67	"Franklin County, VA"	Aug-10(p)	7.6	virginia
+CN510690	51	69	"Frederick County, VA"	Aug-10(p)	7	virginia
+CN510710	51	71	"Giles County, VA"	Aug-10(p)	9.5	virginia
+CN510730	51	73	"Gloucester County, VA"	Aug-10(p)	5.5	virginia
+CN510750	51	75	"Goochland County, VA"	Aug-10(p)	6.4	virginia
+CN510770	51	77	"Grayson County, VA"	Aug-10(p)	11.3	virginia
+CN510790	51	79	"Greene County, VA"	Aug-10(p)	6.1	virginia
+CN510810	51	81	"Greensville County, VA"	Aug-10(p)	9.3	virginia
+CN510830	51	83	"Halifax County, VA"	Aug-10(p)	13.1	virginia
+PA510960	51	85	"Hanover County, VA"	Aug-10(p)	6.5	virginia
+PA510700	51	87	"Henrico County, VA"	Aug-10(p)	7.1	virginia
+PA510450	51	89	"Henry County, VA"	Aug-10(p)	14	virginia
+CN510910	51	91	"Highland County, VA"	Aug-10(p)	7.3	virginia
+CN510930	51	93	"Isle of Wight County, VA"	Aug-10(p)	7.2	virginia
+CN510950	51	95	"James City County, VA"	Aug-10(p)	5	virginia
+CN510970	51	97	"King and Queen County, VA"	Aug-10(p)	8.2	virginia
+CN510990	51	99	"King George County, VA"	Aug-10(p)	8.1	virginia
+CN511010	51	101	"King William County, VA"	Aug-10(p)	6.9	virginia
+CN511030	51	103	"Lancaster County, VA"	Aug-10(p)	8.2	virginia
+CN511050	51	105	"Lee County, VA"	Aug-10(p)	7.7	virginia
+PA510850	51	107	"Loudoun County, VA"	Aug-10(p)	4.7	virginia
+CN511090	51	109	"Louisa County, VA"	Aug-10(p)	7.9	virginia
+CN511110	51	111	"Lunenburg County, VA"	Aug-10(p)	11	virginia
+CN511130	51	113	"Madison County, VA"	Aug-10(p)	6.4	virginia
+CN511150	51	115	"Mathews County, VA"	Aug-10(p)	5.4	virginia
+CN511170	51	117	"Mecklenburg County, VA"	Aug-10(p)	11.9	virginia
+CN511190	51	119	"Middlesex County, VA"	Aug-10(p)	6.9	virginia
+PA510600	51	121	"Montgomery County, VA"	Aug-10(p)	7	virginia
+CN511250	51	125	"Nelson County, VA"	Aug-10(p)	5.7	virginia
+CN511270	51	127	"New Kent County, VA"	Aug-10(p)	7.4	virginia
+CN511310	51	131	"Northampton County, VA"	Aug-10(p)	8	virginia
+CN511330	51	133	"Northumberland County, VA"	Aug-10(p)	7.5	virginia
+CN511350	51	135	"Nottoway County, VA"	Aug-10(p)	8.4	virginia
+CN511370	51	137	"Orange County, VA"	Aug-10(p)	7.8	virginia
+CN511390	51	139	"Page County, VA"	Aug-10(p)	10.8	virginia
+CN511410	51	141	"Patrick County, VA"	Aug-10(p)	11.4	virginia
+PA510500	51	143	"Pittsylvania County, VA"	Aug-10(p)	11.3	virginia
+CN511450	51	145	"Powhatan County, VA"	Aug-10(p)	6.3	virginia
+CN511470	51	147	"Prince Edward County, VA"	Aug-10(p)	10.4	virginia
+CN511490	51	149	"Prince George County, VA"	Aug-10(p)	7.4	virginia
+CN511530	51	153	"Prince William County, VA"	Aug-10(p)	5.6	virginia
+CN511550	51	155	"Pulaski County, VA"	Aug-10(p)	9.3	virginia
+CN511570	51	157	"Rappahannock County, VA"	Aug-10(p)	5.8	virginia
+CN511590	51	159	"Richmond County, VA"	Aug-10(p)	8.2	virginia
+PA510350	51	161	"Roanoke County, VA"	Aug-10(p)	6.3	virginia
+CN511630	51	163	"Rockbridge County, VA"	Aug-10(p)	7.6	virginia
+PA510650	51	165	"Rockingham County, VA"	Aug-10(p)	6.1	virginia
+CN511670	51	167	"Russell County, VA"	Aug-10(p)	11.4	virginia
+CN511690	51	169	"Scott County, VA"	Aug-10(p)	9.8	virginia
+CN511710	51	171	"Shenandoah County, VA"	Aug-10(p)	8.2	virginia
+CN511730	51	173	"Smyth County, VA"	Aug-10(p)	11.4	virginia
+CN511750	51	175	"Southampton County, VA"	Aug-10(p)	11.2	virginia
+CN511770	51	177	"Spotsylvania County, VA"	Aug-10(p)	5.7	virginia
+CN511790	51	179	"Stafford County, VA"	Aug-10(p)	5.5	virginia
+CN511810	51	181	"Surry County, VA"	Aug-10(p)	7.8	virginia
+CN511830	51	183	"Sussex County, VA"	Aug-10(p)	10.3	virginia
+PA510980	51	185	"Tazewell County, VA"	Aug-10(p)	7.6	virginia
+CN511870	51	187	"Warren County, VA"	Aug-10(p)	6.7	virginia
+CN511910	51	191	"Washington County, VA"	Aug-10(p)	9.9	virginia
+CN511930	51	193	"Westmoreland County, VA"	Aug-10(p)	7.9	virginia
+CN511950	51	195	"Wise County, VA"	Aug-10(p)	7.7	virginia
+CN511970	51	197	"Wythe County, VA"	Aug-10(p)	9.6	virginia
+CN511990	51	199	"York County, VA"	Aug-10(p)	5.5	virginia
+PS510050	51	510	"Alexandria city, VA"	Aug-10(p)	5	virginia
+CN515150	51	515	"Bedford city, VA"	Aug-10(p)	10.8	virginia
+CN515200	51	520	"Bristol city, VA"	Aug-10(p)	11.2	virginia
+CN515300	51	530	"Buena Vista city, VA"	Aug-10(p)	9.8	virginia
+CN515400	51	540	"Charlottesville city, VA"	Aug-10(p)	7.5	virginia
+PA510270	51	550	"Chesapeake city, VA"	Aug-10(p)	7.1	virginia
+CN515700	51	570	"Colonial Heights city, VA"	Aug-10(p)	8.5	virginia
+CN515800	51	580	"Covington city, VA"	Aug-10(p)	11.5	virginia
+CN515900	51	590	"Danville city, VA"	Aug-10(p)	14	virginia
+CN515950	51	595	"Emporia city, VA"	Aug-10(p)	13.9	virginia
+CN516000	51	600	"Fairfax city, VA"	Aug-10(p)	5.9	virginia
+CN516100	51	610	"Falls Church city, VA"	Aug-10(p)	6.6	virginia
+CN516200	51	620	"Franklin city, VA"	Aug-10(p)	14.2	virginia
+CN516300	51	630	"Fredericksburg city, VA"	Aug-10(p)	9	virginia
+CN516400	51	640	"Galax city, VA"	Aug-10(p)	10.8	virginia
+PA510100	51	650	"Hampton city, VA"	Aug-10(p)	8.5	virginia
+CN516600	51	660	"Harrisonburg city, VA"	Aug-10(p)	7.4	virginia
+CN516700	51	670	"Hopewell city, VA"	Aug-10(p)	11.1	virginia
+CN516780	51	678	"Lexington city, VA"	Aug-10(p)	12.1	virginia
+PA510550	51	680	"Lynchburg city, VA"	Aug-10(p)	9.2	virginia
+CN516830	51	683	"Manassas city, VA"	Aug-10(p)	7.4	virginia
+CN516850	51	685	"Manassas Park city, VA"	Aug-10(p)	5.8	virginia
+CN516900	51	690	"Martinsville city, VA"	Aug-10(p)	20.3	virginia
+PA510050	51	700	"Newport News city, VA"	Aug-10(p)	7.8	virginia
+PA510150	51	710	"Norfolk city, VA"	Aug-10(p)	9.7	virginia
+CN517200	51	720	"Norton city, VA"	Aug-10(p)	7.5	virginia
+CN517300	51	730	"Petersburg city, VA"	Aug-10(p)	13	virginia
+CN517350	51	735	"Poquoson city, VA"	Aug-10(p)	5.5	virginia
+PS510600	51	740	"Portsmouth city, VA"	Aug-10(p)	9.2	virginia
+CN517500	51	750	"Radford city, VA"	Aug-10(p)	10	virginia
+PA510300	51	760	"Richmond city, VA"	Aug-10(p)	10.9	virginia
+PA510400	51	770	"Roanoke city, VA"	Aug-10(p)	9.2	virginia
+CN517750	51	775	"Salem city, VA"	Aug-10(p)	7.5	virginia
+CN517900	51	790	"Staunton city, VA"	Aug-10(p)	7.6	virginia
+CN518000	51	800	"Suffolk city, VA"	Aug-10(p)	8.3	virginia
+PA510250	51	810	"Virginia Beach city, VA"	Aug-10(p)	6.3	virginia
+CN518200	51	820	"Waynesboro city, VA"	Aug-10(p)	8.9	virginia
+CN518300	51	830	"Williamsburg city, VA"	Aug-10(p)	14.2	virginia
+CN518400	51	840	"Winchester city, VA"	Aug-10(p)	7.8	virginia
+CN530010	53	1	"Adams County, WA"	Aug-10(p)	7.3	washington
+CN530030	53	3	"Asotin County, WA"	Aug-10(p)	7.9	washington
+PA530400	53	5	"Benton County, WA"	Aug-10(p)	6.3	washington
+CN530070	53	7	"Chelan County, WA"	Aug-10(p)	7.6	washington
+PA530800	53	9	"Clallam County, WA"	Aug-10(p)	9.6	washington
+CN530110	53	11	"Clark County, WA"	Aug-10(p)	13.1	washington
+CN530130	53	13	"Columbia County, WA"	Aug-10(p)	9.5	washington
+PA530450	53	15	"Cowlitz County, WA"	Aug-10(p)	11.9	washington
+CN530170	53	17	"Douglas County, WA"	Aug-10(p)	7.4	washington
+CN530190	53	19	"Ferry County, WA"	Aug-10(p)	12.7	washington
+CN530210	53	21	"Franklin County, WA"	Aug-10(p)	6.9	washington
+CN530230	53	23	"Garfield County, WA"	Aug-10(p)	5.6	washington
+CN530250	53	25	"Grant County, WA"	Aug-10(p)	8.5	washington
+PA530500	53	27	"Grays Harbor County, WA"	Aug-10(p)	12	washington
+CN530290	53	29	"Island County, WA"	Aug-10(p)	8.5	washington
+CN530310	53	31	"Jefferson County, WA"	Aug-10(p)	8.7	washington
+PS530250	53	33	"King County, WA"	Aug-10(p)	8	washington
+PS530100	53	35	"Kitsap County, WA"	Aug-10(p)	7.3	washington
+CN530370	53	37	"Kittitas County, WA"	Aug-10(p)	8.8	washington
+CN530390	53	39	"Klickitat County, WA"	Aug-10(p)	9.3	washington
+PA530750	53	41	"Lewis County, WA"	Aug-10(p)	12.3	washington
+CN530430	53	43	"Lincoln County, WA"	Aug-10(p)	7.1	washington
+CN530450	53	45	"Mason County, WA"	Aug-10(p)	10.5	washington
+CN530470	53	47	"Okanogan County, WA"	Aug-10(p)	8.7	washington
+CN530490	53	49	"Pacific County, WA"	Aug-10(p)	10.5	washington
+CN530510	53	51	"Pend Oreille County, WA"	Aug-10(p)	11.1	washington
+PS530160	53	53	"Pierce County, WA"	Aug-10(p)	9.2	washington
+CN530550	53	55	"San Juan County, WA"	Aug-10(p)	5.3	washington
+PA530550	53	57	"Skagit County, WA"	Aug-10(p)	9.3	washington
+CN530590	53	59	"Skamania County, WA"	Aug-10(p)	10.9	washington
+PS530300	53	61	"Snohomish County, WA"	Aug-10(p)	9.3	washington
+PS530120	53	63	"Spokane County, WA"	Aug-10(p)	8.7	washington
+CN530650	53	65	"Stevens County, WA"	Aug-10(p)	10.7	washington
+PS530180	53	67	"Thurston County, WA"	Aug-10(p)	7.5	washington
+CN530690	53	69	"Wahkiakum County, WA"	Aug-10(p)	12.6	washington
+CN530710	53	71	"Walla Walla County, WA"	Aug-10(p)	6.8	washington
+PA530650	53	73	"Whatcom County, WA"	Aug-10(p)	8	washington
+CN530750	53	75	"Whitman County, WA"	Aug-10(p)	6.7	washington
+PS530170	53	77	"Yakima County, WA"	Aug-10(p)	8.9	washington
+CN540010	54	1	"Barbour County, WV"	Aug-10(p)	9.7	west virginia
+CN540030	54	3	"Berkeley County, WV"	Aug-10(p)	9.1	west virginia
+CN540050	54	5	"Boone County, WV"	Aug-10(p)	8.1	west virginia
+CN540070	54	7	"Braxton County, WV"	Aug-10(p)	9.4	west virginia
+CN540090	54	9	"Brooke County, WV"	Aug-10(p)	12.2	west virginia
+CN540110	54	11	"Cabell County, WV"	Aug-10(p)	8.4	west virginia
+CN540130	54	13	"Calhoun County, WV"	Aug-10(p)	12.4	west virginia
+CN540150	54	15	"Clay County, WV"	Aug-10(p)	15.1	west virginia
+CN540170	54	17	"Doddridge County, WV"	Aug-10(p)	7.8	west virginia
+PA540650	54	19	"Fayette County, WV"	Aug-10(p)	9	west virginia
+CN540210	54	21	"Gilmer County, WV"	Aug-10(p)	7.4	west virginia
+CN540230	54	23	"Grant County, WV"	Aug-10(p)	12.3	west virginia
+CN540250	54	25	"Greenbrier County, WV"	Aug-10(p)	8.3	west virginia
+CN540270	54	27	"Hampshire County, WV"	Aug-10(p)	9	west virginia
+CN540290	54	29	"Hancock County, WV"	Aug-10(p)	13.2	west virginia
+CN540310	54	31	"Hardy County, WV"	Aug-10(p)	9.6	west virginia
+PA540150	54	33	"Harrison County, WV"	Aug-10(p)	7.8	west virginia
+CN540350	54	35	"Jackson County, WV"	Aug-10(p)	12	west virginia
+CN540370	54	37	"Jefferson County, WV"	Aug-10(p)	6.9	west virginia
+CN540390	54	39	"Kanawha County, WV"	Aug-10(p)	7.8	west virginia
+CN540410	54	41	"Lewis County, WV"	Aug-10(p)	7.7	west virginia
+CN540430	54	43	"Lincoln County, WV"	Aug-10(p)	10.7	west virginia
+PA540700	54	45	"Logan County, WV"	Aug-10(p)	10.1	west virginia
+PA540350	54	47	"McDowell County, WV"	Aug-10(p)	13.1	west virginia
+PA540300	54	49	"Marion County, WV"	Aug-10(p)	7.5	west virginia
+CN540510	54	51	"Marshall County, WV"	Aug-10(p)	10.2	west virginia
+CN540530	54	53	"Mason County, WV"	Aug-10(p)	14	west virginia
+PA540400	54	55	"Mercer County, WV"	Aug-10(p)	8.2	west virginia
+CN540570	54	57	"Mineral County, WV"	Aug-10(p)	8.7	west virginia
+CN540590	54	59	"Mingo County, WV"	Aug-10(p)	11.1	west virginia
+PA540450	54	61	"Monongalia County, WV"	Aug-10(p)	5.7	west virginia
+CN540630	54	63	"Monroe County, WV"	Aug-10(p)	6.9	west virginia
+CN540650	54	65	"Morgan County, WV"	Aug-10(p)	9.1	west virginia
+CN540670	54	67	"Nicholas County, WV"	Aug-10(p)	10	west virginia
+PA540500	54	69	"Ohio County, WV"	Aug-10(p)	9.2	west virginia
+CN540710	54	71	"Pendleton County, WV"	Aug-10(p)	7.2	west virginia
+CN540730	54	73	"Pleasants County, WV"	Aug-10(p)	10.3	west virginia
+CN540750	54	75	"Pocahontas County, WV"	Aug-10(p)	11	west virginia
+CN540770	54	77	"Preston County, WV"	Aug-10(p)	7.5	west virginia
+CN540790	54	79	"Putnam County, WV"	Aug-10(p)	7.4	west virginia
+PA540550	54	81	"Raleigh County, WV"	Aug-10(p)	8.4	west virginia
+CN540830	54	83	"Randolph County, WV"	Aug-10(p)	9.9	west virginia
+CN540850	54	85	"Ritchie County, WV"	Aug-10(p)	9.3	west virginia
+CN540870	54	87	"Roane County, WV"	Aug-10(p)	12.9	west virginia
+CN540890	54	89	"Summers County, WV"	Aug-10(p)	9.4	west virginia
+CN540910	54	91	"Taylor County, WV"	Aug-10(p)	8	west virginia
+CN540930	54	93	"Tucker County, WV"	Aug-10(p)	13	west virginia
+CN540950	54	95	"Tyler County, WV"	Aug-10(p)	11.1	west virginia
+CN540970	54	97	"Upshur County, WV"	Aug-10(p)	8.7	west virginia
+CN540990	54	99	"Wayne County, WV"	Aug-10(p)	9.9	west virginia
+CN541010	54	101	"Webster County, WV"	Aug-10(p)	11.2	west virginia
+CN541030	54	103	"Wetzel County, WV"	Aug-10(p)	12.8	west virginia
+CN541050	54	105	"Wirt County, WV"	Aug-10(p)	10.8	west virginia
+PA540600	54	107	"Wood County, WV"	Aug-10(p)	9.6	west virginia
+CN541090	54	109	"Wyoming County, WV"	Aug-10(p)	11.5	west virginia
+CN550010	55	1	"Adams County, WI"	Aug-10(p)	9.2	wisconsin
+CN550030	55	3	"Ashland County, WI"	Aug-10(p)	8.9	wisconsin
+CN550050	55	5	"Barron County, WI"	Aug-10(p)	7.2	wisconsin
+CN550070	55	7	"Bayfield County, WI"	Aug-10(p)	8.1	wisconsin
+CN550090	55	9	"Brown County, WI"	Aug-10(p)	7	wisconsin
+CN550110	55	11	"Buffalo County, WI"	Aug-10(p)	5.5	wisconsin
+CN550130	55	13	"Burnett County, WI"	Aug-10(p)	9	wisconsin
+CN550150	55	15	"Calumet County, WI"	Aug-10(p)	6	wisconsin
+CN550170	55	17	"Chippewa County, WI"	Aug-10(p)	6.8	wisconsin
+CN550190	55	19	"Clark County, WI"	Aug-10(p)	8.7	wisconsin
+CN550210	55	21	"Columbia County, WI"	Aug-10(p)	7	wisconsin
+CN550230	55	23	"Crawford County, WI"	Aug-10(p)	8.6	wisconsin
+PS550050	55	25	"Dane County, WI"	Aug-10(p)	5.4	wisconsin
+PA550750	55	27	"Dodge County, WI"	Aug-10(p)	7.7	wisconsin
+CN550290	55	29	"Door County, WI"	Aug-10(p)	7.8	wisconsin
+CN550310	55	31	"Douglas County, WI"	Aug-10(p)	7.5	wisconsin
+CN550330	55	33	"Dunn County, WI"	Aug-10(p)	6.5	wisconsin
+CN550350	55	35	"Eau Claire County, WI"	Aug-10(p)	6.7	wisconsin
+CN550370	55	37	"Florence County, WI"	Aug-10(p)	9.2	wisconsin
+PA550500	55	39	"Fond du Lac County, WI"	Aug-10(p)	7.6	wisconsin
+CN550410	55	41	"Forest County, WI"	Aug-10(p)	9.1	wisconsin
+PA551300	55	43	"Grant County, WI"	Aug-10(p)	6.8	wisconsin
+CN550450	55	45	"Green County, WI"	Aug-10(p)	7.2	wisconsin
+CN550470	55	47	"Green Lake County, WI"	Aug-10(p)	7.7	wisconsin
+CN550490	55	49	"Iowa County, WI"	Aug-10(p)	6.2	wisconsin
+CN550510	55	51	"Iron County, WI"	Aug-10(p)	9.7	wisconsin
+CN550530	55	53	"Jackson County, WI"	Aug-10(p)	7.5	wisconsin
+PA550900	55	55	"Jefferson County, WI"	Aug-10(p)	8.2	wisconsin
+CN550570	55	57	"Juneau County, WI"	Aug-10(p)	8.7	wisconsin
+CN550590	55	59	"Kenosha County, WI"	Aug-10(p)	10.1	wisconsin
+CN550610	55	61	"Kewaunee County, WI"	Aug-10(p)	7.3	wisconsin
+CN550630	55	63	"La Crosse County, WI"	Aug-10(p)	6	wisconsin
+CN550650	55	65	"Lafayette County, WI"	Aug-10(p)	6.4	wisconsin
+CN550670	55	67	"Langlade County, WI"	Aug-10(p)	9	wisconsin
+CN550690	55	69	"Lincoln County, WI"	Aug-10(p)	9.8	wisconsin
+PA551050	55	71	"Manitowoc County, WI"	Aug-10(p)	7.9	wisconsin
+PS550100	55	73	"Marathon County, WI"	Aug-10(p)	8.2	wisconsin
+CN550750	55	75	"Marinette County, WI"	Aug-10(p)	9.9	wisconsin
+CN550770	55	77	"Marquette County, WI"	Aug-10(p)	8.8	wisconsin
+CN550780	55	78	"Menominee County, WI"	Aug-10(p)	20.3	wisconsin
+PS550150	55	79	"Milwaukee County, WI"	Aug-10(p)	9.6	wisconsin
+CN550810	55	81	"Monroe County, WI"	Aug-10(p)	6.4	wisconsin
+CN550830	55	83	"Oconto County, WI"	Aug-10(p)	8.3	wisconsin
+CN550850	55	85	"Oneida County, WI"	Aug-10(p)	8.2	wisconsin
+PS550250	55	87	"Outagamie County, WI"	Aug-10(p)	7.3	wisconsin
+PA550360	55	89	"Ozaukee County, WI"	Aug-10(p)	6.6	wisconsin
+CN550910	55	91	"Pepin County, WI"	Aug-10(p)	6.1	wisconsin
+CN550930	55	93	"Pierce County, WI"	Aug-10(p)	6.2	wisconsin
+CN550950	55	95	"Polk County, WI"	Aug-10(p)	8	wisconsin
+PA551100	55	97	"Portage County, WI"	Aug-10(p)	6.9	wisconsin
+CN550990	55	99	"Price County, WI"	Aug-10(p)	8.3	wisconsin
+CN551010	55	101	"Racine County, WI"	Aug-10(p)	9.4	wisconsin
+CN551030	55	103	"Richland County, WI"	Aug-10(p)	7	wisconsin
+PS550300	55	105	"Rock County, WI"	Aug-10(p)	10.2	wisconsin
+CN551070	55	107	"Rusk County, WI"	Aug-10(p)	10	wisconsin
+CN551090	55	109	"St. Croix County, WI"	Aug-10(p)	6.2	wisconsin
+CN551110	55	111	"Sauk County, WI"	Aug-10(p)	6.7	wisconsin
+CN551130	55	113	"Sawyer County, WI"	Aug-10(p)	8	wisconsin
+CN551150	55	115	"Shawano County, WI"	Aug-10(p)	8.3	wisconsin
+PA551150	55	117	"Sheboygan County, WI"	Aug-10(p)	7.7	wisconsin
+CN551190	55	119	"Taylor County, WI"	Aug-10(p)	8.6	wisconsin
+CN551210	55	121	"Trempealeau County, WI"	Aug-10(p)	6	wisconsin
+CN551230	55	123	"Vernon County, WI"	Aug-10(p)	6.8	wisconsin
+CN551250	55	125	"Vilas County, WI"	Aug-10(p)	7.6	wisconsin
+PA550600	55	127	"Walworth County, WI"	Aug-10(p)	7.9	wisconsin
+CN551290	55	129	"Washburn County, WI"	Aug-10(p)	8.3	wisconsin
+PA550370	55	131	"Washington County, WI"	Aug-10(p)	7	wisconsin
+CN551330	55	133	"Waukesha County, WI"	Aug-10(p)	6.9	wisconsin
+CN551350	55	135	"Waupaca County, WI"	Aug-10(p)	8	wisconsin
+CN551370	55	137	"Waushara County, WI"	Aug-10(p)	8.7	wisconsin
+CN551390	55	139	"Winnebago County, WI"	Aug-10(p)	6.9	wisconsin
+PA551200	55	141	"Wood County, WI"	Aug-10(p)	7.9	wisconsin
+CN560010	56	1	"Albany County, WY"	Aug-10(p)	5.2	wyoming
+CN560030	56	3	"Big Horn County, WY"	Aug-10(p)	7.1	wyoming
+CN560050	56	5	"Campbell County, WY"	Aug-10(p)	5.3	wyoming
+CN560070	56	7	"Carbon County, WY"	Aug-10(p)	6.6	wyoming
+CN560090	56	9	"Converse County, WY"	Aug-10(p)	5.6	wyoming
+CN560110	56	11	"Crook County, WY"	Aug-10(p)	5	wyoming
+CN560130	56	13	"Fremont County, WY"	Aug-10(p)	7.7	wyoming
+CN560150	56	15	"Goshen County, WY"	Aug-10(p)	6.3	wyoming
+CN560170	56	17	"Hot Springs County, WY"	Aug-10(p)	5.1	wyoming
+CN560190	56	19	"Johnson County, WY"	Aug-10(p)	7.3	wyoming
+PA560100	56	21	"Laramie County, WY"	Aug-10(p)	7.2	wyoming
+CN560230	56	23	"Lincoln County, WY"	Aug-10(p)	7.9	wyoming
+CN560250	56	25	"Natrona County, WY"	Aug-10(p)	7.2	wyoming
+CN560270	56	27	"Niobrara County, WY"	Aug-10(p)	5.3	wyoming
+CN560290	56	29	"Park County, WY"	Aug-10(p)	5.6	wyoming
+CN560310	56	31	"Platte County, WY"	Aug-10(p)	7	wyoming
+CN560330	56	33	"Sheridan County, WY"	Aug-10(p)	6.9	wyoming
+CN560350	56	35	"Sublette County, WY"	Aug-10(p)	4.1	wyoming
+CN560370	56	37	"Sweetwater County, WY"	Aug-10(p)	6.5	wyoming
+CN560390	56	39	"Teton County, WY"	Aug-10(p)	5.1	wyoming
+CN560410	56	41	"Uinta County, WY"	Aug-10(p)	6.5	wyoming
+CN560430	56	43	"Washakie County, WY"	Aug-10(p)	6.1	wyoming
+CN560450	56	45	"Weston County, WY"	Aug-10(p)	5.7	wyoming
