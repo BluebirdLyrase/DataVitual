@@ -7,20 +7,20 @@ library("plotly")
 setwd("C:/Users/pisit/Documents/GitHub/DataVitual/Lab-ch09-20200319")
 
 # Load data
-fertility <- read.csv("data/adol-fertility.csv", sep = ",", header = TRUE)
+covid_data <- read.csv("data/covid19_preprocessed.csv", sep = ",", header = TRUE)
 
 # Generate world map data
-world <- map_data("world")
-
+world_covid <- map_data("world")
+world_covid$Recovered = covid_data$Recovered[match(world_covid$region, covid_data$Country)]
 # Plot
 p <- ggplot() +
   # Plot map from world map data
-  geom_polygon(data=world, aes(x=long, y=lat, group=group), 
+  geom_polygon(data=world_covid, aes(aes(fill = TotalCases), group=group), 
                fill="#ffffff", color="#636363", size=0.15) +
   # Plot bubble from fertility (read from csv)
-  geom_point(data=fertility, aes(x=longitude, y=latitude, 
-                                 text=paste(country, "\n", "Rate: ", fert_rate)), 
-             size=sqrt(fertility$fert_rate)/5, color="#de2d26", alpha=0.5) +
+  geom_point(data=covid_data, aes(x=long, y=lat, 
+                                 text=paste(Country, "\n", "Rate: ", Recovered)), 
+             size=sqrt(covid_data$Recovered)/5, color="#de2d26", alpha=0.5) +
   # Show title
   labs(title="Adolescent fertility rate worldwide") +
   # Align title as center

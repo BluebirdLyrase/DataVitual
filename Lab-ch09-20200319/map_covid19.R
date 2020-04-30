@@ -3,9 +3,9 @@ library(tidyverse)
 library(dplyr)
 library(ggplot2)
 library(plotly)
-
+setwd("C:/Users/pisit/Documents/GitHub/DataVitual/Lab-ch09-20200319")
 # Load data
-covid_data <- read.csv("covid19_preprocessed.csv", sep = ",", header = TRUE)
+covid_data <- read.csv("data/covid19_preprocessed.csv", sep = ",", header = TRUE)
 
 # Load worldmap data
 world_covid <- map_data("world")

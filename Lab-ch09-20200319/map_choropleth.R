@@ -3,7 +3,7 @@ library("maps")
 library("plotly")
 
 # Set working directory
-setwd("/Users/por/Documents/PSU/Course/C_DV/Lab/ch09/")
+setwd("C:/Users/pisit/Documents/GitHub/DataVitual/Lab-ch09-20200319")
 
 # Load data
 unemp <- read.csv("data/unemployment.txt", sep = "\t", header = TRUE)
@@ -33,3 +33,4 @@ p <- map +
         axis.ticks=element_blank())
 
 ggplotly(p, tooltip="text")
+
